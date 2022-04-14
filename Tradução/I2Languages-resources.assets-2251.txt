@@ -2137,73 +2137,73 @@ Gallery Navigation
 Nawigacja po galerii
 Galerie-Navigation
 Navigation dans la galerie
-Navegación por la galería
+Navegação da galeria
 Esplorazione galleria
 Menu/Hints/HIDE_UI
 Hide UI
 Ukryj interfejs
 UI verbergen
-Ocultar la interfaz de usuario
+Ocultar a interface de usuario
 Nascondi IU
 Menu/Hints/MOVE_DOWN
 Down
 Runter
 Bas
-Abajo
+Abaixo
 Giù
 Menu/Hints/MOVE_LEFT
 Left
 W lewo
 Links
 Gauche
-Izquierda
+Esquerda
 Sinistra
 Menu/Hints/MOVE_RIGHT
 Right
 W prawo
 Rechts
 Droite
-Derecha
+Direita
 Destra
 Menu/Hints/MOVE_UP
 Up
 Hoch
 Haut
-Arriba
+Acima
 Su
 Menu/Hints/NAVIGATION
 Navigation
 Nawigacja
 Navigation
 Navigation
-Navegación
+Navegar
 Movimento
 Menu/Hints/NEXT
 Next
 Dalej
 Weiter
 Suivant
-Siguiente
+Próximo
 Avanti
 Menu/Hints/NO
 No
 Nie
 Nein
 Non
-No
+Não
 No
 Menu/Hints/PANNING
 Panning
 Przesuwanie kamery
 Schwenken
 Panorama
-Panorámica
+Panorama
 Panoramica
 Menu/Hints/POSTPROCESS
 Postprocess
 Nachverarbeitung
 Post-processing
-Postprocesado
+Pós-processamento
 Postprocessing
 Menu/Hints/PREVIOUS
 Previous
@@ -2217,61 +2217,61 @@ Rotation
 Obrót
 Drehen
 Rotation
-Rotación
+Girar
 Rotazione
 Menu/Hints/SELECTION
 Selection
 Wybór
 Auswahl
 Sélection
-Selección
+Selecionar
 Selezione
 Menu/Hints/TOGGLE_ANIMATION
 Pause Animation
 Pauzowanie animacji
 Animation pausieren
 Suspendre l'animation
-Pausar animación
+Pausar animação
 Metti in pausa l'animazione
 Menu/Hints/USE_KEYBOARD
 Use keyboard
 Tastatur verwenden
 Utiliser le clavier
-Usar el teclado
+Usar o teclado
 Usa la tastiera
 Menu/Hints/YES
 Yes
 Tak
 Ja
 Oui
-Sí
+Sim
 Sì
 Menu/Hints/ZOOM
 Zoom
 Zoom
 Zoom
-Ampliar
+Aproximar
 Zoom
 Menu/Leaderboard/GLOBAL_DATA
 Global data
 Dane globalne
 Globale Daten
 Données mondiales
-Datos globales
+Dados globais
 Dati globali
 Menu/Leaderboard/LOCAL_DATA
 Local data
 Dane lokalne
 Lokale Daten
 Données locales
-Datos locales
+Dados locais
 Dati locali
 Menu/Loading/LOADING
 Loading
 Wczytywanie
 Laden
 Chargement
-Cargando
+Carregando
 Caricamento in corso
 Menu/Main/BESTIARY
 Creature Library
@@ -2609,7 +2609,7 @@ Pauza
 Pause
 Pause
 Pause
-Pausa
+Pausar
 Pausa
 Menu/Options/Controls/PREVIOUS_WEAPON
 Previous weapon
@@ -2788,14 +2788,14 @@ Menu/Options/Gameplay/PERFORMANCE_MODE
 Performance mode
 Performance-Modus
 Mode de performance
-Modo de desempenho
+Modo desempenho
 Modalità Performance
 Menu/Options/Gameplay/PLAYER_COLOR
 Player color
 Kolor gracza
 Spielerfarbe
 Couleur du joueur
-Cor do jogador
+Cor da Mira
 Colore del giocatore
 Menu/Options/Gameplay/SCORE_NOTIFICATIONS_MODE
 Score notifications mode
@@ -3504,7 +3504,7 @@ Agent wyrobnik
 Durchschnittlicher Agent
 Agent moyen
 Average Agent
-Agente normal
+Agente Normal
 Agente comune
 Ranking/EXPERT_AGENT
 Expert Agent
@@ -3512,7 +3512,7 @@ Agent specjalista
 Experten-Agent
 Agent expert
 Expert Agent
-Agente especialista
+Agente Especialista
 Agente esperto
 Ranking/INSERT_YOUR_NAME
 Insert your name
@@ -3526,7 +3526,7 @@ Agent prowadzący
 Führender Agent
 Agent leader
 Leading Agent
-Agente líder
+Agente Líder
 Agente leader
 Ranking/MASTER_AGENT
 Master Agent
@@ -3534,7 +3534,7 @@ Agent mistrz
 Meister-Agent
 Agent maître
 Master Agent
-Agente mestre
+Agente Mestre
 Agente capo
 Ranking/PLACE_IN_RANKING
 ID
@@ -3551,7 +3551,7 @@ Player name
 Nazwa gracza
 Spielername
 Nom du joueur
-Nombre del jugador
+Nome do jogador
 Nome del giocatore
 Ranking/RANK
 Rank
@@ -3572,7 +3572,7 @@ Rookie Agent
 Anfänger-Agent
 Agent débutant
 Rookie Agent
-Agente novato
+Agente Novato
 Agente principiante
 Ranking/SPECIAL_AGENT
 Average Agent
@@ -3580,7 +3580,7 @@ Agent wyrobnik
 Durchschnittlicher Agent
 Agent moyen
 Average Agent
-Agente normal
+Agente Normal
 Agente comune
 Ranking/STANDARD_AGENT
 Standard Agent
@@ -3588,7 +3588,7 @@ Agent szeregowiec
 Standardagent
 Agent standard
 Standard Agent
-Agente estándar
+Agente Padrão
 Agente standard
 Ranking/TOP_AGENT
 Top Agent
@@ -3596,84 +3596,84 @@ Agent dowódca
 Spitzenagent
 Agent de haut niveau
 Top Agent
-Superagente
+Super Agente
 Agente superiore
 Stats/BodyParts/HAND_LEFT
 Left Hand
 Linke Hand
 Main gauche
-Mano izquierda
+Mão esquerda
 Mano sinistra
 Stats/BodyParts/HAND_RIGHT
 Right Hand
 Rechte Hand
 Main droite
-Mano derecha
+Mão direita
 Mano destra
 Stats/BodyParts/HEAD
 Head
 Kopf
 Tête
-Cabeza
+Cabeça
 Testa
 Stats/BodyParts/LEG_LEFT
 Left Leg
 Lewa noga
 Linkes Bein
 Jambe gauche
-Pierna izquierda
+Perna esquerda
 Gamba sinistra
 Stats/BodyParts/LEG_RIGHT
 Right Leg
 Prawa noga
 Rechtes Bein
 Jambe droite
-Pierna derecha
+Perna direita
 Gamba destra
 Stats/BodyParts/TORSO
 Torso
 Tors
 Torso
 Poitrine
-Torso
+Tronco
 Torace
 Stats/COLLECTABLES
 Collectables
 Sammelstücke
 Objets à collectionner
-Coleccionables
+Colecionáveis
 Collezionabili
 Stats/COMPLETED_CAMPAIGNS
 Completed campaigns
 Abgeschlossene Kampagnen
 Campagnes terminées
-Campañas completadas
+Campanhas concluídas
 Campagne completate
 Stats/Collectables/GOLDEN_FROG
 Golden frog
 Goldener Frosch
 Grenouille dorée
-Rana dorada
+Sapo Dourado
 Rana d'oro
 Stats/Collectables/GOLD_COIN
 Gold coin
 Goldmünze
 Pièce dorée
-Moneda de oro
+Moneda de ouro
 Gettone d'oro
 Stats/Collectables/MED_KIT
 First aid kit
 Apteczka pierwszej pomocy
 Erste-Hilfe-Kasten
 Kit de premiers secours
-Botiquín de primeros auxilios
+Kit de primeiros socorros
 Kit di pronto soccorso
 Stats/DESTROYED_ENVIRO_OBJECTS
 Destroyed enviro objects
 Zniszczone elementy otoczenia
 Zerstörte Umgebungsobjekte
 Objets environnants détruits
-Objetos del escenario destruidos
+Objetos do senario destruídos
 Oggetti ambientali distrutti
 Stats/FAVORITE_WEAPON
 Favorite weapon
@@ -3685,98 +3685,98 @@ Stats/FINISHED_GAMES
 Finished games
 Beendete Spiele
 Parties terminées
-Partidas terminadas
+Jogos concluídos
 Partite terminate
 Stats/GAME_TIMES
 Game times
 Czasy gier
 Spielzeiten
 Temps de jeu
-Tiempos de juego
+Tempos de jogo
 Ore di gioco
 Stats/HIGHSCORE
 Highscore
 Najlepsze wyniki
 Bestes Ergebnis
 Meilleur score
-Máxima puntuación
+Pontuação máxima
 Record
 Stats/KILLED_OPPONENTS
 Killed Opponents
 Zabici przeciwnicy
 Getötete Gegner
 Adversaires tués
-Oponentes muertos
+Oponentes mortos
 Avversari uccisi
 Stats/PLAYER_DEATHS
 Player Deaths
 Spielertode
 Morts joueur
-Muertes del jugador
+Mortes de jogadores
 Morti del giocatore
 Stats/PLAYER_DISTANCE
 Player Distance
 Spielerdistanz
 Distance joueur
-Distancia del jugador
+Distância do jogador
 Distanza coperta dal giocatore
 Stats/PLAYER_SHOTS
 Player Shots
 Liczba oddanych strzałów
 Spielerschüsse
 Tirs joueur
-Disparos del jugador
+Disparos do jogador
 Colpi sparati dal giocatore
 Stats/RESCUED_KILLED_SCIENTISTS
 Rescued/Killed Scientists
 Uratowani/zabici naukowcy
 Gerettete/Getötete Wissenschaftler
 Scientifiques sauvés/tués
-Científicos rescatados/asesinados
+Cientistas resgatados/mortos
 Scienziati salvati/uccisi
 Stats/SCIENTISTS_KILLED_BY_ENEMY
 Killed by enemy
 Zabici przez wrogów
 Durch Gegner getötet
-Asesinados por el enemigo
+Morto pelo inimigo
 Uccisi dai nemici
 Stats/SCIENTISTS_KILLED_BY_PLAYER
 Killed by player
 Zabici przez gracza
 Durch Spieler getötet
 Tués par le joueur
-Asesinados por el jugador
+Morto pelo jogador
 Uccisi dal giocatore
 Stats/SCIENTISTS_RESCUED
 Rescued
 Uratowani
 Gerettet
 Sauvés
-Rescatados
+Resgatados
 Salvati
 Stats/SHOOTED_OFF_BODY_PARTS
 Shot off body parts
 Abgeschossene Körperteile
 Parties du corps touchées
-Partes del cuerpo alcanzadas
+Partes do corpo atingidas
 Parti del corpo distrutte
 Stats/SHOT_EFFECTIVENESS
 Shot Effectiveness
 Schusseffektivität
 Efficacité des tirs
-Eficacia de los disparos
+Eficiência dos Tiros
 Colpi andati a segno
 Stats/TIME_PER_BOSS
 Time per boss
 Zeit pro Boss
 Temps par boss
-Tiempo por jefe
+Tempo por chefe
 Tempo per boss
 Stats/TIME_PER_LEVEL
 Time per level
 Zeit pro Level
 Temps par niveau
-Tiempo por nivel
+Tempo por nível
 Tempo per livello
 Stats/TOTAL
 Total
@@ -3789,53 +3789,53 @@ Traveled distance
 Przebyta droga
 Zurückgelegte Distanz
 Distance parcourue
-Distancia recorrida
+Distância recorrida
 Distanza percorsa
 Stats/Times/FASTEST_GAME_ON_ARCADE
 Fastest game on Arcade
 Najkrótsza gra w trybie Arcade
 Schnellstes Spiel im Arcade-Modus
 Partie la plus rapide mode Arcade
-Partida más rápida en modo Arcade
+Jogo mais rápido no modo Arcade
 Partita più veloce in modalità Arcade
 Stats/Times/FASTEST_GAME_ON_EASY
 Fastest game on easy
 Schnellstes Spiel auf Einfach
 Partie la plus rapide mode facile
-Partida más rápida en modo fácil
+Jogo mais rápido no modo fácil
 Partita più veloce in modalità facile
 Stats/Times/FASTEST_GAME_ON_HARD
 Fastest game on hard
 Najkrótsza gra na trudnym poziomie trudności
 Schnellstes Spiel auf Schwer
 Partie la plus rapide mode difficile
-Partida más rápida en modo difícil
+Jogo mais rápido no modo difícil
 Partita più veloce in modalità difficile
 Stats/Times/FASTEST_GAME_ON_NORMAL
 Fastest game on normal
 Najkrótsza gra na standardowym poziomie trudności
 Schnellstes Spiel auf Normal
 Partie la plus rapide mode normal
-Partida más rápida en modo normal
+Jogo mais rápido no modo normal
 Partita più veloce in modalità normale
 Stats/Times/TOTAL_TIME_IN_GAME
 Total time in game
 Gesamtzeit im Spiel
 Temps de jeu total
-Tiempo total de juego
+Tempo total de jogo
 Durata totale partita
 Stats/UNLOCKED_PATHS
 Unlocked paths
 Freigeschaltete Wege
 Cheminements débloqués
-Caminos desbloqueados
+Caminhos desbloqueados
 Percorsi sbloccati
 Stats/USED_CONTINUES
 Used continues
 Wykorzystane kontynuacje
 Verwendete Fortsetzungen
 Continus utilisés
-Traços usados
+Continue usados
 Continua utilizzati
 Stats/VALUE
 Value
@@ -3911,7 +3911,7 @@ Congratulations!
 Gratulacje!
 Glückwunsch!
 Félicitations !
-Congratulations!
+Parabéns!
 ¡Enhorabuena!
 Congratulazioni!
 Tutorial/Title/BESTIARY_TIP
@@ -3919,71 +3919,71 @@ Welcome to Creature Library!
 Witaj w księdze kreatur!
 Willkommen in der Kreaturensammlung.
 Bienvenue dans la bibliothèque des créatures !
-¡Te damos la bienvenida a la biblioteca de las criaturas!
+Bem-vindo à biblioteca de criaturas!
 Ti presentiamo l'archivio delle creature!
 Tutorial/Title/CHARACTER_SELECTION_TIP
 Here you can select your favourite AMS Agent.
 Hier kannst du deinen AMS-Lieblingsagenten auswählen.
-Aquí podrás elegir a tu agente favorito de la AMS.
+Aqui você pode escolher seu agente AMS favorito.
 Qui puoi selezionare il tuo agente dell'AMS preferito.
 Tutorial/Title/DEFAULT_TIP_TITLE
 You should know this:
 Wichtige Hinweise:
 Bon à savoir :
-Deberías saber esto:
+Você deve saber disso:
 Presta attenzione:
 Tutorial/Title/MULTIPLAYER_TIP
 What is better than killing Creatures?
 Co jest lepsze niż zabijanie kreatur?
 Was könnte besser sein, als Kreaturen zu killen?
 Quoi de mieux que de tuer des créatures ?
-¿Hay algo mejor que matar a esas odiosas criaturas?
+Existe algo melhor do que matar essas criaturas odiosas?
 Cosa c'è di meglio che uccidere creature?
 Tutorial/Title/NEW_GAME_TIP
 Welcome in The House of the Dead:Remake!
 Witaj w The House of the Dead:Remake!
 Willkommen bei The House of the Dead: Remake!
 Bienvenue dans The House of the Dead:Remake !
-¡Te damos la bienvenida a The House Of The Dead: Remake!
+Bem-vindo ao The House Of The Dead: Remake!
 Ti diamo il benvenuto su The House of the Dead: Remake!
 Tutorial/Title/STATS_TIP
 Welcome to Stats Menu!
 Witamy w menu statystyk!
 Willkommen im Statistikmenü.
 Bienvenue dans le menu des statistiques !
-¡Te damos la bienvenida al menú de estadísticas!
+Bem-vindo ao menu de estatísticas!
 Questo è il menu delle statistiche!
 Tutorial/Video/GAME_IS_OVER
 Game is over when all life torches are out!
 DAS SPIEL IST VORBEI, WENN ALLE LEBENSFACKELN ERLOSCHEN SIND
 LA PARTIE SE TERMINE LORSQUE TOUTES LES TORCHES DE VIE SONT ÉTEINTES
-EL JUEGO SE ACABA CUANDO PIERDES TODAS LAS ANTORCHAS DE VIDA
+ACABA O JOGO QUANDO VOCÊ PERDE TODAS AS FICHAS DA VIDA
 IL GIOCO TERMINA QUANDO TUTTE LE TORCE DELLA VITA SONO SPENTE
 Tutorial/Video/LIFE_TORCH
 Watch out for misshooting scientists!
 Achte darauf, die Wissenschaftler nicht zu erschießen!
 ATTENTION AUX SCIENTIFIQUES !
-¡Cuidado con disparar a los científicos!
+Tenha cuidado para não atirar nos cientistas!
 Fai attenzione agli scienziati dalla pessima mira!
 Tutorial/Video/SHOT_THE_DEAD
 Shoot the dead attacking you!
 SCHIESSE AUF DIE TOTEN, DIE DICH ANGREIFEN
 TIREZ SUR LES MORTS QUI VOUS ATTAQUENT
-DISPARA A LOS MUERTOS QUE TE ATACAN
+ATIRE NOS MORTOS QUE TE ATACAM
 SPARA AI MORTI CHE TI ATTACCANO
 UI/AMMO
 Ammo
 Amunicja
 Munition
 Munitions
-Munición
+Munição
 Munizioni
 UI/Cutscene/DEFAULT_SKIP_BUTTON
 Shoot
 Schießen
 Tirer
 Shoot
-Disparar
+Atirar
 Spara
 UI/Cutscene/HOLD_TO_SKIP_PART1
 Hold
@@ -4012,14 +4012,14 @@ Health
 Gesundheit
 Santé
 Health
-Salud
+Vida
 Salute
 UI/LIFE_BONUS
 Life Bonus
 Lebensbonus
 Bonus de vie
 Life Bonus
-Bonificación de vidas
+Bônus de vida
 Bonus vita
 UI/LIFE_UP
 Life up
@@ -4034,7 +4034,7 @@ Jeszcze niegotowy
 Nicht bereit
 Pas prêt
 Not Ready
-No está listo
+não está pronto
 Non pronto
 UI/PLAYER
 Player
@@ -4042,14 +4042,14 @@ Gracz
 Spieler
 Joueur
 Player
-Jugador
+Jogador
 Giocatore
 UI/PRESS_SHOOT_WHEN_READY
 Press SHOOT when ready
 Drücken Sie auf SCHIESSE, wenn Sie bereit sind
 Appuyez sur TIREZ À lorsque vous êtes prêt
 Press SHOOT when ready
-Pressione ATIRAR quando estiver pronto
+ATIRE quando estiver pronto
 Premi SPARA quando sei pronto
 UI/READY
 Ready
@@ -4057,7 +4057,7 @@ Gotowy
 Bereit
 Prêt
 Ready
-Listo
+Pronto
 Pronto
 UI/RESCUED
 Rescued
@@ -4065,7 +4065,7 @@ Uratowani
 Gerettet
 Sauvés
 Rescued
-Rescatados
+Resgatado
 Salvati
 UI/SCORE
 Score
@@ -4073,7 +4073,7 @@ Punkty
 Punktzahl
 Score
 Score
-Puntuación
+Pontuação
 Punteggio
 Weapon/ARMORY
 Armory
@@ -4087,54 +4087,54 @@ Assault rifle
 Karabin maszynowy
 Sturmgewehr
 Fusil d'assaut
-Rifle de asalto
+Rifle de assalto
 Fucile d'assalto
 Weapon/CROSSBOW
 Crossbow
 Kusza
 Armbrust
 Arbalète
-Ballesta
+Besta
 Balestra
 Weapon/Description/ASSAULT_RIFLE
 Powerful assault rifle used by AMS in most difficult cases. Don't open your fire for too long, as it may be too difficult to handle!
 Durchschlagkräftiges Sturmgewehr für die schwersten AMS-Einsätze. Halte den Finger nicht zu lange am Abzug, es könnte sonst schwierig werden.
-Un potente rifle de asalto usado por la AMS en los casos más difíciles. ¡No dispares demasiadas ráfagas seguidas, porque puede ser muy difícil de controlar!
+Um poderoso fuzil de assalto usado pela AMS nos casos mais difíceis. Não dispare muitas rajadas seguidas, porque pode ser muito difícil de controlar!
 Potente fucile d'assalto usato dall'AMS nei casi più difficili.  Non usarlo molto a lungo, potrebbe essere troppo difficile da gestire!
 Weapon/Description/CROSSBOW
 In experienced Agent hands Crossbow is the most powerful weapon against bosses.
 In den Händen erfahrener Agenten ist die Armbrust die wohl mächtigste Waffe gegen Bosse.
-En manos de los agentes experimentados, la ballesta es el arma más potente contra los jefes.
+Nas mãos de agentes experientes, a besta é a arma mais poderosa contra chefes.
 Nelle mani di agenti esperti, la balestra è l'arma più potente contro i boss.
 Weapon/Description/GRENADE_LAUNCHER
 Internally called "Blood Bath Generator". Unbeatable for those, that prefer to speed-run their missions.
 Spitzname ""Blutbad-Generator"". Optimal für alle Speedrunner.
 Surnommée le Bain de sang, cette arme est parfaite pour ceux qui veulent transformer chaque mission en speedrun.
-Se le llama internamente «Generadora de baños de sangre». Es la mejor para todos aquellos que prefieren completar sus misiones a toda velocidad.
+Ela é chamada internamente de "Gerador de Banho de Sangue". esta arma é perfeita para quem quer transformar cada missão em um speedrun.
 Per gli amici "Generatore di bagni di sangue". Imbattibile per chi preferisce velocizzare le missioni.
 Weapon/Description/LOCKED
 You haven't found this item yet.
 Du hast diesen Gegenstand noch nicht gefunden.
 Vous n'avez pas encore trouvé cet objet.
-Todavía no has encontrado este objeto.
+Você ainda não encontrou este item.
 Non hai ancora trovato questo oggetto.
 Weapon/Description/PISTOL
 Regular AMS Agent weapon - simple, yet effective.
 Standardowa broń Agenta AMS - prosta i zarazem skuteczna.
 Standardwaffe der AMS-Agenten. Einfach und effektiv.
-El arma reglamentaria de los agentes de la AMS: simple, pero efectiva.
+A arma regular dos agentes da AMS: simples, mas eficaz.
 Arma standard degli agenti dell'AMS: semplice ma efficace.
 Weapon/Description/STAKEGUN
 This experimental weapon was created against vampires, but was finally rejected by AMS because Agents started to kill for fun...
 Diese experimentelle Waffe wurde für den Kampf gegen Vampire entwickelt. Sie wurde zurückgezogen, weil die AMS-Agenten damit zu viel Spaß beim Töten hatten.
-Esta arma experimental fue creada para luchar contra los vampiros, pero la AMS la rechazó finalmente porque los agentes empezaron a usarla para matar por diversión...
+Esta arma experimental foi criada para combater vampiros, mas a AMS acabou por rejeitá-la porque os agentes começaram a usá-la para matar por diversão...
 Quest'arma sperimentale è stata progettata per combattere i vampiri, ma alla fine è stata scartata dall'AMS perché gli agenti avevano iniziato a uccidere per divertimento…
 Weapon/GRENADE_LAUNCHER
 Grenade launcher
 Granatnik
 Granatwerfer
 Lance-grenades
-Lanzagranadas
+Lança granadas
 Lanciagranate
 Weapon/PISTOL
 Gun
@@ -4148,24 +4148,24 @@ Pitter
 Pfähler
 Pistolet à pieux
 Taladradora
-Pistola lanciadardi
+Arma de dardo
 Achievements/Descriptions/THIRD_ENDING
 Finish the game with the final score below 62,000 and the last score digit equal to zero
 Beende das Spiel mit einer Gesamtpunktzahl unter 62.000, wobei die letzte Ziffer eine Null sein muss.
 Finis le jeu avec un score final inférieur 62 000 qui se finit par un zéro
-Termina el juego con una puntuación inferior a 62 000 y que el último dígito de la puntuación sea un cero
+Termine o jogo com uma pontuação inferior a 62.000 e o último dígito da pontuação é zero
 Termina il gioco con un punteggio totale inferiore a 62.000 con l'ultima cifra uguale a zero
 Achievements/Descriptions/NORMAL_ENDING
 Finish the game with the final score below 62,000 and the last score digit not equal to zero
 Beende das Spiel mit einer Gesamtpunktzahl unter 62.000, wobei die letzte Ziffer keine Null sein darf.
 Finis le jeu avec un score final inférieur 62 000 qui se finit par tout SAUF un zéro
-Termina el juego con una puntuación inferior a 62 000 y que el último dígito de la puntuación no sea un cero
+Termine o jogo com uma pontuação inferior a 62.000 e o último dígito da pontuação não seja zero
 Termina il gioco con un punteggio totale inferiore a 62.000 con l'ultima cifra diversa da zero
 Menu/Options/Controls/CENTER_CROSSHAIR
 "Center crosshair	"
 Fadenkreuz in der Mitte
 réticule central
-Punto de mira central
+Centro da mira
 Centro mirino
 Menu/Options/Gameplay/AUTOMATIC_RELOAD
 Automatic reload
@@ -4178,44 +4178,44 @@ Menu/Hints/SUBMIT
 Confirm the agent's name
 Bestätige den Namen
 Confirmer le nom de l'agent
-Confirma el nombre del agente
+Confirme o nome do agente
 Conferma il nome dell'agente
 Popups/Xbox/EngagedControllerDisconected/PLEASE_RECONNECT
 Please reconnect controller to continue or assign new one.
 Stellen Sie die Verbindung zum Controller bitte wieder her, um fortzufahren.
 Veuillez reconnecter la manette pour continuer.
-Vuelva a conectar el controlador para continuar.
+Reconecte o controle para continuar.
 Ricollegare il controller per continuare.
 Popups/Xbox/UserDisconnected/PLEASE_RECONNECT
 Please sign in again to continue playing.
 Bitte melde dich erneut an, um das Spiel fortzusetzen.
 Reconnectez-vous pour continuer à jouer
-Vuelve a iniciar sesión para seguir jugando.
+Faça login novamente para continuar jogando.
 Accedi nuovamente per continuare a giocare.
 Popups/Xbox/UserDisconnected/SIGNED_OUT
 You have been signed out.
 Du wurdest abgemeldet.
 Vous avez été déconnecté(e).
-Has cerrado sesión.
+Você deslogou.
 La sessione è stata terminata.
 Achievement/Xbox/ACHIEVEMENTS
 Achievements
 Erfolg
 Succès
-Logros
+Conquistas
 Obiettivo
 Popups/ControllerDisconnected/DO_YOU_WANT_TO_REASSIGN_CONTROLLER
 Do you want to reassign a controller?
 Czy chcesz zmienić przypisany kontroler?
 Möchten Sie einen Controller neu zuweisen?
 Voulez-vous réaffecter un contrôleur ?
-¿Quieres reasignar un controlador?
+Deseja reatribuir um controle?
 Vuoi riassegnare un controller?
 Menu/Options/Gameplay/CROSSHAIR_SHADOW_OPACITY
 Crosshair shadow opacity
 Fadenkreuz-Schattendeckkraft
 Opacité de l'ombre du réticule
-Opacidad de la sombra en forma de cruz
+Opacidade da sombra da mira
 Opacità dell'ombra del mirino
 Menu/Options/Controls/STADIA_INPUT_DISCLAIMER
 No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners.
