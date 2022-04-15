@@ -588,179 +588,179 @@ Bestiary/Description/CHARIOT
 a bloodied bardiche. Chariot's weak point is the exposed right side of his breastplate; with each shot, he vomits green fluids. At low heath, Chariot sheds the armor to reveal his true form: 
 a slow-moving, weak, rotting humanoid with pulsating tendrils. Chunks of his flesh may be blasted down to bone, thus killing Chariot."
 Typ 27, Codename "Panzerschrank", ist ein wahrer Gigant, der mit einer Berdysch angreift. Die humanoide Gestalt verbirgt sich unter einer schweren Metallrüstung und einer Gasmaske. Der schwerfällige Riese hält eine blutige Berdysch in den Händen. Panzerschranks Schwachstelle ist der bloßgelegte Bereich rechts am Brustpanzer. Bei jedem Schuss speit er grüne Galle. Bei niedriger Gesundheit wirft Panzerschrank die Rüstung ab und offenbart seine wahre Form: ein langsamer, schwacher, hinfälliger Humanoid mit pulsierenden Tentakeln. Du kannst ihm das Fleisch von den Knochen schießen und ihn auf diese Weise töten.
-Clase-27, nombre en clave «Chariot», era un gigante acorazado armado con una alabarda. Chariot es un gigantesco humanoide con una máscara de gas ataviado con una armadura metálica. Le gusta mutilar a sus oponentes con una alabarda ensangrentada. El punto débil de Chariot es el lado derecho expuerto de su coraza; con cada disparo vomitará fluidos de color verde. Cuando le quede poca salud, Chariot se quitará la armadura para mostrar su verdadera forma: un humanoide lento, débil y putrefacto con unos palpitantes tentáculos. Es posible arrancarle trozos de carne hasta llegar al hueso, acabando finalmente con Chariot.
+Classe-27, apelido "Chariot", um gigante blindado armado com Alabarda. Chariot é um humanóide gigantesco, mascarado, vestido com uma armadura metálica. Ele gosta de mutilar seus inimigos com uma alabarda sangrenta. O ponto fraco de Chariot é o lado direito exposto de sua armadura; em cada tiro ele vai vomitar fluidos de cor verde. Quando estiver com pouca saúde, Chariot tirará sua armadura para revelar sua verdadeira forma: um humanoide lento, fraco e apodrecido com tentáculos pulsantes. É possível arrancar pedaços de carne dele até o osso, matando Chariot.
 Tipo 27, nome in codice "Armatore", un colosso corazzato e armato di berdica. L'Armatore è un enorme umanoide che indossa una maschera antigas e un'armatura di metallo.  Mutila i suoi avversari con una berdica insanguinata. Il punto debole dell'Armatore è il lato destro del suo pettorale, esposto; ogni volta che viene colpito lì vomita fluidi verdi. Quando sta per morire, l'Armatore si libera dell'armatura e rivela la sua vera forma: un umanoide in decomposizione, debole e lento, con tentacoli pulsanti. Puoi far esplodere i pezzi della sua carne fino all'osso, uccidendolo.
 Bestiary/Description/CYRIL
 A creature that wields axes in both hands. He’s a very vigilant opponent – when he sees an enemy, he immediately attacks from the distance by throwing the axes. In close quarters, he swings the axes to hack and slash his enemies. You can shoot down flying axes to avoid getting damage.
 Diese Kreatur hat in jeder Hand eine Axt. Er ist überaus aufmerksam. Wenn er einen Feind entdeckt, greift er sofort aus der Ferne mit seinen Wurfäxten an. Im Nahkampf schlägt er mit den Äxten auf den Gegner ein. Du kannst geworfene Äxte abschießen, um Treffer zu vermeiden.
-Una criatura que lleva hachas en ambas manos. Es un oponente que siempre está en guardia: cuando ve a un enemigo, ataca inmediatamente desde lo lejor lanzando las hachas. A corta distancia, mueve las hachas para cortar y mutilar a sus enemigos. Puedes disparar a las hachas para impedir que te hagan daño.
+Uma criatura que carrega machados em ambas as mãos. Ele é um inimigo que está sempre em guarda: quando vê um inimigo, ele imediatamente ataca de longe jogando seus machados. De perto, ele balança seus machados para cortar e mutilar seus inimigos. Você pode atirar nos machados para evitar que eles o machuquem.
 Una creatura che brandisce un'ascia in ogni mano. È un avversario molto vigile: quando vede un nemico, attacca immediatamente a distanza lanciando le sue asce. Nello scontro ravvicinato fa roteare le asce per fare a pezzi e squartare i nemici. Puoi abbattere le asce volanti per evitare di subire danni.
 Bestiary/Description/DEVILON
 This creature was created from a bat. It often hangs upside down in dark rooms and if it sees you, it launches an attack. Its main attack pattern is charging at the player. Its presence will be increased during the fight with the boss in the second stage.
 Diese Kreatur wurde aus einer Fledermaus geschaffen. Oft hängt er in dunklen Räumen an der Decke. Sobald er dich bemerkt, greift er an. Hauptangriff: Direkter Angriff. Während des Bosskampfes im zweiten Level tritt er in großer Zahl auf.
 Élaborée à partir d’une chauve-souris, elle est souvent pendue tête en bas dans des lieux sombres. Quand elle repère un ennemi, elle attaque. Son mouvement fétiche, c’est de charger ses proies. Il faudra faire face à une nuée de ces monstres lors du combat contre le boss du deuxième chapitre.
-Esta criatura fue creada a partir de un murciélago. A menudo cuelga bocabajo en las salas oscuras y, si te ve, atacará. Su patrón de ataque principal es cargar hacia el jugador. Su presencia aumentará durante la lucha con el jefe del segundo nivel.
+Esta criatura foi criada a partir de um morcego. Muitas vezes fica pendurado de cabeça para baixo em salas escuras e atacará se o vir. Seu movimento favorito é atacar sua presa. Você terá que enfrentar um enxame desses monstros durante a luta contra o chefe do segundo capítulo.
 Questa creatura è stata ottenuta a partire da un pipistrello. Spesso se ne sta appesa a testa in giù nelle stanze buie, e se ti vede parte all'attacco. Il suo schema di attacco tipico è saltare addosso al giocatore. La presenza di questo tipo di creatura aumenterà durante lo scontro con il boss nel secondo quadro.
 Bestiary/Description/DRAKE
 Diese Kreatur sieht aus wie Rubin. Er ist flink und setzt Messer ein. Seine Angriffe sind schnell. Er kann dich überraschen und seine Messer werfen. Oft arbeitet er mit Rubin zusammen und folgt einem ähnlichen Angriffsmuster. Wenn er die Messer verloren hat, stürzt er sich auf den Spieler.
 Cette créature semblable à Rubin est tout aussi agile, mais utilise comme arme des couteaux. Ses attaques sont rapides et elle peut surprendre ses adversaires en leur lançant des couteaux. Elle fait souvent équipe avec Rubin, qui attaque à peu près de la même façon. Quand elle est désarmée, elle se met alors à charger en direction de son ennemi.
-Una criatura que se parece mucho a Rubin. También es ágil, pero usa cuchillos. Sus ataques son rápidos, y podrá pillarte por sorpresa y lanzarte un cuchillo. A menudo aparece junto a Rubin y su patrón de ataque es similar. Si pierde sus cuchillos, correrá hacia el jugador.
+Uma criatura que se parece muito com Rubin. Ele também é ágil, mas usa facas. Seus ataques são rápidos, e ele será capaz de te pegar de surpresa e atirar uma faca em você. Ele geralmente aparece ao lado de Rubin e seu ataque favorito é semelhante. Se ele perder suas facas, correrá em direção ao inimigo.
 Una creatura che assomiglia a Rubin. Anche lui è agile, ma usa i coltelli. I suoi attacchi sono rapidi e può coglierti di sorpresa e lanciarti un coltello. Fa spesso coppia con Rubin e il suo schema di attacco è simile. Se perde i suoi coltelli, corre verso il giocatore.
 Bestiary/Description/EBITAN_A
 A hideous creature covered in mud and rotten flesh. Since he usually resides in water, his body is in advanced decay. He walks and suddenly jumps on the enemy or unexpectedly emerges from the water and attacks victims passing by. Since he’s agile, you need to stay vigilant in the places where he can hide. His main attack is bite.
 Eine ekelhafte Kreatur, die über und über mit Schlamm und fauligem Fleisch bedeckt ist. Da er sich häufig im Wasser aufhält, ist der Verwesungsprozess bei ihm weit fortgeschritten. Er springt sein Opfer aus dem Hinterhalt an oder taucht aus dem Wasser auf. Aufgrund seiner Beweglichkeit musst du an seinen bevorzugten Aufenthaltsorten besonders wachsam sein. Hauptangriff: Biss.
-Una criatura espantosa cubierta de musgo y carne podrida. Debido a que suele vivir en el agua, su cuerpo está en un nivel avanzado de descomposición. Camina y salta sobre sus enemigos de repente, o sale inesperadamente del agua y ataca a las víctimas que pasan cerca. Es bastante ágil, así que debes estar alerta en los lugares en los que puede esconderse. Su ataque principal es el mordisco.
+Uma criatura medonha coberta de musgo e carne podre. Como ele costuma viver na água, seu corpo está em estágio avançado de decomposição. Ele anda e pula em seus inimigos de repente, ou sai da água inesperadamente e ataca as vítimas que passam. Ele é bastante ágil, então você deve ficar atento a lugares onde ele possa se esconder. Seu principal ataque é a mordida.
 Una creatura orrenda, ricoperta di fango e carne putrefatta. Di solito vive in acqua, perciò il suo corpo è in uno stadio di decomposizione avanzato. Cammina e all'improvviso balza sul nemico o emerge dall'acqua e attacca le vittime di passaggio. È agile, quindi stai in guardia quando visiti i posti in cui potrebbe nascondersi. Attacca principalmente mordendo.
 Bestiary/Description/EBITAN_B
 A creature which lower half of the body completely decomposed and fell off. He hangs upside-down and waits for its victims. To defeat him you need a keen eye and good reflexes. He often appears in narrow passages.
 Der Unterleib dieser Kreatur ist bereits völlig verwest und deshalb abgefallen. Er lässt sich von der Decke herabhängen und lauert auf seine Opfer. Nur mit einem scharfen Auge und schnellen Reflexen kannst du ihn besiegen. Oft versteckt er sich in engen Gängen.
 Il y a bien longtemps que cette créature a perdu ses jambes sous l’effet de la décomposition. À présent, elle attend ses victimes pendue la tête en bas. Pour la terrasser, il faut un œil de lynx et des réflexes rapides. Elle aime souvent guetter ses proies dans des passages étroits.
-Una criatura con la parte inferior de su cuerpo completamente descompuesta y desprendida. Cuelga bocabajo y espera a sus víctimas. Para derrotarlo, necesitarás estar ojo avizor y tener buenos reflejos. A menudo aparece en pasajes estrechos.
+Uma criatura com a parte inferior do corpo completamente decomposta e separada. Ele fica pendurado de cabeça para baixo e espera por suas vítimas. Para derrotá-lo, você precisará estar atento e ter bons reflexos. Muitas vezes aparece em passagens estreitas.
 Una creatura la cui metà inferiore del corpo si è completamente decomposta e staccata. Se ne sta appeso a testa in giù, in attesa delle sue vittime. Per sconfiggerlo avrai bisogno di tenere gli occhi aperti e avere buoni riflessi. Spesso appare nei passaggi stretti.
 Bestiary/Description/EBITAN_C
 A slimy, slow, decaying creature. His stature makes him an easy target, making him a minor threat. It can be found mainly in humid places without access to the sun, such as sewers.
 Eine schleimige, langsame und sich zersetzende Kreatur. Seine Größe macht ihn zu einem leichten Ziel, sodass er keine große Gefahr darstellt. Er ist hauptsächlich an feuchten Orten ohne Sonnenlicht anzutreffen, zum Beispiel in Abwasserkanälen.
 Une créature en décomposition lente et visqueuse. Sa stature en fait une cible parfaite qui ne devrait poser que peu de problèmes. On la trouve surtout dans les lieux humides et sombres, comme les égouts.
-Una criatura viscosa, lenta y en descomposición. Su estatura le convierte en un blanco perfecto, por lo que no supone una gran amenaza. Se le encuentra principalmente en zonas húmedas sin acceso al sol, como las alcantarillas.
+Uma criatura viscosa, lenta e em decomposição. Sua altura o torna um alvo perfeito, então ele não representa uma grande ameaça. É encontrado principalmente em áreas úmidas sem acesso ao sol, como esgotos.
 Una creatura viscida, lenta e in decomposizione. La sua statura lo rende un facile bersaglio, facendone una minaccia minore. Si trova principalmente in luoghi umidi non esposti al sole, come le fogne.
 Bestiary/Description/GILMORE
 A creature with a large sledgehammer which crushes its victims mercilessly. He’s slow, so you can take him down last. In order to deal with him quickly, you need to shoot him in the hand in which he holds the hammer or in the head.
 Diese Kreatur zertrümmert ihre Opfer gnadenlos mit einem riesigen Vorschlaghammer. Zum Glück ist er langsam, sodass du ihn ganz zum Schluss erledigen kannst. Um ihn schnell auszuschalten, musst du die Hand mit dem Hammer oder seinen Kopf treffen.
-Una criatura con un gran martillo, con el que aplasta sin piedad a sus víctimas. Es lento, por lo que puedes dejarlo para el final. Para acabar con él rápidamente, deberás dispararle a la mano con la que sujeta el martillo o a la cabeza.
+Uma criatura com um grande martelo, com o qual esmaga impiedosamente suas vítimas. É lento, então você pode deixa-lo por último. Para acabar com ele rapidamente, você precisará atirar na mão que segura o martelo ou na cabeça.
 Una creatura armata di un grosso martello con cui pesta le vittime senza pietà. È lento, quindi puoi abbatterlo per ultimo. Per sbarazzartene in fretta, devi sparargli alla testa o alla mano in cui tiene il martello.
 Bestiary/Description/HANGEDMAN
 "Type-041, codenamed ""Hangedman"", was a bat-like creature. Hangedman has the clawed fingers and toes, wings and glowing red eyes of a bat, yet also the body shape and speech of a human, while his head in the original game is avian-like. He is wearing pieces of armor over his body. After sending waves of Devilons at his prey, the creature flies about for an opportunity to swoop for 
 a claw attack."
 Typ 041, Codename "Hänger", ist eine fledermausähnliche Kreatur. Seine Finger und Zehen erinnern an Klauen einer Fledermaus, ebenso die Schwingen und die roten Augen. Körper und Stimme sind die eines Menschen. Im Original besitzt er einen Vogelkopf. Er trägt mehrere Rüstungsteile. Nachdem er mehrere Wellen von Diaboli auf sein Opfer gehetzt hat, fliegt er über dessen Kopf herum und sucht nach einer Möglichkeit, einen Klauenangriff zu starten. 
-Clase-041, nombre en clave «Hangedman», era un humanoide en forma de murciélago. Hangedman tiene garras en manos y dedos, alas y los ojos rojos brillantes de un murciélago, pero la forma del cuerpo y el habla de un humano, mientras que su cabeza en el juego original parece la de un ave. Lleva trozos de armadura en su cuerpo. Tras enviar oleadas de Devilons hacia su presa, la criatura se pondrá a volar para tener la oportunidad de bajar en picado y atacar con sus garras.
+Classe-041, apelido "Hangedman", um humanóide em forma de morcego. Hangedman tem garras nas mãos e dedos, asas e os olhos vermelhos brilhantes de um morcego, mas ele tem um corpo e a fala de um humano, enquanto sua cabeça no jogo original se parece com a de um pássaro. Ele usa peças de armadura em seu corpo. Depois de enviar ondas de Devilons em sua presa, a criatura vai voar para ter a chance de mergulhar e atacar com suas garras.
 Tipo 041, nome in codice "L'Appeso", un umanoide simile a un pipistrello.  L'Appeso è dotato di artigli sulle dita delle mani e dei piedi, ali e occhi rosso fuoco come quelli di un pipistrello, ma ha il corpo di un umano e parla come un umano, anche se nel gioco originale la sua testa somiglia a quella di un uccello.  Indossa pezzi di armatura.  Dopo aver sguinzagliato orde di Demoni contro la sua preda, questa creatura vola aspettando il momento opportuno per lanciarsi in picchiata e attaccare con i suoi artigli.
 Bestiary/Description/HARRIS
 A creature swinging a ball on the chain. If the ball is thrown towards you, you cannot avoid it. By aiming at his right hand, you can stop him from attacking. If he loses his iron ball, he rushes towards the player.
 Diese Kreatur schleudert eine Abrissbirne als Waffe. Du kannst der Stahlkugel nicht ausweichen. Ziele auf seine rechte Hand, um den Angriff zu verhindern. Wenn er die Abrissbirne verloren hat, stürzt er sich auf den Spieler.
 Cette créature se bat avec un boulet au bout d’une chaîne. Quand elle lance son boulet en direction d’un adversaire, il n’est pas possible de le dévier. On peut cependant stopper son attaque en visant sa main droite. Quand elle est désarmée, elle se met alors à charger en direction de son ennemi.
-Una criatura que lanza una bola atada a una cadena. Si te lanza la bola, no podrás esquivarla. Puedes hacer que deje de atacar si le disparas en la mano derecha. Si pierde la bola de hierro, correrá hacia el jugador.
+Uma criatura que arremessa uma bola presa a uma corrente. Se ele jogar a bola em você, você não conseguirá se esquivar. Você pode fazê-lo parar de atacar se atirar na mão direita. Se ele errar a bola de ferro, ele correrá em direção ao inimigo.
 Una creatura che fa roteare una palla con una catena. Se tira la palla verso di te, non puoi evitarla. Puoi impedirgli di attaccare mirando alla sua mano destra. Se perde la sua palla di ferro, corre verso il giocatore.
 Bestiary/Description/HERMIT
 Type-6803, codenamed "Hermit", was an armored, eight-legged insectoid. Hermit is a large spider-like creature, complete with eight legs and multiple eyes. Writhing tentacle-like attachments protrude from its mouth. Its head is its weak point.
 Typ-6803 "Hermit" jest opancerzonym insektoidem. Swoje osiem nóg wykorzystuje zarówno w ofensywie jak i w defensywie co pozwala mu chronić swoją głowę. Jest zastraszająco zwinny w wąskich tunelach.
 Typ 6803, Codename "Eremit", ist ein achtbeiniger, gepanzerter Insektoid. Er erinnert mit seinen acht Beinen und den vielen Augen an eine Spinne. Aus seinem Maul kommen sich windende Tentakel hervor. Der Kopf ist sein Schwachpunkt. 
 Le type-6803, nom de code « Ermite », était un insectoïde à huit pattes à carapace renforcée. L’Ermite est une araignée hybride géante munie d’une multitude d’yeux et de huit pattes. Sa bouche est entourée de mandibules tentaculaires. Sa tête est son point faible.
-Clase-6803, nombre en clave «Hermit», era un insecto acorazado de ocho patas. Hermit es una enorme criatura con aspecto de araña, con ocho patas, muchos ojos, tórax y abdomen. De la boca le salen una especie de tentáculos que se retuercen. 
+Classe-6803, apelido "Hermit", um inseto blindado de oito patas. Hermit é uma criatura enorme, parecida com uma aranha, com oito pernas, muitos olhos, tórax e abdômen. Da boca sai uma espécie de tentáculos que se contorcem.
 Tipo 6803, nome in codice "L'Eremita", un insettoide corazzato a otto zampe.  L'Eremita è una grossa creatura simile a un ragno, dotata di otto zampe e numerosi occhi. Dalla sua bocca fuoriescono serpeggianti tentacoli. Il suo punto debole è la testa. 
 Bestiary/Description/IVAN
 He is not one of the most persistent, but do not let appearances deceive you. When you are within his grasp, it may be too late to survive.
 Er ist nicht gerade ausdauernd, aber lass dich nicht von seinem Aussehen täuschen! Wenn du ihm zu nahe kommst, ist es vielleicht schon um dich geschehen!
 Elle ne semble pas forcément la plus obstinée, mais les apparences sont ici trompeuses. Quand elle arrive à nous attraper, il n’est pas facile de sortir de ses griffes.
-No es uno de los más persistentes, pero no dejes que las apariencias te engañen. Si te pones a su alcance, puede que ya sea demasiado tarde para sobrevivir.
+Não é um dos mais persistentes, mas não se deixe enganar pelas aparências. Se você chegar ao alcance deles, pode ser tarde demais para sobreviver.
 Non è tra i più ostinati, ma non lasciarti ingannare dalle apparenze. Se ti trovi faccia a faccia con lui, potrebbe essere troppo tardi.
 Bestiary/Description/KAGE
 He moves and attacks like Saruzou but is much more durable. His name means "shadow" which is the last thing you'll see if it catches you.
 Er bewegt sich wie Saruzou und nutzt dieselbe Angriffstechnik. Aber er ist viel kräftiger! Sein Name bedeutet "Schatten", und das ist auch das Letzte, was du siehst, wenn er dich fängt!
 Elle se déplace et attaque comme Saruzou, mais elle est bien plus résistante. Son nom veut dire « ombre » en japonais, car quand elle tient sa proie, il n’y a plus d’issue.
-Se mueve y ataca como Saruzou, pero es mucho más resistente. Su nombre significa «sombra», que es lo último que verás si consigue atraparte.
+Ele se move e ataca como Saruzou, mas é muito mais resistente. Seu nome significa "sombra", que é a última coisa que você verá se ele chegar até você.
 Si muove e attacca come Saruzou ma è molto più resistente.  Il suo nome significa "ombra", che è l'ultima cosa che vedrai se ti raggiunge.
 Bestiary/Description/KAGEO
 A creature in the worst condition and with sunken eyes. He prefers humid and warm places. He has low resilience and is slow. His main attack is hand strike or bite.
 Diese Kreatur sieht mit ihren eingesunkenen Augen zum Fürchten aus. Er mag es feucht und warm, ist nicht besonders widerstandsfähig und eher langsam. Hauptangriff: Faustschlag und Biss.
 Cette créature en piteux état et aux yeux renfoncés apprécie les endroits chauds et humides. Par nature, elle est lente et chétive. Elle se bat en mordant et en frappant ses adversaires.
-Una criatura en el peor estado posible, con ojos hundidos. Prefiere los lugares húmedos y cálidos. Tiene poca resistencia y es lento. Su ataque principal es el mordisco o el golpe con la mano.
+Uma criatura no pior estado possível, com olhos fundos. Prefere lugares úmidos e quentes. Tem baixa resistência e é lento. Seu principal ataque é a mordida ou o golpe com a mão.
 Una creatura in pessimo stato e con gli occhi infossati. Predilige i posti caldi e umidi. È lento e ha una scarsa resilienza. Attacca principalmente mordendo e colpendo con le mani.
 Bestiary/Description/KENFIS
 Diese Kreatur sieht aus wie ein Hund mit Flügeln. Er kann jedoch nicht fliegen. Hauptangriff: Biss. Er springt Haken schlagen auf dich zu und ist schwierig zu treffen. Es gibt ihn in mehreren Arten, die unterschiedlich gefärbt und mehr oder weniger zäh sind.
 Cette créature ressemble à un chien ailé... mais elle ne peut pas voler. Son attaque fétiche, c’est la morsure. Elle se déplace en sautant de droite à gauche, ce qui la rend difficile à viser. Ce monstre peut prendre différentes formes qui varient en couleur et en niveau de résilience.
-Esta criatura parece un perro con alas, pero no puede volar. Su ataque principal es el mordisco. Es difícil alcanzarle, ya que se acerca a ti saltando de un lado a otro. Hay varios tipos, de diferentes colores corporales y diferente resistencia.
+Esta criatura parece um cachorro com asas, mas não pode voar. Seu principal ataque é a mordida. É difícil alcançá-lo, pois ele se aproxima de você pulando de um lado para o outro. Existem vários tipos, de diferentes cores e diferentes resistências.
 Questa creatura assomiglia a un cane con le ali, ma non può volare. Attacca principalmente mordendo. È difficile prenderlo di mira perché si avvicina saltando da un lato all'altro. Ne esistono vari tipi, di colori diversi e resilienza variabile.
 Bestiary/Description/LOCKED
 You haven't killed that type of enemy yet! To unlock an enemy model preview and description, you must first find and kill it!
 Du hast diese Art von Gegner noch nicht getötet! Um die Modellvorschau und Beschreibung eines Gegners freizuschalten, musst du ihn zuerst finden und töten!
-¡Todavía no has matado a ese tipo de enemigo! Para desbloquear la vista previa y la descripción de un tipo de enemigo, primero debes encontrarlo y matarlo.
+Você ainda não matou esse tipo de inimigo! Para desbloquear a visualização e a descrição de um tipo de inimigo, você deve primeiro encontrá-lo e matá-lo.
 Non hai ancora ucciso quel tipo di nemico! Per sbloccare l'anteprima e la descrizione di un modello di nemico, devi prima trovarlo e ucciderlo!
 Bestiary/Description/MAGICIAN
 Type-0, codenamed "Magician", is greatest Curien's masterpiece. Created to rule human. It's a synthetic humanoid creature with pyrokinetic and levitational powers. Apparently his attack is the most beautiful. It is powerful creature even though it is still under development.
 Typ 0, Codename "Magier", ist Curiens größtes Meisterwerk. Er wurde erschaffen, um die Menschheit zu beherrschen. Er ist eine künstliche, humanoide Kreatur, die Pyrokinese und Levitation beherrscht. Man sagt, seine Angriffe seien wunderschön. Obwohl er sich noch in der Entwicklungsphase befindet, ist er eine mächtige Kreatur.
 Le type-0, nom de code « Magicien », est le chef-d'œuvre de Curien, créé pour dominer les humains. C'est une créature humanoïde de synthèse dotée des pouvoirs de pyrokinésie et de lévitation. Il paraît que son attaque est magnifique à voir. C'est une créature puissante, même si elle est encore en phase de développement.
-Clase-0, nombre en clave «Mago», es la obra maestra de Curien, y fue creado para dominar a la humanidad. Es una criatura sintética de aspecto humanoide y poderes piroquinéticos y de levitación. Aparentemente, sus ataques son de gran belleza. Es una criatura poderosa, aunque todavía está en proceso de creación.
+Classe-0, apelido "Mago", é a obra-prima de Curien, e foi criado para dominar a humanidade. É uma criatura sintética com aparência humanóide e poderes pirocinéticos e de levitação. Aparentemente, seus ataques são de grande beleza. É uma criatura poderosa, embora ainda esteja em processo de criação.
 Tipo-0, nome in codice "Il Mago". È il più grande capolavoro di Curien, creato per dominare gli umani. Una creatura umanoide sintetica con poteri pirocinetici e levitazionali. Sembra che il suo attacco sia il più scenografico. Nonostante sia ancora in fase di sviluppo, è una creatura molto potente.
 Bestiary/Description/MOODY
 He looks more like a cyborg than a creature. He often appears in pairs. He attacks with iron claws in his right arm.
 Diese Kreatur sieht aus wie ein Cyborg. Meist tritt er im Doppel auf. Für den Angriff nutzt er Eisenklauen in seiner rechten Hand. 
 Plus proche du cyborg que d'une créature, ce monstre apparaît souvent en paire. Sa main droite est munie de griffes dont il se sert pour attaquer. 
-Parece más un cíborg que una criatura. Suele aparecer por parejas. Ataca con garras de hierro en su brazo derecho. 
+Ele parece mais um ciborgue do que uma criatura. Geralmente aparece em pares. Ele ataca com garras de ferro em seu braço direito.
 Assomiglia più a un cyborg che a una creatura. Spesso queste creature appaiono a coppie. Attacca con gli artigli di ferro che ha sulla mano destra. 
 Bestiary/Description/MURRER
 A snake-like creature. It squirms on the ground and lunges at the player. It rarely appears individually. It usually appears in groups of 2–5. Its head explodes when you hit it.
 Eine schlangenähnliche Kreatur, die sich über den Boden windet und zum Angreifen vorschnellt. Kein Einzelgänger, sondern meist in 2 bis 5 Exemplaren starken Gruppen anzutreffen. Der Kopf explodiert, wenn du einen Treffer landest.
 Cette créature semblable à un serpent rampe sur le sol et plonge sur ses adversaires. Elle apparaît rarement seule, mais plutôt en groupe de 2 à 5 spécimens. Sa tête explose quand un projectile la touche.
-Una criatura similar a una serpiente. Se retuerce por el suelo y arremete contra el jugador. Rara vez aparece a solas. Suele aparecer en grupos de 2 a 5. Si le aciertas, le explotará la cabeza.
+Uma criatura parecida com uma cobra. Ele se contorce no chão e ataca o inimigo. Ele raramente aparece sozinho. Geralmente aparece em grupos de 2 a 5. Se você o acertar, sua cabeça explodirá.
 Una creatura simile a un serpente. Si contorce per terra e si scaglia contro il giocatore. Raramente appare da solo. Di solito appare in gruppi da 2-5. La sua testa esplode quando la colpisci.
 Bestiary/Description/NAIL
 Diese Kreatur ist besser gekleidet als Sam. Er ist quasi Sam 2.0 mit stärkeren und wirksameren Angriffen. Er versteckt sich oft im Schatten. Das vernarbte Gesicht und das zerzauste Haar wirken furchterregend. Hauptangriff: Umstoßen, Knöchelschlag und Biss. 
 Cette créature est une version améliorée (et mieux habillée !) de Sam : ses attaques sont plus fortes et plus efficaces. Tapie dans les ténèbres, elle surgit souvent sans prévenir. Avec son visage balafré et ses cheveux en bataille, son statut de créature ne fait aucun doute. Elle se bat en mordant et en frappant ses adversaires. 
-Aparece mejor vestido que Sam. Es la versión mejorada de Sam, por lo que sus ataques son más potentes y efectivos. A menudo surge desde las sombras. Su cara llena de cicatrices y pelo alborotado le dan un aspecto aterrador. Su ataque principal es la patada, el golpe con los nudllos o el mordisco.
+Ele aparece mais bem vestido do que Sam. É a versão melhorada de Sam, então seus ataques são mais poderosos e eficazes. Muitas vezes emerge das sombras. Seu rosto cheio de cicatrizes e cabelo bagunçado lhe dão uma aparência aterrorizante. Seu principal ataque é o chute ou a mordida.
 È vestito meglio di Sam. È la versione migliorata di Sam, quindi i suoi attacchi sono più forti e più efficaci. Spesso emerge dall'ombra. Le cicatrici sul volto e i capelli arruffati lo fanno assomigliare a una creatura. Attacca principalmente mordendo e colpendo con le mani. 
 Bestiary/Description/NAME
 A creature created by enhancing a slug. It lives in the building sewers. It has low resiliency but if you get closer, it will bite you. It appears only in the first stage.
 Diese Kreatur ist aus einer Nacktschnecke entstanden. Sie lebt in den Abwasserrohren des Gebäudes. Sie ist nicht besonders zäh, aber wenn du zu nahe kommst, beißt sie zu. Sie ist nur im ersten Level unterwegs.
-Una criatura creada mejorando una babosa. Vive en las alcantarillas del edificio. Tiene poca resistencia, pero si te acercas te morderá. Solo aparece en el primer nivel.
+Uma criatura criada aprimorando uma lesma. Vive nos esgotos sob os edifícios. Ele tem pouca resistência, mas se você chegar perto ele vai te morder. Ele só aparece no primeiro nível.
 Una creatura ottenuta potenziando una lumaca. Vive nelle fogne sotto gli edifici. Ha una scarsa resilienza, ma se ti avvicini ti morderà. Appare solo nel primo quadro.
 Bestiary/Description/PARLOR
 He attacks with laser knives. Similar to Drake. He’s agile like a ninja and his laser knife attacks are hard to dodge. He must be neutralized quickly.
 Diese Kreatur greift mit Lasermessern an. Er ähnelt Drake. Er ist flink wie ein Ninja. Seinen Lasermessern kann man kaum ausweichen. Du musst ihn unbedingt schnell ausschalten.
 Semblable à Drake, cette créature utilise comme arme des couteaux laser. Elle est agile comme un ninja et ses attaques au couteau sont difficiles à éviter. Elle doit être neutralisée rapidement.
-Ataca con cuchillos láser. Parecido a Drake. Es ágil como un ninja y sus ataques con cuchillos láser son difíciles de esquivar. Debe ser neutralizado rápidamente.
+Ataque com facas a laser. Semelhante a Drake. Ele é ágil como um ninja e seus ataques de faca a laser são difíceis de evitar. Deve ser rapidamente neutralizado.
 Attacca con coltelli laser. Simile a Drake. È agile come un ninja e i suoi coltelli laser sono difficili da schivare. Deve essere neutralizzato velocemente.
 Bestiary/Description/ROBERT
 Improved and final form of Sam. He has an iron armour covering parts of his body which makes him immune to bullets in these places. He’s a hard enemy because half of his face is protected by the iron armor which makes it harder to hit the head. His main attack is hand strike.
 Die verbesserte und endgültige Entwicklungsform von Sam. Eine Eisenrüstung bedeckt Teile seines Körpers, sodass deine Kugeln ihm an diesen Stellen nichts anhaben können. Er ist eine harte Nuss, denn das Gesicht wird durch einen eisernen Helm geschützt. Kopftreffer sind sehr schwierig zu landen! Hauptangriff: Faustschlag.
-Versión final y mejorada de Sam. Tiene una armadura de hierro que cubre partes de su cuerpo, lo que le hace inmune a las balas en esos lugares. Es un enemigo muy duro porque la mitad de su cara está protegida por la máscara de hierro, lo que complica acertarle en la cabeza. Su ataque principal es el golpe con la mano.
+Versão final e melhorada de Sam. Ele tem uma armadura de ferro que cobre partes de seu corpo, tornando-o imune a balas nesses locais. Ele é um inimigo muito duro, pois metade de seu rosto está protegido pela máscara de ferro, o que torna difícil atingi-lo na cabeça. Seu principal ataque é o golpe de mão.
 La versione migliorata e definitiva di Sam. Indossa un'armatura di ferro che copre alcune parti del suo corpo, rendendolo immune ai proiettili in quei punti. È un nemico difficile da battere perché metà della sua faccia è protetta da una maschera di ferro, il che rende più complicato colpirlo in testa. Attacca principalmente colpendo con le mani.
 Bestiary/Description/RUBIN
 A creature with iron claws in both hands that swipes in swift motions. He rolls at his enemy and jumps. He’s often paired with Drake. The moment he lands on the ground is your best shot to aim for the head.
 Diese Kreatur greift mit Eisenklauen in beiden Händen an. Er rollt auf sein Opfer zu und springt es an. Er arbeitet häufig mit Drake gemeinsam. Sobald er auf dem Boden landet, kannst du einen Kopftreffer landen.
-Una criatura con garras de hierro en ambas manos, con las que golpea rápidamente. Rueda hacia su enemigo y salta. A menudo aparece junto a Drake. Cuando caiga al suelo, será tu oportunidad de apuntar a la cabeza.
+Uma criatura com garras de ferro em ambas as mãos, com as quais ataca rapidamente. Rola em direção ao seu inimigo e pula. Ele muitas vezes aparece ao lado de Drake. Quando atinge o chão, é a sua chance de mirar na cabeça.
 Una creatura dotata di artigli di ferro su entrambe le mani, che agita con movimenti rapidi. Si avvicina al nemico e salta. Fa spesso coppia con Drake. Puoi approfittare del momento in cui atterra per mirare alla testa.
 Bestiary/Description/SAM
 Die Standard-Kreatur schlechthin. Praktisch überall anzutreffen. Er ist immer auf der Suche nach menschlichem Blut und Fleisch, dabei aber recht langsam unterwegs. Er bewegt sich gern in großen Gruppen, die dich umzingeln können. In Innenräumen taucht er oft plötzlich am Ende eines Ganges auf. Hauptangriff: Biss. 
-El tipo más común de criatura, que puede encontrarse en cualquier parte. Camina lentamente en busca de sangre y carne humanas. Suele moverse en grandes grupos y, si no tienes cuidado, puede que te rodeen. En interiores suele aparecer inesperadamente al final de los pasillos. Su ataque principal es el mordisco. 
+O tipo mais comum de criatura, que pode ser encontrado em qualquer lugar. Ele caminha lentamente em busca de sangue e carne humana. Ele tende a se mover em grandes grupos e, se você não tomar cuidado, poderá ser cercado. Dentro de casa, muitas vezes aparece inesperadamente no final dos corredores. Seu principal ataque é a mordida.
 Il tipo di creatura più comune, che è possibile trovare ovunque. Cammina lentamente in cerca di sangue e carne umani. Si muove spesso in gruppi numerosi di creature simili. Fai attenzione: potrebbero circondarti. Attacca principalmente mordendo. 
 Bestiary/Description/SAMSON
 A creature that wields a chainsaw.The chainsaw protects this creature from the bullets so aim other body parts. He is strong so time your shots and aim for his head.
 Diese Kreatur besitzt eine Kettensäge. Mit dem Schwert der Säge wehrt er außerdem Kugeln ab, weswegen du auf andere Körperteile zielen solltest. Er ist sehr stark, also schieße im richtigen Moment und ziele auf seinen Kopf.
-Una criatura que empuña una motosierra.  La motosierra protege a esta criatura de las balas, así que apunta a las partes de su cuerpo. Es muy fuerte, por lo que intenta medir bien tus disparos y apunta a la cabeza.
+Uma criatura que empunha uma motosserra. A motosserra protege esta criatura de balas, então mire em suas partes do corpo. É muito forte, então tente cronometrar bem seus tiros e mire na cabeça.
 Una creatura armata di motosega. La motosega la protegge dai proiettili, quindi mira altrove. È forte, perciò pondera bene i tuoi colpi e mira alla testa.
 Bestiary/Description/SARUZOU
 This creature was created from a modified macaque. He leaps and turns to deal an unexpected blow. Just like Kenfis, there are several kinds with different body colour and resiliency.
 Diese Kreatur wurde aus einem manipulierten Makaken geschaffen. Er springt und wirft sich in der Luft herum, um überraschend zuzuschlagen. Wie Kenfis gibt es ihn in mehreren Arten, die unterschiedlich gefärbt und mehr oder weniger zäh sind.
 Élaborée à partir d’un macaque modifié, cette créature saute et tourne pour porter une attaque insoupçonnée à ses adversaires. Comme Kenfis, elle peut prendre différentes formes qui varient en couleur et en niveau de résilience.
-Esta criatura fue creada a partir de un macaco modificado. Salta y gira para golpear inesperadamente. Al igual que Kenfis, hay varios tipos, de diferentes colores corporales y diferente resistencia.
+Esta criatura foi criada a partir de um macaco modificado. Salta e gira para acertar inesperadamente. Como Kenfis, existem vários tipos, de diferentes cores e diferentes resistências.
 Questa creatura è stata ottenuta a partire da un macaco geneticamente modificato. Balza e si gira per scagliare un colpo inaspettato. Come nel caso di Kenfis, ne esistono vari tipi, di colori diversi e resilienza variabile.
 Bestiary/Description/SHAWN
 Endurance is not his best feature, but when provoked it can be a serious threat. He often spends time with his mates in a larger group.
 Ausdauer gehört nicht zu seinen besonderen Eigenschaften, aber wenn man ihn provoziert, stellt er eine ernste Gefahr dar. Er verbringt viel Zeit mit großen Freundesgruppen.
-La resistencia no es su punto fuerte, pero si se le provoca puede ser una seria amenaza. Suele pasar tiempo con sus compañeros en un grupo más grande.
+A resistência não é o seu forte, mas se for provocado pode ser uma séria ameaça. Ele geralmente passa o tempo com seus colegas em um grupo maior.
 La resistenza non è il suo punto forte, ma se viene provocato può rappresentare una seria minaccia. Spesso passa il tempo in gruppi numerosi con i suoi compagni.
 Bestiary/Description/SIMON
 A creature with superhuman strength and enormous resiliency, which is obvious by his looks. He attacks the player with a mighty punch or by throwing a barrel. Supposedly he destroyed all the furniture in the compound. His main attack is hand strike.
 Diese Kreatur ist übermenschlich stark und widerstandsfähig. Das sieht man sofort. Er greift mit kräftigen Hieben oder Fasswürfen an. Vermutlich hat er die gesamte Inneneinrichtung zerstört. Hauptangriff: Faustschlag.
-Una criatura con una fuerza sobrehumana y una resistencia enorme, algo que parece evidente por su aspecto. Ataca al jugador con un tremendo puñetazo o lanzando un barril. Se supone que destruyó todos los muebles del complejo. Su ataque principal es el golpe con la mano.
+Uma criatura com força sobre-humana e enorme resistência, algo que parece evidente pela sua aparência. Ele ataca o inimigo com um tremendo soco ou jogando um barril. Supõe-se que ele destruiu todos os móveis do complexo. Seu principal ataque é o golpe de mão.
 Una creatura dotata di forza sovrumana ed enorme resilienza, com'è evidente dal suo aspetto. Attacca il giocatore con un potente pugno o lanciando un barile. Presumibilmente ha distrutto tutti i mobili del complesso. Attacca principalmente colpendo con le mani.
 Bestiary/Description/SKINLESS
 A creature whose skin on his right arm and collarbone has been torn off. His blood had turned completely green. However, the lack of skin does not mean that it is less dangerous.
 Eine Kreatur, der die Haut am rechten Arm und am Schlüsselbein fehlt. Sein Blut ist durch und durch grün. Trotz der fehlenden Haut ist er nicht weniger gefährlich.
-Una criatura cuya piel del brazo derecho y clavícula ha sido arrancada. Su sangre se ha vuelto completamente verde. Sin embargo, su falta de piel no le hace menos peligrosa.
+Uma criatura cuja e com a pele do braço direito e da clavícula arrancada. Seu sangue ficou completamente verde. No entanto, sua falta de pêlo não o torna menos perigoso.
 Una creatura a cui è stata strappata via la pelle del braccio destro e della clavicola. Il suo sangue è diventato verde.  Tuttavia, la mancanza di pelle non lo rende meno pericoloso.
 Bestiary/Description/THALANG
 This creature was created from a spider. It likes the smell of blood and attacks in groups. It usually drops down from ceilings or attacks from the ground. It moves and leaps from side to side, making it harder to aim.
 Ta kreatura została stworzona z pająka. Lubi zapach krwi i atakuje grupowo. Zazwyczaj niespodziewanie spada na gracza z góry, lub atakuje z ziemi. Przesuwa się i skacze na boki, co utrudnia wycelowanie.
 Diese Kreatur wurde aus einer Spinne geschaffen. Sie kann Blut riechen und greift in der Gruppe an. Meist lässt sie sich von der Decke fallen und springt vom Boden hoch. Sie schlägt Haken und springt, sodass sie nur schwer zu treffen ist.
-Esta criatura fue creada a partir de una araña. Le gusta el olor de la sangre, y ataca en grupo. Suele caer desde el techo o atacar desde el suelo. Se mueve y salta de un lado a otro, haciendo más difícil alcanzarlo.
+Esta criatura foi criada a partir de uma aranha. Gosta do cheiro de sangue e ataca em grupo. Geralmente cai do teto ou ataca do chão. Ele se move e pula de um lado para o outro, tornando mais difícil alcançá-lo.
 Questa creatura è stata ottenuta a partire da un ragno. Ama l'odore del sangue e attacca in gruppo. Di solito piomba dal soffitto o attacca da terra. Si muove saltando da un lato all'altro, rendendo difficile prenderlo di mira.
 Bestiary/Description/VINCENT
 A skinny creature who likes to stay aloof. However, if you run into it, don't expect a reduced fare. His hairstyle is his trademark.
 Wychudzona kreatura, która lubi trzymać się na uboczu. Jeśli jednak na niego wpadniesz nie oczekuj taryfy ulgowej. Fryzura jest znakiem rozpoznawczym tego stworzenia.
 Eine dürre Kreatur, die gern durch die Gegend streift. Eine Begegnung mit ihm kann böse enden! Er ist leicht an seiner Frisur zu erkennen.
 Une créature maigrelette qui préfère rester à distance. Mais quand on croise son chemin, elle ne manque pas de répondant. Son signe distinctif, c’est sa coiffure.
-Una criatura muy delgada a la que le gusta estar sola. Sin embargo, si te encuentras con ella, no creas que será fácil derrotarla. Se distingue por su peinado.
+Uma criatura muito magra que gosta de ficar sozinha. No entanto, se você a conhecer, não pense que será fácil derrotá-la. Distingue-se pelo seu penteado.
 Una creatura pelle e ossa che preferisce restare in disparte. Tuttavia, se lo incontri, non aspettarti sconti. Lo riconosci dalla sua caratteristica pettinatura.
 Bestiary/Name/BENTLEY
 Bentley
@@ -1443,62 +1443,62 @@ GameplayTips/TIP_STUCK_IN_FIGHT
 Stuck in a fight? No way out? Ask your step-agent for help!
 Du steckst in einem Kampf fest? Kein Ausweg? Dann bitte deinen Agenten um Hilfe!
 Coincé dans un combat ? Aucune échappatoire ? Demandez de l'aide à votre agent !
-¿Atascado en una pelea? ¿No hay salida? ¡Pide a tu compañero agente que te ayude!
+Preso em uma briga? Não há saída? Peça ao seu colega agente para ajudá-lo!
 Sei in trappola? Non c'è via d'uscita? Chiedi aiuto all'altro agente!
 GameplayTips/TIP_TREASURE
 There are rumors that there is a hidden treasure somewhere in the area.
 Podobno gdzieś na tym terenie znajduje się ukryty skarb.
 Es gibt Gerüchte, dass irgendwo in der Gegend ein Schatz versteckt sei.
 Selon les rumeurs, il y aurait un trésor caché dans les environs.
-Hay rumores de que hay un tesoro escondido en algún lugar de la zona.
+Há rumores de que há um tesouro escondido em algum lugar da área.
 Pare che ci sia un tesoro nascosto da qualche parte nei dintorni.
 GameplayTips/TIP_TRY_TO_STAY_ALIVE
 Try to stay alive and you'll be rewarded.
 Versuche, am Leben zu bleiben, um dir Belohnungen zu sichern.
 Essayez de survivre et vous serez récompensé.
-Intenta mantenerte con vida y recibirás una recompensa.
+Tente permanecer vivo e você receberá uma recompensa.
 Cerca di sopravvivere e avrai la tua ricompensa.
 GameplayTips/TIP_USE_GUN_IF_CANT_DEFEAT_ZOMBIES
 If you can't defeat creatures, try using your gun!
 Wenn du Kreaturen nicht besiegen kannst, versuche es mit deiner Waffe!
 Si vous ne pouvez pas vaincre les créatures, essayez avec votre pistolet !
-Si no puedes vencer a las criaturas, ¡intenta usar tu arma!
+Se você não pode vencer as criaturas, tente usar sua arma!
 Se non riesci a sconfiggere le creature, prova a usare la tua pistola!
 GameplayTips/TIP_USE_YOUR_BRAIN
 Use your brain! Unlike creatures, you have intelligence.
 Wysil szare komórki! Twoje działają sprawnie, nie tak jak u tych gnijących kreatur.
 Setze dein Hirn ein! Im Gegensatz zu den Kreaturen hast du eins.
 Utilisez votre cerveau ! Contrairement aux créatures, vous en avez un.
-¡Usa tu cerebro! A diferencia de las criaturas, tú eres inteligente.
+Use seu cérebro! Ao contrário das criaturas, você é inteligente.
 Usa il cervello! A differenza delle creature, tu ne hai uno.
 GameplayTips/TIP_WATCH_YOUR_HEAD
 Watch your head! Not all creatures attack from the ground.
 Pass auf deinen Kopf auf! Nicht alle Kreaturen greifen vom Boden aus an.
-¡No pierdas de vista las alturas! No todas las criaturas atacan desde el suelo.
+Cuidado com a cabeça! Nem todas as criaturas atacam do chão.
 Attenzione alla testa! Non tutte le creature attaccano da terra.
 GameplayTips/TIP_WHO_READS_IT
 Does anyone actually read these?
 Liest das überhaupt jemand?
 Y a-t-il vraiment quelqu’un qui lit ça ?
-¿De verdad hay alguien que lea esto?
+Existe realmente alguém que lê isso?
 Qualcuno legge davvero questa roba?
 GameplayTips/TIP_ZOMBIES_IN_ALL_SHAPES
 Creatures come in all shapes, discover them all!
 Kreaturen gibt es in allen möglichen Formen. Entdecke sie alle!
 Il y a de nombreux types de créatures différents, découvrez-les tous !
-Hay criaturas de todas las formas y colores, ¡descúbrelas a todas!
+Existem criaturas de todas as formas e cores, descubra todos elas!
 Ci sono creature di ogni sorta, scoprile tutte!
 GameplayTips/TIP_ZOMBIES_UNARMED
 Shooting cretures hands will make them unarmed.
 Schieße auf die Hände der Kreaturen, um sie zu entwaffnen.
 En tirant sur les mains des créatures, vous les désarmerez.
-Disparar a las manos de las criaturas las desarmará.
+Atire nas mãos das criaturas para desarmá-las.
 Puoi disarmare le creature mirando alle mani.
 GameplayTips/TIP_ZOMBIE_HORROR
 So creatures, much zombie, very horror.
 Kreaturen also, viele Untote, sehr schrecklich.
 Très créature, tellement zombie, si horrible.
-Muchas criaturas, muchos muertos vivientes, menudo horror.
+Muita criatura, muito zumbi, muito horror.
 Quante creature, molto horror, wow.
 HUD/2_CREDITS_TO_START
 2 CREDITS TO START
@@ -1513,7 +1513,7 @@ Buy extra credits for {0} points
 Kup dodatkowe kredyty za {0} punktów
 Weitere Credits für {0} Punkte kaufen
 Achète des crédits pour {0} points
-Compra créditos extra por {0} pontos
+Compre créditos extra por {0} pontos
 Compra gettoni extra per {0} punti
 HUD/CHARIOT_TYPE
 Chariot TYPE 27
@@ -1564,7 +1564,7 @@ GAME IS OVER WHEN ALL LIFE TORCHES ARE OUT
 PRZEGRYWASZ, KIEDY ZGASNĄ WSZYSTKIE POCHODNIE ŻYCIA
 DAS SPIEL IST VORBEI, WENN ALLE LEBENSFACKELN ERLOSCHEN SIND
 LA PARTIE SE TERMINE LORSQUE TOUTES LES TORCHES DE VIE SONT ÉTEINTES
-EL JUEGO SE ACABA CUANDO PIERDES TODAS LAS ANTORCHAS DE VIDA
+O JOGO ACABA, QUANDO VOCÊ PERDE TODAS AS TOCHAS DA VIDA
 IL GIOCO TERMINA QUANDO TUTTE LE TORCE DELLA VITA SONO SPENTE
 HUD/GAME_OVER
 GAME OVER
@@ -1594,7 +1594,7 @@ HUD/LIFE_TORCH_DECREASES_IF_HOSTAGE
 WATCH OUT FOR MISSHOOTING SCIENTISTS
 ACHTE DARAUF, DIE WISSENSCHAFTLER NICHT ZU ERSCHIEßEN
 ATTENTION AUX SCIENTIFIQUES
-CUIDADO CON DISPARAR A LOS CIENTÍFICOS
+CUIDADO COM O TIRO NOS CIENTISTAS
 FAI ATTENZIONE AGLI SCIENZIATI DALLA PESSIMA MIRA
 HUD/MAGICIAN_TYPE
 Magician TYPE 0
@@ -1756,7 +1756,7 @@ I was so scared!
 Tak bardzo się bałam!
 Ich hatte solche Angst!
 J'ai eu si peur !
-Eu estava tão assustada!
+Eu estou tão assustada!
 Ho avuto tanta paura!
 Level_01/Other/OPEN_THE_LOCK
 Quick, open the lock !!
@@ -1801,7 +1801,7 @@ Level_01/Other/THAT_VOICE
 That voice!!
 Diese Stimme!!
 C'est la voix de... !!
-Aquela voz!!
+Essa voz!!
 Quella voce!
 Level_01/Other/THIS_IS_TERRIBLE
 This is terrible!!
@@ -4221,7 +4221,7 @@ Menu/Options/Controls/STADIA_INPUT_DISCLAIMER
 No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners.
 Es besteht keine Partnerschaft oder Verbindung zwischen Stadia und den Herstellern von Controllern oder Konsolen, die nicht von Stadia stammen. STADIA, das Stadia-Logo, Google und damit im Zusammenhang stehende Kennzeichen sowie Logos sind Marken der Google LLC. Alle anderen Marken sind Eigentum ihrer jeweiligen Inhaber.
 Il n'existe pas de partenariat, de lien, ou toute autre association entre  Stadia et les fabricants de manettes ou consoles de marques autres que STADIA.  STADIA, logo Stadia, Google ainsi que les autres marques et logos dérivés appartiennent à la société Google LLC. Toutes les autres marques appartiennent à leurs propriétaires respectifs.
-No existe ningún tipo de respaldo ni afiliación entre Stadia y los fabricantes de mandos o consolas que no sean Stadia. STADIA, el logotipo de Stadia, Google y las marcas y logotipos relacionados son marcas de Google LLC. Todas las demás marcas pertenecen a sus respectivos propietarios.
+Não há afiliação ou patrocínio entre o Stadia e os fabricantes de controles ou consoles que não sejam do Stadia. STADIA, o logotipo Stadia, Google e marcas e logotipos relacionados são marcas registradas da Google LLC. Todas as outras marcas comerciais pertencem a seus respectivos proprietários.
 Non sussiste alcuna affiliazione o sponsorizzazione fra Stadia e i produttori di controller o console non Stadia. STADIA, il logo Stadia, Google e i marchi e loghi connessi sono marchi di proprietà di Google LLC. Tutti gli altri marchi sono di proprietà dei rispettivi titolari.
 English
 en
