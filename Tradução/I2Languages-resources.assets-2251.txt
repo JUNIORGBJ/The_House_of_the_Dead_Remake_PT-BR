@@ -119,7 +119,7 @@ Raccogli tutti gli oggetti in una sola campagna.
 Achievements/Descriptions/DANCE_MACABRE
 Nail down opponent's head with Pitter.
 Nagle den Kopf des Gegners mit dem Pfähler fest.
-Arranque a cabeça do oponente com a arma de dardos.
+Arranque a cabeça do inimigo com a arma de dardos.
 Colpisci l'avversario in testa con la pistola lanciadardi.
 Achievements/Descriptions/DERATIZATION
 Kill all rats in game.
@@ -233,7 +233,7 @@ Achievements/Descriptions/REALLY
 Lose all credits and die
 Verliere alle Credits und stirb.
 Perds tous tes crédits et meurs
-Perder todos os créditos e morrer
+Perca todos os créditos e morra
 Perdi tutti i gettoni e muori
 Achievements/Descriptions/REINFORCEMENTS
 Let Player 2 join the game while in a middle of a campaign.
@@ -251,7 +251,7 @@ Achievements/Descriptions/SADIST
 Devastate opponent's body as much as possible!
 Verstümmle den Körper eines Gegners extrem.
 Acharne-toi autant que possible sur le corps d’un ennemi !
-Quebre o corpo do oponente o máximo possível!
+Quebre o corpo do inimigo o máximo possível!
 Devasta il più possibile il corpo dell'avversario!
 Achievements/Descriptions/SAVIOUR
 Save all Scientists through the campaign.
@@ -788,7 +788,7 @@ Burner
 Podpalacz
 Pyromane
 Incendiaire
-incendiário
+Incendiário
 Bruciatore
 Bestiary/Name/CHARIOT
 Chariot
@@ -1234,7 +1234,7 @@ GameplayTips/TIP_BESTIARY
 Creature Library reveals more about your opponents!
 In der Kreaturensammlung erfährst du mehr über deine Gegner!
 La bibliothèque des créatures en révèle plus sur vos adversaires !
-A Biblioteca de Criaturas revela mais sobre seus oponentes!
+A Biblioteca de Criaturas revela mais sobre seus inimigos!
 Usa l'archivio delle creature per avere più informazioni sui tuoi avversari!
 GameplayTips/TIP_BEWARE_OF_RATS
 Beware of the rats.
@@ -1306,7 +1306,7 @@ GameplayTips/TIP_DONT_FEED_FROGS
 Don't feed the frogs!
 Füttere nicht die Frösche!
 Ne nourrissez pas les grenouilles !
-¡No alimentes a las ranas!
+Não alimente os sapos!
 Non dare da mangiare alle rane!
 GameplayTips/TIP_DONT_HOLD_FIRE_IF_ENEMY_DEAD
 Don't hold your fire even if enemy is dead!
@@ -1394,7 +1394,7 @@ Reduce opponent's health to zero while keeping yours above that value.
 Zredukuj zdrowie przeciwnika do zera, ale swoje utrzymuj powyżej tego poziomu.
 Verringere die Gesundheit deines Gegners bis auf null, während du deine eigene über diesem Wert hältst.
 Réduisez la santé de vos adversaires à zéro tout en gardant la vôtre au-dessus de cette valeur.
-Reduza a saúde do oponente para zero e mantenha a sua acima.
+Reduza a saúde do inimigo para zero e mantenha a sua acima.
 Porta a zero la salute dell'avversario e mantieni la tua al di sopra.
 GameplayTips/TIP_RELOAD_FREQUENTLY
 Reload your gun frequently! The more bullets, the better.
@@ -1506,14 +1506,14 @@ START KOSZTUJE 2 KREDYTY
 2 CREDITS ZUM STARTEN
 2 CRÉDITS POUR COMMENCER
 2 CREDITS TO START
-2 CRÉDITOS PARA EMPEZAR
+2 CRÉDITOS PARA COMEÇAR
 2 GETTONI PER INIZIARE
 HUD/BUY_EXTRA_CREDITS_FOR_X_POINTS
 Buy extra credits for {0} points
 Kup dodatkowe kredyty za {0} punktów
 Weitere Credits für {0} Punkte kaufen
 Achète des crédits pour {0} points
-Compra créditos extra por {0} puntos
+Compra créditos extra por {0} pontos
 Compra gettoni extra per {0} punti
 HUD/CHARIOT_TYPE
 Chariot TYPE 27
@@ -1529,7 +1529,7 @@ Kontynuacje
 FORTSETZUNGEN
 Continus
 Continues
-Continuaciones
+Continues
 Continua
 HUD/CREDITS
 CREDIT(S)
@@ -1550,14 +1550,14 @@ DAMAGE!
 SCHADEN!
 DOMMAGE!
 DAMAGE!
-¡DAÑO!
+DANO!
 DANNO!
 HUD/DO_YOU_WANT_TO_CONTINUE
 Continue?
 Fortfahren?
 Continuer ?
 Continue?
-¿Continuar?
+Continuar?
 Continuare?
 HUD/GAME_IS_OVER_WHEN_ALL
 GAME IS OVER WHEN ALL LIFE TORCHES ARE OUT
@@ -1609,20 +1609,20 @@ NAME
 NAME
 NOM
 NAME
-NOMBRE
+NOME
 NOME
 HUD/NAME ENTRY
 NAME ENTRY
 NAME EINGEBEN
 SAISIE NOM
 NAME ENTRY
-INTRODUCIR NOMBRE
+INSIRA O NOME
 INSERIMENTO NOME
 HUD/NOW_THE_CHAMBER
 NOW THE CHAMBER IS LOADED
 DIE KAMMER IST NUN GELADEN
 LA CHAMBRE EST MAINTENANT CHARGÉE
-LA CÁMARA ESTÁ CARGADA
+A CÂMARA ESTÁ CARREGADA
 IL CARICATORE È PIENO
 HUD/PRESS_GAME_OVER_BUTTON
 Press any button to return to the main menu!
@@ -1642,7 +1642,7 @@ Reloading
 Neuladen
 Rechargement
 Reloading
-Recarga
+Recarregando
 Ricaricare
 HUD/SHOOT_THE_DEAD_ATTACKING_YOU
 SHOOT THE DEAD ATTACKING YOU
@@ -1669,14 +1669,14 @@ Or else, something terrible will happen.
 Inaczej stanie się coś strasznego.
 Sonst wird etwas Schreckliches passieren.
 Sinon, quelque chose d'atroce va se produire.
-O algo terrible sucederá.
+Caso contrário, algo terrível acontecerá.
 Altrimenti accadrà qualcosa di terribile.
 Level_01/AfterBoss/SOPHIE_!
 Sophie!
 Sophie!
 Sophie!
 Sophie !
-¡Sophie!
+Sophie!
 Sophie!
 Level_01/AfterBoss/SOPHIE_DOTDOTDOT
 Sophie...
@@ -1688,417 +1688,417 @@ You must stop Curien.
 Trzeba powstrzymać Curiena.
 Du musst Curien aufhalten.
 Tu dois arrêter Curien.
-Debes detener a Curien.
+Você deve parar Curien.
 Devi fermare Curien.
 Level_01/CutsceneFountain/NOBODY_LEAVES_HERE
 Nobody leaves here alive!
 Nikt nie wyjdzie stąd żywy!
 Niemand kommt hier lebend heraus!
-¡Nadie sale vivo de aquí!
+Ninguém sai daqui vivo!
 Nessuno esce vivo da qui!
 Level_01/CutsceneFountain/ROGAN_ITS_YOU
 Rogan, it's you!
 Rogan, to ty!
 Rogan, du bist es!
-¡Rogan, eres tú!
+Rogan, é você!
 Rogan, sei tu!
 Level_01/CutsceneFountain/RUN_RUN
 Run! Run!
 Biegiem! Biegiem!
 Lauft! Lauft!
 Cours ! Cours !
-¡Corre! ¡Corre!
+Corre! Corre!
 Corri! Corri!
 Level_01/CutsceneFountain/SOPHIE_!!
 Sophie!!
 Sophie!!
 Sophie!!
 Sophie !!
-¡Sophie!
+Sophie!
 Sophie!
 Level_01/CutsceneFountain/WAIT
 Wait!
 Zaczekaj!
 Warte!
 Attends !
-¡Espera!
+Espere!
 Aspetta!
 Level_01/CutsceneFountain/WELL_GET_YOU_FOR_THIS
 We'll get you for this !
 Nie podarujemy ci tego!
 Du wirst dafür bezahlen!
 On ne te laissera pas faire !
-¡Pagarás por esto!
+Você vai pagar por isso!
 Non ci sfuggirai!
 Level_01/LETS_GO_IN/LETS_GO_IN
 Let's go in!
 Idziemy do środka!
 Gehen wir rein!
 Entrons !
-¡Entremos!
+Vamos entrar!
 Entriamo!
 Level_01/LETS_GO_IN/SURE_WHY_NOT
 Sure, why not?
 Pewnie, czemu nie?
 Klar, warum nicht?
 OK, pourquoi pas.
-¿Por qué no?
+Porque não?
 Certo, perché no?
 Level_01/Other/ARE_YOU_OK
 Are you ok?
 Wszystko w porządku?
 Alles in Ordnung?
 Est-ce que ça va ?
-¿Estás bien?
+Está bem?
 Stai bene?
 Level_01/Other/I_WAS_SO_SCARED
 I was so scared!
 Tak bardzo się bałam!
 Ich hatte solche Angst!
 J'ai eu si peur !
-¡Estaba tan asustada!
+Eu estava tão assustada!
 Ho avuto tanta paura!
 Level_01/Other/OPEN_THE_LOCK
 Quick, open the lock !!
 Szybko, otwórz zamek !!
 Schnell, knacke das Schloss!
 Vite, déverrouille la grille !!
-¡Abre el candado, rápido!
+Abra a fechadura, rápido!
 Presto, apri la serratura!!
 Level_01/Other/OTHERS_ARE_STILL_INSIEDE
 Others are still inside. Save them.
 Dort sind immer noch welche drin. Rettet sie.
 Les autres sont toujours à l’intérieur. Sauvez-les.
-Aún hay gente dentro. Sálvalos.
+Ainda tem gente lá dentro. Salve-os.
 Ci sono ancora delle persone là dentro. Salvale.
 Level_01/Other/SOPHIE_?
 Sophie?!
 Sophie?!
 Sophie?!
 Sophie ?!
-¿Sophie?
+Sophie?
 Sophie?!
 Level_01/Other/SOPHIE_ARE_YOU_OK
 Sophie, are you ok?
 Sophie, nic ci nie jest?
 Sophie, alles in Ordnung?
 Sophie, est-ce que ça va ?
-Sophie, ¿estás bien?
+Sophie, você está bem?
 Sophie, stai bene?
 Level_01/Other/THANK_YOU
 Thank you.
 Danke.
 Merci.
-Gracias.
+Obrigado.
 Grazie.
 Level_01/Other/THANK_YOU_TAKE_THIS
 Thank you!! Take this.
 Danke!! Nimm das.
 Merci !! Tenez.
-¡Gracias! Toma esto.
+Obrigado! Toma isto.
 Grazie! Prendi questo.
 Level_01/Other/THAT_VOICE
 That voice!!
 Diese Stimme!!
 C'est la voix de... !!
-¡Esa voz!
+Aquela voz!!
 Quella voce!
 Level_01/Other/THIS_IS_TERRIBLE
 This is terrible!!
 To straszne!!
 Das ist schrecklich!!
-¡Esto es terrible!
+Isso é terrível!
 È terribile!
 Level_01/Other/WATCH_OUT
 Watch out, behind you !!
 Achtung, hinter dir!
 Attention, regarde derrière toi !!
-¡Cuidado, detrás tuyo!
+Cuidado, atrás de você!
 Fai attenzione, dietro di te!!
 Level_01/Other/YOU_CAN_GO_UP_STAIRS
 You can go up stairs from that room.
 Du kannst von diesem Raum aus nach oben.
 Tu peux monter les escaliers en passant par cette pièce.
-Puedes subir las escaleras desde esa habitación.
+Você pode subir as escadas dessa sala.
 Da quella stanza puoi salire al piano di sopra.
 Level_02/!?
 Level_02/BETTER_BE_READY
 Better be ready, Curien!
 Mach dich bereit, Curien!
 Tiens-toi prêt, Curien !
-¡Más vale que estés listo, Curien!
+É melhor você estar pronto, Curien!
 Farai meglio a stare in guardia, Curien!
 Level_02/ILL_FINISH_YOU_HERE
 I'll finish you here!
 Ich werde dich hier erledigen!
 Je vais t'achever ici !
-¡Acabaré contigo aquí mismo!
+Eu vou acabar com você aqui mesmo!
 Ti ucciderò qui!
 Level_02/ITS_A_DEAD_END
 It's a dead end!
 Das ist eine Sackgasse!
-¡Es un callejón sin salida!
+É beco sem saída!
 Da qui non si passa!
 Level_02/THEY_ARE_STILL_UP
 They're still up stairs.
 Sie sind immer noch oben.
 Ils sont toujours en haut.
-Aún están ahí arriba.
+Eles ainda estão lá em cima.
 Sono ancora al piano di sopra.
 Level_02/THIS_IS_AS_FAR_AS
 This is as far as you go!
 Koniec drogi!
 Weiter kommst du nicht!
-¡No pasarás de aquí!
+Você não vai passar por aqui!
 Per te è finita!
 Level_02/WE_WONT_LET_YOU
 We won't let you have it your way, Curien!
 Nie wymigasz się, Curien!
 Wir werden nicht zulassen, dass es nach deinem Willen geht, Curien!
-¡No dejaremos que te salgas con la tuya, Curien!
+Não vamos deixar você se safar, Curien!
 Non la passerai liscia, Curien!
 Level_03/BossCutscene/CURIEN_I
 Curien!!
 Curien!!
 Curien!!
 Curien !!
-¡Curien!
+Curien!
 Curien!
 Level_03/BossCutscene/HOWEVER_THIS_IS_IT
 However, this is it!
 Jednak tutaj droga się kończy!
-Pero, ¡hasta aquí has llegado!
+No entanto, é isso!
 Comunque, ci siamo!
 Level_03/BossCutscene/I_DIDNT_THINK_YOU_COULD
 I didn't think you could make it this far.
 nie spodziewałem się, że ktoś dotrze aż tak daleko.
 Hätte nie gedacht, dass ihr es so weit schafft.
 je ne pensais pas que tu arriverais si loin.
-No pensaba que llegarías tan lejos.
+Não achei que você chegaria tão longe.
 non mi aspettavo che arrivassi fin qui.
 Level_03/BossCutscene/I_MUST_COMPLIMENT_YOU
 I must compliment you,
 Moje gratulacje,
 Mein Kompliment.
 Toutes mes félicitations,
-Tengo que felicitarte,
+Tenho que te parabenizar
 Devo farti i complimenti,
 Level_03/BossCutscene/LETS_SEE_HOW_GOOD_YOU
 Let's see how good you really are!
 Mal sehen, wie gut ihr wirklich seid!
 Voyons voir si tu peux réchapper à ça !
-¡Vamos si eres tan bueno como crees!
+Vamos ver o quão bom você realmente é!
 Vediamo se hai davvero talento!
 Level_03/Other/AH_ITS_LOCKED
 Ah! It's locked.
 Ech! Zamknięte.
 Ah! Versperrt.
-¡Ah! Está cerrado.
+Ah! Está trancado.
 Ah! È chiuso.
 Level_03/Other/DOWN_ELEVATOR
 Down.
 Runter.
-Descente.
+Descendo.
 Bajando.
 Giù.
 Level_03/Other/ILL_GET_YOU_CURIEN
 I'll get you, Curien!
 Ich kriege dich, Curien!
 Je t'aurai, Curien !
-¡Te atraparé, Curien!
+Eu te pego, Curien!
 Ti prenderò, Curien!
 Level_03/Other/ITS_TO_LATE
 It's too late.
 Es ist zu spät.
-Es demasiado tarde.
+É tarde demais.
 È troppo tardi.
 Level_03/Other/OK_CURIEN
 Ok Curien, now it's your turn!
 Dobra, Curien, teraz twoja kolej.
 Okay, Curien, du bist dran!
 OK, Curien, à ton tour maintenant !
-Bien Curien, ¡ahora es tu turno!
+Ok Curien, agora é a sua vez!
 Ok Curien, ora tocca a te!
 Level_03/Other/THIS_MUST_BE_SECURITY
 This must be the Security card.
 Das muss die Sicherheitskarte sein.
 Ça doit être la carte de sécurité.
-Esta debe ser la tarjeta de seguridad.
+Este deve ser o cartão de segurança.
 Questa deve essere la tessera di sicurezza.
 Level_03/Other/UNLOCKED
 Unlocked.
 Odblokowane.
 Entsperrt.
 Déverrouillé.
-Abierto.
+Aberto.
 Sbloccato.
 Level_03/Other/UP_ELEVATOR
 Up.
 Rauf.
 Montée.
-Subiendo.
+Subindo.
 Su.
 Level_03/Other/USE_THIS
 Use this.
 Setze das ein.
 Voilà pour vous.
-Usa esto.
+Usa isto.
 Usa questo.
 Level_04/AgentGEnding/GOODBYE_CURIEN
 Good bye, Curien....
 Mach's gut, Curien ...
 Adieu, Curien…
-Adiós, Curien...
+Adeus Curien...
 Addio, Curien…
 Level_04/AgentGEnding/MISSION_COMPLETED
 Mission completed.
 Mission erfüllt.
 Mission accomplie.
-¡Misión cumplida!
+Missão concluída!
 Missione completata.
 Level_04/AgentGEnding/NOW_ON_TO_THE_NEXT_MISSION
 Now, on to the next mission.
 Auf zur nächsten Mission.
 Maintenant, passons à la mission suivante.
-Pasemos a la siguiente misión.
+Vamos para a próxima missão.
 Ora, alla prossima missione.
 Level_04/BossDeath/ANYTHING_YET
 antyhing yet!!
 wszystko się dopiero okaże!
 nichts gesehen!!!
 rien vu !!
-no has visto nada!
+você não viu nada!
 visto niente!
 Level_04/BossDeath/YOU_HAVENT_SEEN
 You haven't seen....
 Ihr habt noch ...
-¡Todavía...
+Ainda...
 Level_04/CoopEnding/I_GUESS_EVERYTHING_IS_OVER
 I guess everything's over.
 Ich glaube, es ist vorbei.
 Je suppose que tout est fini.
-Supongo que todo ha terminado.
+Acho que está tudo acabado.
 Immagino che sia tutto finito.
 Level_04/CoopEnding/I_GUESS_SO
 I guess so.
 Chyba tak.
 Das glaube ich auch.
 Je suppose.
-Supongo que sí.
+Eu acho que sim.
 Immagino di sì.
 Level_04/CoopEnding/SHALL_WE_GO_NOW
 Shall we go now?
 Wynosimy się stąd?
 Sollen wir jetzt gehen?
 On y va ?
-¿Nos vamos ya?
+Devemos ir agora?
 Andiamo?
 Level_04/CurienCutscene/BUT_YOU_WILL_NEVER
 But you will never,
 Ale nikt, nigdy,
 Ihr werdet mich aber
 Mais tu ne pourras
-¡Pero nunca jamás
+Mas você nunca terá sucesso
 Ma non riuscirai mai
 Level_04/CurienCutscene/EVER_DEFEAT_ME
 ever defeat me!
 mnie nie pokona!
 niemals besiegen!
 jamais me vaincre !
-me derrotarás!
+jamais me derrotarás!
 e poi mai a sconfiggermi!
 Level_04/CurienCutscene/I_MUST_ADMIT
 I must admit,
 Ich muss zugeben,
 Je dois avouer
-Debo admitirlo,
+devo admitir
 Devo ammettere
 Level_04/CurienCutscene/I_REALLY_RESPECT_YOUR
 I really respect your consistency.
 ich respektiere wirklich eure Hartnäckigkeit.
 que je respecte ton acharnement.
-respeto mucho tu persistencia.
+respeito muito sua persistência.
 che ammiro molto la tua coerenza.
 Level_04/CurienCutscene/I_SHALL_DESTROY_EVERYTHING
 I shall destroy everything.
 Ich werde alles zerstören.
 Je vais tout détruire sur mon passage.
-¡Lo destruiré todo!
+Destruirei tudo em meu caminho.
 Distruggerò tutto.
 Level_04/CurienCutscene/NOBODY_GIVES_ME_INSTRUCTIONS
 Nobody gives me instructions.
 Niemand erteilt mir Befehle.
 Personne ne me dit quoi faire.
-Nadie me da órdenes.
+Ninguém me dá ordens.
 Nessuno mi dice cosa fare.
 Level_04/CurienCutscene/SAY_HELLO_TO_MY_MASTERPIECE
 Say hello to my masterpiece!
 Sag hallo zu meinem Meisterwerk!
 Admire donc ma pièce maîtresse !
-¡Saluda a mi obra maestra!
+Diga olá à minha obra-prima!
 Saluta il mio capolavoro!
 Level_04/CurienCutscene/THERE_IS_NO_WAY_OUT_CURIEN
 There's no way out Curien!
 Es gibt kein Entkommen, Curien!
-¡No hay salida, Curien!
+Não há saída, Curien!
 Non puoi scappare, Curien!
 Level_04/CurienCutscene/WHAT_HAPPENED
 What happend?
 Was ist passiert?
-¿Qué ha pasado?
+O que aconteceu?
 Cos'è successo?
 Level_04/CurienCutscene/WHO_ARE_YOU
 Who are you?
 Wer seid Ihr?
 Qui es-tu ?
-¿Quién eres?
+Quem é?
 Chi sei?
 Level_04/CurienCutscene/WHY_DONT_YOU_FOLLOW_MY
 Why don't you follow my instructions?
 Warum befolgt ihr nicht meine Befehle?
 Pourquoi ne suis-tu pas mes instructions ?
-¿Por qué no cumples mis órdenes!
+Por que você não cumpre minhas ordens!
 Perché non segui le mie istruzioni?
 Level_04/Other/CURIEN_TALK
 I'll get you, Curien!
 Ich kriege dich, Curien!
 Je t'aurai, Curien !
-¡Te atraparé, Curien!
+Eu te pego, Curien!
 Ti prenderò, Curien!
 Level_04/RoganEnding/EVERYTHING_IS_OVER
 Everything is over....
 Es ist vorbei ...
 Tout est fini…
-Todo ha terminado...
+Está tudo acabado...
 È tutto finito...
 Level_04/RoganEnding/FAREWELL_SOPHIE
 Farewell Sophie....
 Lebwohl, Sophie ...
-Adiós Sophie...
+Adeus Sophie...
 Arrivederci, Sophie…
 Level_04/RoganEnding/GOODBYE_CURIEN
 Goodbye, Curien.
 Mach's gut, Curien.
 Adieu, Curien.
-Adiós, Curien.
+Adeus, Curien.
 Addio, Curien.
 Level_04/RoganEnding/HOWEVER_I_MUST_GO_ON
 However. I must go on.
 Jedoch ... muss ich weitermachen.
 Cependant, je dois continuer.
-Sin embargo, debo continuar.
+No entanto. eu devo continuar.
 Nonostante tutto. Devo continuare.
 Level_04/RoganEnding/I_HAVE_NOTHING_MORE_TO_LOSE
 I have nothing more to lose.
 Ich habe nichts mehr zu verlieren.
 Je n'ai plus rien à perdre.
-Ya no me queda nada que perder.
+Não tenho mais nada a perder.
 Non ho più niente da perdere.
 Menu/Hints/ACCEPT
 Accept
 OK
 Accepter
-Confirmar
+Aceitar
 Accetta
 Menu/Hints/BACK
 Back
@@ -2110,7 +2110,7 @@ Menu/Hints/BACK_TO_MAIN_MENU
 Main Menu
 Hauptmenü
 Menu principal
-Menú principal
+Menu principal
 Menu principale
 Menu/Hints/CAMERA_RESET
 Camera reset
@@ -2137,13 +2137,13 @@ Gallery Navigation
 Nawigacja po galerii
 Galerie-Navigation
 Navigation dans la galerie
-Navegação da galeria
+Navegar na galeria
 Esplorazione galleria
 Menu/Hints/HIDE_UI
 Hide UI
 Ukryj interfejs
 UI verbergen
-Ocultar a interface de usuario
+Ocultar IU
 Nascondi IU
 Menu/Hints/MOVE_DOWN
 Down
@@ -2203,7 +2203,7 @@ Menu/Hints/POSTPROCESS
 Postprocess
 Nachverarbeitung
 Post-processing
-Pós-processamento
+Filtros
 Postprocessing
 Menu/Hints/PREVIOUS
 Previous
@@ -2250,7 +2250,7 @@ Menu/Hints/ZOOM
 Zoom
 Zoom
 Zoom
-Aproximar
+Zoom
 Zoom
 Menu/Leaderboard/GLOBAL_DATA
 Global data
@@ -2292,7 +2292,7 @@ Wersja klasyczna
 Klassisch
 Classique
 Classic
-Clásico
+Clássico
 Classico
 Menu/Main/CONTINUE
 Continue
@@ -2347,7 +2347,7 @@ Wybór poziomu
 Level-Auswahl
 Sélection du niveau
 Level selection
-Selección de nivel
+Seleção de nível
 Selezione livelli
 Menu/Main/MAIN_MENU
 Main menu
@@ -2415,7 +2415,7 @@ Please choose scoring type
 Wybierz tryb liczenia punktów
 Bitte wähle einen Punktetyp
 Veuillez choisir un type de score
-Elige el tipo de puntuación
+Escolha o tipo de pontuação
 Scegli il tipo di punteggio
 Menu/Main/RESTART
 Restart
@@ -2466,21 +2466,21 @@ Aiming Stick
 Ziel-Stick
 Stick de visée
 Aiming Stick
-alavanca para mirar
+Analogico para mirar
 Levetta di mira
 Menu/Options/Controls/ALTERNATIVE_AIM
 Alternative aim
 Alternatywne celowanie
 Alternatives Zielen
 Visée alternative
-Mira alternativo
+Mira alternativa
 Apuntado alternativo
 Mira alternativa
 Menu/Options/Controls/COMBINE_GYRO_WITH_STICK
 Combine gyroscope input with the stick
 Kombinieren sie den Gyrosensor-Eingang mit dem Stick
 Combinez l'entrée du gyroscope avec le stick
-Combina la entrada del giroscopio con la palanca
+Combinar a entrada do giroscópio com o Analogico
 Combina l'ingresso del giroscopio con lo stick
 Menu/Options/Controls/CONTROL_GYRO
 Control gyroscope
@@ -2595,7 +2595,7 @@ Menu/Options/Controls/LEFT_STICK
 Left Stick
 Linker Stick
 Stick gauche
-Alavanca esquerda
+Analogico esquerdo
 Stick sinistro
 Menu/Options/Controls/NEXT_WEAPON
 Next weapon
@@ -2640,13 +2640,13 @@ Menu/Options/Controls/RIGHT_STICK
 Right Stick
 Rechter Stick
 Stick droit
-Palanca derecha 
+Analogico direito
 Stick destro 
 Menu/Options/Controls/SENSITIVITY
 Sensitivity
 Empfindlichkeit
 Sensibilité
-Sensibilidad
+Sensibilidade
 Sensibilità
 Menu/Options/Controls/SHOOT
 Fire
@@ -2658,7 +2658,7 @@ Menu/Options/Controls/SHOW_CONTROLLER_MAPPING
 Show controller mapping
 Steuerung einblenden
 Afficher le mappage des commandes
-Mostrar mapa de los controles
+Mostrar mapeamento do controle
 Mostra mappatura dei controller
 Menu/Options/Controls/SINGLE_JOYCON_MODE
 Tryb pojedynczego Joy-Con™
@@ -2807,13 +2807,13 @@ Menu/Options/Gameplay/ScoreNotificationsMode/DISABLED
 Disabled
 Deaktiviert
 Désactivé
-Desativado
+Desligado
 Disabilitato
 Menu/Options/Gameplay/ScoreNotificationsMode/ENABLED
 Enabled
 Aktiviert
 Activé
-Ativado
+Ligado
 Abilitato
 Menu/Options/Gameplay/ScoreNotificationsMode/MINIMALISTIC
 Minimalistic
@@ -3107,7 +3107,7 @@ Menu/Options/Sound/MUTE_UI
 Mute UI effects
 UI-Effekte stumm
 Couper les effets de l’interface
-Silenciar efeitos da interface do usuário
+Silenciar efeitos da IU
 Silenzia effetti IU
 Menu/Options/Sound/SHOT_VOLUME
 Shot volume
@@ -3125,7 +3125,7 @@ Menu/Options/Sound/UI_EFFECTS_VOLUME
 UI effects volume
 UI-Effektlautstärke
 Volume des effets de l’interface
-Volume dos efeitos da interface do usuário
+Volume dos efeitos da IU
 Volume effetti IU
 Menu/Options/Sound/USE_CONTROLLER_SPEAKER
 Use controller speaker
@@ -3157,7 +3157,7 @@ Menu/Options/States/NONE
 Off
 Aus
 Désactivé
-Desativado
+Desligado
 Spento
 Menu/Start/Chapter/Description/CHAPTER_1
 "Curien Mansion keeps all secrets of DBR Corporation which conducts experiments on human genom. Regarding to some reports, in 1998 property was linked to disappearances and incident of releasing hostile biologically-engineered creatures in the mansion. However true events were hid by AMS forever with no report, leaving blurry testimonies of 
@@ -3300,13 +3300,13 @@ Tryb wieloosobowy
 Mehrspielermodus
 Mode multijoueur
 Multiplayer mode
-Modo multijuador
+Modo multijogador
 Modalità multiplayer
 MultiplayerMode/SINGLEPLAYER
 Disabled
 Deaktiviert
 Désactivé
-Desativado
+Desligado
 Disabilitato
 Nofitications/ACHIEVEMENT_UNLOCKED
 Achievement {0} unlocked!
@@ -3706,13 +3706,13 @@ Killed Opponents
 Zabici przeciwnicy
 Getötete Gegner
 Adversaires tués
-Oponentes mortos
+Inimigos mortos
 Avversari uccisi
 Stats/PLAYER_DEATHS
 Player Deaths
 Spielertode
 Morts joueur
-Mortes de jogadores
+Jogadores mortos
 Morti del giocatore
 Stats/PLAYER_DISTANCE
 Player Distance
@@ -3789,7 +3789,7 @@ Traveled distance
 Przebyta droga
 Zurückgelegte Distanz
 Distance parcourue
-Distância recorrida
+Distância percorrida
 Distanza percorsa
 Stats/Times/FASTEST_GAME_ON_ARCADE
 Fastest game on Arcade
@@ -3853,52 +3853,52 @@ Tutorial/Description/ARMORY_TIP
 You have found a key to the Secret Armory! From now on new collectables can be found in a Curiens Mansion.
 Du hast den Schlüssel zur geheimen Waffenkammer gefunden. Du kannst nun neue Sammelobjekte in Curiens Herrenhaus finden.
 Tu as trouvé la clé de l’armurerie secrète ! Tu trouveras de nouveaux objets à récupérer dans le manoir du Dr Curien.
-¡Has encontrado la llave de la armería secreta! Desde ahora, podrás encontrar coleccionables en la mansión Curien.
+Você encontrou a chave do arsenal secreto! A partir de agora, você poderá encontrar itens colecionáveis ​​na mansão Curien.
 Hai trovato la chiave dell'Armeria Segreta! D'ora in poi potrai trovare nuovi oggetti collezionabili all'interno di Villa Curien.
 Tutorial/Description/BADGES_TIP
 All agents are rewarded while their Badge collection grows. Make sure to expand yours and get access to secret codes that only best agents knows!
 Alle Agenten werden belohnt, wenn ihre Abzeichensammlung wächst. Stelle sicher, deine Sammlung zu erweitern, und erhalte Zugang zu geheimen Codes, die nur die besten Agenten kennen!
 Les agents sont récompensés lorsqu’ils agrandissent leur collection de badges. Complète ta collection pour avoir accès à des codes secrets réservés aux meilleurs agents !
-Todos los agentes recibirán una recompensa al aumentar su colección de medallas. ¡Asegúrate de ampliar la tuya y conseguir acceso a códigos secretos, conocidos solo por los mejores agentes!
+Todos os agentes receberão uma recompensa por aumentar sua coleção de medalhas. Certifique-se de atualizar o seu e ter acesso a códigos secretos, conhecidos apenas pelos melhores agentes!
 Tutti gli agenti vengono premiati, e la loro collezione di distintivi cresce. Assicurati di ampliare la tua e ottieni l'accesso a codici segreti che solo i migliori agenti conoscono!
 Tutorial/Description/BESTIARY_TIP
 Here you can learn more about enemies. Be sure to unlock them all by traveling through different paths of Curiens Mansion labyrinth.
 Hier erfährst du mehr über deine Gegner. Schalte alle Einträge frei, indem du die verschiedenen Wege durch Curiens Herrenhaus erkundest.
-Aquí podrás saber más acerca de los enemigos. Asegúrate de desbloquearlos todos, yendo por caminos diferentes del laberinto de la mansión Curien.
+Aqui você pode aprender mais sobre seus inimigos. Desbloqueie todas as entradas explorando os diferentes caminhos pela mansão de Curia.
 Qui puoi imparare di più sui nemici. Assicurati di sbloccarli tutti viaggiando attraverso i diversi percorsi del labirinto di Villa Curien.
 Tutorial/Description/CHARACTER_SELECTION_TIP
 Playing with different characters will help you to understand better what happened in Curiens Mansion and will affect game ending.
 Wenn du mit verschiedenen Charakteren spielst, erfährst du mehr über die Ereignisse in Curiens Herrenhaus und schaltest unterschiedliche Enden frei.
 Incarne différents personnages pour percer les mystères des événements qui se sont déroulés au manoir du Dr Curien et changer la façon dont se conclura ton histoire.
-Si juegas con personajes distintos entenderás mejor lo que pasó en la mansión Curien, y esto también afectará al final del juego.
+Se você jogar com personagens diferentes, entenderá melhor o que aconteceu na mansão Curien, e isso também afetará o final do jogo.
 Giocare con diversi personaggi ti aiuterà a capire meglio cosa è successo a Villa Curien e influirà sul finale del gioco.
 Tutorial/Description/DEFAULT_TIP_DESCRIPTION
 Play more! You will get better over time and you will eventually improve your score!
 Spiel weiter! Du wirst dadurch besser und bekommst mehr Punkte.
-¡Juega más! ¡Mejorarás con el tiempo y la práctica hará que mejores tu puntuación!
+Jogue mais! Você vai melhorar com o tempo e a prática vai melhorar sua pontuação!
 Gioca di più! Migliorerai con il tempo e alla fine otterrai un punteggio più alto!
 Tutorial/Description/LOCKED_ARMORY_TIP
 Just a regular wardrobe... curious what's inside of it? Some say that lives of innocent Scientists may lead to secret places.
 Ein ganz normaler Kleiderschrank. Was wohl darin ist? Man sagt, die Leben unschuldiger Wissenschaftler führten zu geheimen Orten.
 Une armoire somme toute banale... mais que peut-elle contenir ? Certains disent que sauver des scientifiques innocents peut ouvrir des portes secrètes.
-Parece un armario normal... ¿quieres saber qué hay dentro? Algunos dicen que las vidas de los científicos inocentes pueden conducir a lugares secretos.
+Parece um armario normal... quer saber o que tem dentro? Alguns dizem que a vida de cientistas inocentes pode levar a lugares secretos.
 Un normale guardaroba... vuoi sapere cosa c'è dentro? Si dice che la vita o la morte di scienziati innocenti possano condurre in luoghi segreti.
 Tutorial/Description/MULTIPLAYER_TIP
 Killing creatures with your friends! Even though it's fun - keep in mind that local cooperative and competitive modes affects some statistics and enemies locations.
 Kreaturen ohne Freunde zu töten macht auch Spaß. Bedenke jedoch, dass lokale Koop- und Wettbewerbsmodi einige Attribute und Gegnerstandorte beeinflussen.
 Tuer des créatures avec ses amis c’est super fun... mais n’oublie pas que les modes locaux en coopération et en 1-contre-1 affectent certaines statistiques ainsi que l’emplacement des ennemis.
-¡Mata criaturas con tus amigos! Aunque es divertido, ten en cuenta que los modos cooperativo local y competitivo afectan a ciertas estadísticas y a la ubicación de los enemigos.
+Mate criaturas com seus amigos! Embora seja divertido, lembre-se de que os modos cooperativo e competitivo locais afetam certas estatísticas e o posicionamento do inimigo.
 Uccidere creature con gli amici è divertente! Ricorda però che le modalità cooperative e competitive locali influenzano alcune statistiche e le posizioni dei nemici.
 Tutorial/Description/NEW_GAME_TIP
 There are many ways to play the game, so make sure to review all options and create a session that suits you best!
 Es gibt unterschiedliche Möglichkeiten, das Spiel zu spielen. Sieh dir alle Optionen an und wähle deine persönlichen Favoriten aus.
 Ce ne sont pas les façons de jouer qui manquent, alors prends le temps de regarder toutes les options pour créer une session qui te ressemble !
-Hay muchas formas de jugar, por lo que revisa todas las opciones y crea una sesión de la forma que más te apetezca.
+Há muitas formas de jogar, então confira todas as opções e crie uma sessão do jeito que você quiser.
 Ci sono molti modi di giocare, quindi assicurati di valutare tutte le opzioni e di impostare una sessione che ti soddisfi al massimo!
 Tutorial/Description/STATS_TIP
 Here you can track your career progress, effectivenes during battle, number of cut limbs and many, many more! These numbers will improve with your skill, so make sure to review them frome time to time.
 Hier kannst du deinen Fortschritt, deine Schlagkräftigkeit im Kampf, die Anzahl abgetrennter Gliedmaßen und vieles mehr überprüfen. Die Werte steigen mit deiner Erfahrung. Sieh immer wieder nach.
-Aquí podrás comprobar tu progreso en el juego, tu efectividad en el combate, el número de extremidades cortadas... ¡y mucho, mucho más! Estos números mejorarán al mismo tiempo que tu habilidad, así que compruébalos de vez en cuando.
+Aqui você pode verificar seu progresso no jogo, sua eficácia em combate, o número de membros decepados... e muito, muito mais! Esses números melhorarão junto com sua habilidade, então verifique-os de tempos em tempos.
 Qui puoi monitorare i tuoi progressi professionali, le tue prestazioni in battaglia, il numero di arti tagliati e molto, molto altro!  Questi numeri miglioreranno in base alla tua abilità, quindi torna a controllarli di tanto in tanto.
 Tutorial/SKIP_TUTORIAL
 Skip tutorial
