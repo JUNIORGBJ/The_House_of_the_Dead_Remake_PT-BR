@@ -449,7 +449,7 @@ Achievements/REINFORCEMENTS
 Reinforcements!
 Verstärkungen!
 Renforts !
-¡Refuerzos!
+Reforços!
 Rinforzi!
 Achievements/RINGO
 Ringo
@@ -808,7 +808,7 @@ Bestiary/Name/DEVILON
 Devilon
 Diaboli
 Diablotin
-Demonio
+Devilon
 Demonio
 Bestiary/Name/DRAKE
 Drake
@@ -1221,7 +1221,7 @@ GameplayTips/TIP_ASCII_ZOMBIE
 [¬º-° ]¬
 [¬º-° ]¬
 [¬º-° ]¬
-[¬º-° ]¬
+Traduções gBj
 [¬º-° ]¬
 GameplayTips/TIP_ASSAULT_RIFFLE
 Assault riffle is all you need if you are working for the press!
@@ -1513,7 +1513,7 @@ Buy extra credits for {0} points
 Kup dodatkowe kredyty za {0} punktów
 Weitere Credits für {0} Punkte kaufen
 Achète des crédits pour {0} points
-Compre créditos extra por {0} pontos
+Comprar créditos extra por {0} pontos
 Compra gettoni extra per {0} punti
 HUD/CHARIOT_TYPE
 Chariot TYPE 27
@@ -2117,7 +2117,7 @@ Camera reset
 Reset kamery
 Kamera-Reset
 Réinitialisation de la caméra
-Reiniciar cámara
+Reiniciar Câmera
 Ripristino telecamera
 Menu/Hints/CANCEL
 Cancel
@@ -2354,7 +2354,7 @@ Main menu
 Hauptmenü
 Menu principal
 Main menu
-Menú principal
+Menu principal
 Menu principale
 Menu/Main/MODERN
 Modern
@@ -2715,14 +2715,14 @@ Menu/Options/FullScreenModes/MAXIMIZED_WINDOW
 Maximized Window
 Max. Fenster
 Fenêtre maximisée
-Ventana maximizada
+Janela maximizada
 Finestra massimizzata
 Menu/Options/FullScreenModes/WINDOWED
 Windowed
 Obraz w oknie
 Fenster
 Fenêtré
-Ventana
+Janela
 A finestra
 Menu/Options/GAMEPLAY
 Gameplay
@@ -2764,7 +2764,7 @@ Menu/Options/Gameplay/CROSSHAIR_SPEED
 Crosshair speed
 Fadenkreuztempo
 Vitesse du viseur
-Velocidade do mira
+Velocidade da mira
 Velocità del mirino
 Menu/Options/Gameplay/DISPLAY_AMMO_ON_CROSSHAIR
 Display ammo on crosshair
@@ -3930,7 +3930,7 @@ Tutorial/Title/DEFAULT_TIP_TITLE
 You should know this:
 Wichtige Hinweise:
 Bon à savoir :
-Você deve saber disso:
+Você precisa saber disso:
 Presta attenzione:
 Tutorial/Title/MULTIPLAYER_TIP
 What is better than killing Creatures?
