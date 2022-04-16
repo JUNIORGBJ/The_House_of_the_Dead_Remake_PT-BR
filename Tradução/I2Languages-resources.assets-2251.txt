@@ -68,8 +68,8 @@ Achievements/DERATIZATION
 Deratization
 Deratyzacja
 Rattenvernichtung
-Desratização
-Desratização
+Desratizaçäo
+Desratizaçäo
 Derattizzazione
 Achievements/Descriptions/AGENT
 Beat campaign at any difficulty.
@@ -297,7 +297,7 @@ Achievements/Descriptions/TRUE_ENDING
 Complete the game with a total score of over 62,000
 Beende das Spiel mit einer Gesamtpunktzahl über 62.000.
 Finis le jeu avec un score total supérieur à 62 000 points.
-Complete o jogo com uma pontuação total de mais de 62.000
+Complete o jogo com uma pontuaçäo total de mais de 62.000
 Termina il gioco con un punteggio totale superiore a 62.000
 Achievements/Descriptions/TRY_THIS
 Collect your first additional weapon.
@@ -407,7 +407,7 @@ Not this time!
 Nie tym razem!
 Nicht diesmal!
 Pas cette fois !
-Não dessa vez!
+Näo dessa vez!
 Non questa volta!
 Achievements/NO_AMMO_WASTED
 No ammo wasted
@@ -563,25 +563,25 @@ A fat creature similar to Samson. He might not look like it but he’s fast and 
 Gruba kreatura podobna do Samsona. Wbrew pozorom jest szybka i wytrzymała. Rzuca beczkami w gracza. Gdy się zjawi, należy zatrzymać jej atak gradem kul. Po rzuceniu beczką rusza w kierunku gracza.
 Diese fettleibige Kreatur ähnelt Samson. Trotz seiner Körperfülle ist er sehr schnell und ausdauernd. Er schleudert dem Spieler Fässer entgegen. Gegen seine Angriffe hilft nur Sperrfeuer. Wenn er ein Fass geworfen hat, stürmt er auf den Spieler zu.
 Semblable à Samson, cette créature bien en chair est plus rapide et robuste qu’il n’y paraît. Elle se bat en envoyant des tonneaux à ses ennemis, mais il est possible de stopper son attaque en l’arrosant de balles. Une fois qu’elle en a fini avec les tonneaux, elle charge en direction de sa proie.
-Uma criatura gorda parecida com Samson. Embora possa não parecer, é rápido e resistente. Joga barris no jogador, mas é possível parar seu ataque cobrindo-o de balas. Depois de jogar o barril, ele correrá em direção ao jogador.
+Uma criatura gorda parecida com Samson. Embora possa näo parecer, é rápido e resistente. Joga barris no jogador, mas é possível parar seu ataque cobrindo-o de balas. Depois de jogar o barril, ele correrá em direçäo ao jogador.
 Una creatura veloce, simile a Samson. Anche se non sembrerebbe, è veloce e resiliente. Scaglia barili contro il giocatore. Quando appare, puoi bloccare i suoi attacchi con una raffica di proiettili. Dopo aver lanciato i barili, corre verso il giocatore.
 Bestiary/Description/BOURBON
 He hides in the sewers and other wet places. He often jumps from behind the columns. He’s stronger and faster than Kageo. He also deals more damage, so don’t underestimate him. He sometimes lurks in the water and unexpectedly jumps out of it.
 Er verbirgt sich in der Kanalisation und an anderen feuchten Orten. Oft springt er hinter Säulen hervor. Er ist stärker und schneller als Kageo. Außerdem teilt er mehr Schaden aus. Unterschätze ihn nicht! Manchmal lauert er unter Wasser auf seine Beute.
 Il faut dire qu’elle aime se terrer dans les coins humides, comme les égouts. Elle aime aussi se cacher derrière des colonnes pour surprendre ses ennemis. Plus rapide, plus puissante et plus robuste que Kageo, cette créature ne doit pas être sous-estimée ! Parfois, on la trouve tapie dans les eaux troubles à attendre sa proie.
-Ele se esconde em esgotos e outros lugares úmidos. Geralmente salta por trás das colunas. Ele é mais forte e mais rápido que Kageo. Ele também causa mais danos, então não o subestime. Às vezes, ele se esconde na água e inesperadamente salta dela.
+Ele se esconde em esgotos e outros lugares úmidos. Geralmente salta por trás das colunas. Ele é mais forte e mais rápido que Kageo. Ele também causa mais danos, entäo näo o subestime. Às vezes, ele se esconde na água e inesperadamente salta dela.
 Si nasconde nelle fogne e in altri posti umidi. Spesso sbuca da dietro le colonne saltando. È più forte e più veloce di Kageo. Infligge anche più danni, quindi non sottovalutarlo. A volte si acquatta nell'acqua e salta fuori all'improvviso.
 Bestiary/Description/BUEEL
 A creature created to look like a frog. It leaps at you to bite. Since it only lives near the water, its habitat is limited. That’s why you have to be careful near the bodies of water because it can suddenly emerge from the depths.
 Diese Kreatur erinnert an einen Frosch. Sie springt dich an und beißt zu. Ihr Habitat liegt ausschließlich am Wasser. Sei immer auf ihr Auftauchen gefasst, wenn Wasser in der Nähe ist! 
 Volontairement calquée sur une grenouille, cette créature saute sur ses adversaires pour les mordre. On la trouve uniquement près des milieux aquatiques, où elle peut surprendre ses proies en surgissant du fond de l’eau. La prudence est de mise ! 
-Uma criatura criada para se parecer com um sapo. Ele vai pular em sua direção para mordê-lo. Como vive apenas perto da água, seu habitat é limitado. Portanto, você deve ter cuidado ao se aproximar da água, pois ela pode emergir sem aviso das profundezas.
+Uma criatura criada para se parecer com um sapo. Ele vai pular em sua direçäo para mordê-lo. Como vive apenas perto da água, seu habitat é limitado. Portanto, você deve ter cuidado ao se aproximar da água, pois ela pode emergir sem aviso das profundezas.
 Una creatura concepita per assomigliare a una rana. Ti salta addosso per morderti. Poiché vive solo vicino all'acqua, il suo habitat è circoscritto. Ecco perché devi fare attenzione in prossimità dei corsi d'acqua: potrebbe emergere all'improvviso dalle profondità. 
 Bestiary/Description/BURNER
 An improved version of Samson. He attacks with a flame thrower. He’s resilient but slow. Just like Samson, he does not get damaged in the right hand where he holds the flame thrower. Since he’s big, he’s easy to kill. You need to try aiming for the head. 
 Eine verbesserte Version von Samson, die mit einem Flammenwerfer angreift. Er ist zäh, aber langsam. Wie bei Samson ist die rechte Hand mit dem Flammenwerfer unverwundbar. Aufgrund seiner Größe kannst du ihn rasch erledigen. Ziele immer auf den Kopf.
 Version améliorée de Samson, cette créature se bat avec un lance-flammes. Elle est robuste, mais lente. Comme Samson, sa main droite est protégée des projectiles grâce à son arme. En raison de sa taille, elle est toutefois facile à tuer : il suffit de viser la tête.
-Uma versão melhorada de Samson. Ataca com um lança-chamas. Ela é resistente, mas lento. Como Samson, ele não sofre nenhum dano à mão direita, com a qual empunha o lança-chamas. Sendo grande, é fácil de matar. Tente apontar para a cabeça.
+Uma versäo melhorada de Samson. Ataca com um lança-chamas. Ela é resistente, mas lento. Como Samson, ele näo sofre nenhum dano à mäo direita, com a qual empunha o lança-chamas. Sendo grande, é fácil de matar. Tente apontar para a cabeça.
 Una versione migliorata di Samson. Attacca con un lanciafiamme. È resiliente ma lento. Proprio come Samson, non subisce danni alla mano destra, con cui regge il lanciafiamme. Essendo grosso, è facile da uccidere. Cerca di mirare alla testa. Appare nel terzo quadro.
 Bestiary/Description/CHARIOT
 "Type-27, codenamed ""Chariot"", was an armored, bardiche-wielding behemoth. Chariot is a hulking, gas-masked humanoid clad in a suit of metallic armor. He maims his opponents with 
@@ -593,7 +593,7 @@ Tipo 27, nome in codice "Armatore", un colosso corazzato e armato di berdica. L'
 Bestiary/Description/CYRIL
 A creature that wields axes in both hands. He’s a very vigilant opponent – when he sees an enemy, he immediately attacks from the distance by throwing the axes. In close quarters, he swings the axes to hack and slash his enemies. You can shoot down flying axes to avoid getting damage.
 Diese Kreatur hat in jeder Hand eine Axt. Er ist überaus aufmerksam. Wenn er einen Feind entdeckt, greift er sofort aus der Ferne mit seinen Wurfäxten an. Im Nahkampf schlägt er mit den Äxten auf den Gegner ein. Du kannst geworfene Äxte abschießen, um Treffer zu vermeiden.
-Uma criatura que carrega machados em ambas as mãos. Ele é um inimigo que está sempre em guarda: quando vê um inimigo, ele imediatamente ataca de longe jogando seus machados. De perto, ele balança seus machados para cortar e mutilar seus inimigos. Você pode atirar nos machados para evitar que eles o machuquem.
+Uma criatura que carrega machados em ambas as mäos. Ele é um inimigo que está sempre em guarda: quando vê um inimigo, ele imediatamente ataca de longe jogando seus machados. De perto, ele balança seus machados para cortar e mutilar seus inimigos. Você pode atirar nos machados para evitar que eles o machuquem.
 Una creatura che brandisce un'ascia in ogni mano. È un avversario molto vigile: quando vede un nemico, attacca immediatamente a distanza lanciando le sue asce. Nello scontro ravvicinato fa roteare le asce per fare a pezzi e squartare i nemici. Puoi abbattere le asce volanti per evitare di subire danni.
 Bestiary/Description/DEVILON
 This creature was created from a bat. It often hangs upside down in dark rooms and if it sees you, it launches an attack. Its main attack pattern is charging at the player. Its presence will be increased during the fight with the boss in the second stage.
@@ -604,12 +604,12 @@ Questa creatura è stata ottenuta a partire da un pipistrello. Spesso se ne sta 
 Bestiary/Description/DRAKE
 Diese Kreatur sieht aus wie Rubin. Er ist flink und setzt Messer ein. Seine Angriffe sind schnell. Er kann dich überraschen und seine Messer werfen. Oft arbeitet er mit Rubin zusammen und folgt einem ähnlichen Angriffsmuster. Wenn er die Messer verloren hat, stürzt er sich auf den Spieler.
 Cette créature semblable à Rubin est tout aussi agile, mais utilise comme arme des couteaux. Ses attaques sont rapides et elle peut surprendre ses adversaires en leur lançant des couteaux. Elle fait souvent équipe avec Rubin, qui attaque à peu près de la même façon. Quand elle est désarmée, elle se met alors à charger en direction de son ennemi.
-Uma criatura que se parece muito com Rubin. Ele também é ágil, mas usa facas. Seus ataques são rápidos, e ele será capaz de te pegar de surpresa e atirar uma faca em você. Ele geralmente aparece ao lado de Rubin e seu ataque favorito é semelhante. Se ele perder suas facas, correrá em direção ao inimigo.
+Uma criatura que se parece muito com Rubin. Ele também é ágil, mas usa facas. Seus ataques säo rápidos, e ele será capaz de te pegar de surpresa e atirar uma faca em você. Ele geralmente aparece ao lado de Rubin e seu ataque favorito é semelhante. Se ele perder suas facas, correrá em direçäo ao inimigo.
 Una creatura che assomiglia a Rubin. Anche lui è agile, ma usa i coltelli. I suoi attacchi sono rapidi e può coglierti di sorpresa e lanciarti un coltello. Fa spesso coppia con Rubin e il suo schema di attacco è simile. Se perde i suoi coltelli, corre verso il giocatore.
 Bestiary/Description/EBITAN_A
 A hideous creature covered in mud and rotten flesh. Since he usually resides in water, his body is in advanced decay. He walks and suddenly jumps on the enemy or unexpectedly emerges from the water and attacks victims passing by. Since he’s agile, you need to stay vigilant in the places where he can hide. His main attack is bite.
 Eine ekelhafte Kreatur, die über und über mit Schlamm und fauligem Fleisch bedeckt ist. Da er sich häufig im Wasser aufhält, ist der Verwesungsprozess bei ihm weit fortgeschritten. Er springt sein Opfer aus dem Hinterhalt an oder taucht aus dem Wasser auf. Aufgrund seiner Beweglichkeit musst du an seinen bevorzugten Aufenthaltsorten besonders wachsam sein. Hauptangriff: Biss.
-Uma criatura medonha coberta de musgo e carne podre. Como ele costuma viver na água, seu corpo está em estágio avançado de decomposição. Ele anda e pula em seus inimigos de repente, ou sai da água inesperadamente e ataca as vítimas que passam. Ele é bastante ágil, então você deve ficar atento a lugares onde ele possa se esconder. Seu principal ataque é a mordida.
+Uma criatura medonha coberta de musgo e carne podre. Como ele costuma viver na água, seu corpo está em estágio avançado de decomposiçäo. Ele anda e pula em seus inimigos de repente, ou sai da água inesperadamente e ataca as vítimas que passam. Ele é bastante ágil, entäo você deve ficar atento a lugares onde ele possa se esconder. Seu principal ataque é a mordida.
 Una creatura orrenda, ricoperta di fango e carne putrefatta. Di solito vive in acqua, perciò il suo corpo è in uno stadio di decomposizione avanzato. Cammina e all'improvviso balza sul nemico o emerge dall'acqua e attacca le vittime di passaggio. È agile, quindi stai in guardia quando visiti i posti in cui potrebbe nascondersi. Attacca principalmente mordendo.
 Bestiary/Description/EBITAN_B
 A creature which lower half of the body completely decomposed and fell off. He hangs upside-down and waits for its victims. To defeat him you need a keen eye and good reflexes. He often appears in narrow passages.
@@ -621,24 +621,24 @@ Bestiary/Description/EBITAN_C
 A slimy, slow, decaying creature. His stature makes him an easy target, making him a minor threat. It can be found mainly in humid places without access to the sun, such as sewers.
 Eine schleimige, langsame und sich zersetzende Kreatur. Seine Größe macht ihn zu einem leichten Ziel, sodass er keine große Gefahr darstellt. Er ist hauptsächlich an feuchten Orten ohne Sonnenlicht anzutreffen, zum Beispiel in Abwasserkanälen.
 Une créature en décomposition lente et visqueuse. Sa stature en fait une cible parfaite qui ne devrait poser que peu de problèmes. On la trouve surtout dans les lieux humides et sombres, comme les égouts.
-Uma criatura viscosa, lenta e em decomposição. Sua altura o torna um alvo perfeito, então ele não representa uma grande ameaça. É encontrado principalmente em áreas úmidas sem acesso ao sol, como esgotos.
+Uma criatura viscosa, lenta e em decomposiçäo. Sua altura o torna um alvo perfeito, entäo ele näo representa uma grande ameaça. É encontrado principalmente em áreas úmidas sem acesso ao sol, como esgotos.
 Una creatura viscida, lenta e in decomposizione. La sua statura lo rende un facile bersaglio, facendone una minaccia minore. Si trova principalmente in luoghi umidi non esposti al sole, come le fogne.
 Bestiary/Description/GILMORE
 A creature with a large sledgehammer which crushes its victims mercilessly. He’s slow, so you can take him down last. In order to deal with him quickly, you need to shoot him in the hand in which he holds the hammer or in the head.
 Diese Kreatur zertrümmert ihre Opfer gnadenlos mit einem riesigen Vorschlaghammer. Zum Glück ist er langsam, sodass du ihn ganz zum Schluss erledigen kannst. Um ihn schnell auszuschalten, musst du die Hand mit dem Hammer oder seinen Kopf treffen.
-Uma criatura com um grande martelo, com o qual esmaga impiedosamente suas vítimas. É lento, então você pode deixa-lo por último. Para acabar com ele rapidamente, você precisará atirar na mão que segura o martelo ou na cabeça.
+Uma criatura com um grande martelo, com o qual esmaga impiedosamente suas vítimas. É lento, entäo você pode deixa-lo por último. Para acabar com ele rapidamente, você precisará atirar na mäo que segura o martelo ou na cabeça.
 Una creatura armata di un grosso martello con cui pesta le vittime senza pietà. È lento, quindi puoi abbatterlo per ultimo. Per sbarazzartene in fretta, devi sparargli alla testa o alla mano in cui tiene il martello.
 Bestiary/Description/HANGEDMAN
 "Type-041, codenamed ""Hangedman"", was a bat-like creature. Hangedman has the clawed fingers and toes, wings and glowing red eyes of a bat, yet also the body shape and speech of a human, while his head in the original game is avian-like. He is wearing pieces of armor over his body. After sending waves of Devilons at his prey, the creature flies about for an opportunity to swoop for 
 a claw attack."
 Typ 041, Codename "Hänger", ist eine fledermausähnliche Kreatur. Seine Finger und Zehen erinnern an Klauen einer Fledermaus, ebenso die Schwingen und die roten Augen. Körper und Stimme sind die eines Menschen. Im Original besitzt er einen Vogelkopf. Er trägt mehrere Rüstungsteile. Nachdem er mehrere Wellen von Diaboli auf sein Opfer gehetzt hat, fliegt er über dessen Kopf herum und sucht nach einer Möglichkeit, einen Klauenangriff zu starten. 
-Classe-041, apelido "Hangedman", um humanóide em forma de morcego. Hangedman tem garras nas mãos e dedos, asas e os olhos vermelhos brilhantes de um morcego, mas ele tem um corpo e a fala de um humano, enquanto sua cabeça no jogo original se parece com a de um pássaro. Ele usa peças de armadura em seu corpo. Depois de enviar ondas de Devilons em sua presa, a criatura vai voar para ter a chance de mergulhar e atacar com suas garras.
+Classe-041, apelido "Hangedman", um humanóide em forma de morcego. Hangedman tem garras nas mäos e dedos, asas e os olhos vermelhos brilhantes de um morcego, mas ele tem um corpo e a fala de um humano, enquanto sua cabeça no jogo original se parece com a de um pássaro. Ele usa peças de armadura em seu corpo. Depois de enviar ondas de Devilons em sua presa, a criatura vai voar para ter a chance de mergulhar e atacar com suas garras.
 Tipo 041, nome in codice "L'Appeso", un umanoide simile a un pipistrello.  L'Appeso è dotato di artigli sulle dita delle mani e dei piedi, ali e occhi rosso fuoco come quelli di un pipistrello, ma ha il corpo di un umano e parla come un umano, anche se nel gioco originale la sua testa somiglia a quella di un uccello.  Indossa pezzi di armatura.  Dopo aver sguinzagliato orde di Demoni contro la sua preda, questa creatura vola aspettando il momento opportuno per lanciarsi in picchiata e attaccare con i suoi artigli.
 Bestiary/Description/HARRIS
 A creature swinging a ball on the chain. If the ball is thrown towards you, you cannot avoid it. By aiming at his right hand, you can stop him from attacking. If he loses his iron ball, he rushes towards the player.
 Diese Kreatur schleudert eine Abrissbirne als Waffe. Du kannst der Stahlkugel nicht ausweichen. Ziele auf seine rechte Hand, um den Angriff zu verhindern. Wenn er die Abrissbirne verloren hat, stürzt er sich auf den Spieler.
 Cette créature se bat avec un boulet au bout d’une chaîne. Quand elle lance son boulet en direction d’un adversaire, il n’est pas possible de le dévier. On peut cependant stopper son attaque en visant sa main droite. Quand elle est désarmée, elle se met alors à charger en direction de son ennemi.
-Uma criatura que arremessa uma bola presa a uma corrente. Se ele jogar a bola em você, você não conseguirá se esquivar. Você pode fazê-lo parar de atacar se atirar na mão direita. Se ele errar a bola de ferro, ele correrá em direção ao inimigo.
+Uma criatura que arremessa uma bola presa a uma corrente. Se ele jogar a bola em você, você näo conseguirá se esquivar. Você pode fazê-lo parar de atacar se atirar na mäo direita. Se ele errar a bola de ferro, ele correrá em direçäo ao inimigo.
 Una creatura che fa roteare una palla con una catena. Se tira la palla verso di te, non puoi evitarla. Puoi impedirgli di attaccare mirando alla sua mano destra. Se perde la sua palla di ferro, corre verso il giocatore.
 Bestiary/Description/HERMIT
 Type-6803, codenamed "Hermit", was an armored, eight-legged insectoid. Hermit is a large spider-like creature, complete with eight legs and multiple eyes. Writhing tentacle-like attachments protrude from its mouth. Its head is its weak point.
@@ -651,7 +651,7 @@ Bestiary/Description/IVAN
 He is not one of the most persistent, but do not let appearances deceive you. When you are within his grasp, it may be too late to survive.
 Er ist nicht gerade ausdauernd, aber lass dich nicht von seinem Aussehen täuschen! Wenn du ihm zu nahe kommst, ist es vielleicht schon um dich geschehen!
 Elle ne semble pas forcément la plus obstinée, mais les apparences sont ici trompeuses. Quand elle arrive à nous attraper, il n’est pas facile de sortir de ses griffes.
-Não é um dos mais persistentes, mas não se deixe enganar pelas aparências. Se você chegar ao alcance deles, pode ser tarde demais para sobreviver.
+Näo é um dos mais persistentes, mas näo se deixe enganar pelas aparências. Se você chegar ao alcance deles, pode ser tarde demais para sobreviver.
 Non è tra i più ostinati, ma non lasciarti ingannare dalle apparenze. Se ti trovi faccia a faccia con lui, potrebbe essere troppo tardi.
 Bestiary/Description/KAGE
 He moves and attacks like Saruzou but is much more durable. His name means "shadow" which is the last thing you'll see if it catches you.
@@ -663,23 +663,23 @@ Bestiary/Description/KAGEO
 A creature in the worst condition and with sunken eyes. He prefers humid and warm places. He has low resilience and is slow. His main attack is hand strike or bite.
 Diese Kreatur sieht mit ihren eingesunkenen Augen zum Fürchten aus. Er mag es feucht und warm, ist nicht besonders widerstandsfähig und eher langsam. Hauptangriff: Faustschlag und Biss.
 Cette créature en piteux état et aux yeux renfoncés apprécie les endroits chauds et humides. Par nature, elle est lente et chétive. Elle se bat en mordant et en frappant ses adversaires.
-Uma criatura no pior estado possível, com olhos fundos. Prefere lugares úmidos e quentes. Tem baixa resistência e é lento. Seu principal ataque é a mordida ou o golpe com a mão.
+Uma criatura no pior estado possível, com olhos fundos. Prefere lugares úmidos e quentes. Tem baixa resistência e é lento. Seu principal ataque é a mordida ou o golpe com a mäo.
 Una creatura in pessimo stato e con gli occhi infossati. Predilige i posti caldi e umidi. È lento e ha una scarsa resilienza. Attacca principalmente mordendo e colpendo con le mani.
 Bestiary/Description/KENFIS
 Diese Kreatur sieht aus wie ein Hund mit Flügeln. Er kann jedoch nicht fliegen. Hauptangriff: Biss. Er springt Haken schlagen auf dich zu und ist schwierig zu treffen. Es gibt ihn in mehreren Arten, die unterschiedlich gefärbt und mehr oder weniger zäh sind.
 Cette créature ressemble à un chien ailé... mais elle ne peut pas voler. Son attaque fétiche, c’est la morsure. Elle se déplace en sautant de droite à gauche, ce qui la rend difficile à viser. Ce monstre peut prendre différentes formes qui varient en couleur et en niveau de résilience.
-Esta criatura parece um cachorro com asas, mas não pode voar. Seu principal ataque é a mordida. É difícil alcançá-lo, pois ele se aproxima de você pulando de um lado para o outro. Existem vários tipos, de diferentes cores e diferentes resistências.
+Esta criatura parece um cachorro com asas, mas näo pode voar. Seu principal ataque é a mordida. É difícil alcançá-lo, pois ele se aproxima de você pulando de um lado para o outro. Existem vários tipos, de diferentes cores e diferentes resistências.
 Questa creatura assomiglia a un cane con le ali, ma non può volare. Attacca principalmente mordendo. È difficile prenderlo di mira perché si avvicina saltando da un lato all'altro. Ne esistono vari tipi, di colori diversi e resilienza variabile.
 Bestiary/Description/LOCKED
 You haven't killed that type of enemy yet! To unlock an enemy model preview and description, you must first find and kill it!
 Du hast diese Art von Gegner noch nicht getötet! Um die Modellvorschau und Beschreibung eines Gegners freizuschalten, musst du ihn zuerst finden und töten!
-Você ainda não matou esse tipo de inimigo! Para desbloquear a visualização e a descrição de um tipo de inimigo, você deve primeiro encontrá-lo e matá-lo.
+Você ainda näo matou esse tipo de inimigo! Para desbloquear a visualizaçäo e a descriçäo de um tipo de inimigo, você deve primeiro encontrá-lo e matá-lo.
 Non hai ancora ucciso quel tipo di nemico! Per sbloccare l'anteprima e la descrizione di un modello di nemico, devi prima trovarlo e ucciderlo!
 Bestiary/Description/MAGICIAN
 Type-0, codenamed "Magician", is greatest Curien's masterpiece. Created to rule human. It's a synthetic humanoid creature with pyrokinetic and levitational powers. Apparently his attack is the most beautiful. It is powerful creature even though it is still under development.
 Typ 0, Codename "Magier", ist Curiens größtes Meisterwerk. Er wurde erschaffen, um die Menschheit zu beherrschen. Er ist eine künstliche, humanoide Kreatur, die Pyrokinese und Levitation beherrscht. Man sagt, seine Angriffe seien wunderschön. Obwohl er sich noch in der Entwicklungsphase befindet, ist er eine mächtige Kreatur.
 Le type-0, nom de code « Magicien », est le chef-d'œuvre de Curien, créé pour dominer les humains. C'est une créature humanoïde de synthèse dotée des pouvoirs de pyrokinésie et de lévitation. Il paraît que son attaque est magnifique à voir. C'est une créature puissante, même si elle est encore en phase de développement.
-Classe-0, apelido "Mago", é a obra-prima de Curien, e foi criado para dominar a humanidade. É uma criatura sintética com aparência humanóide e poderes pirocinéticos e de levitação. Aparentemente, seus ataques são de grande beleza. É uma criatura poderosa, embora ainda esteja em processo de criação.
+Classe-0, apelido "Mago", é a obra-prima de Curien, e foi criado para dominar a humanidade. É uma criatura sintética com aparência humanóide e poderes pirocinéticos e de levitaçäo. Aparentemente, seus ataques säo de grande beleza. É uma criatura poderosa, embora ainda esteja em processo de criaçäo.
 Tipo-0, nome in codice "Il Mago". È il più grande capolavoro di Curien, creato per dominare gli umani. Una creatura umanoide sintetica con poteri pirocinetici e levitazionali. Sembra che il suo attacco sia il più scenografico. Nonostante sia ancora in fase di sviluppo, è una creatura molto potente.
 Bestiary/Description/MOODY
 He looks more like a cyborg than a creature. He often appears in pairs. He attacks with iron claws in his right arm.
@@ -691,12 +691,12 @@ Bestiary/Description/MURRER
 A snake-like creature. It squirms on the ground and lunges at the player. It rarely appears individually. It usually appears in groups of 2–5. Its head explodes when you hit it.
 Eine schlangenähnliche Kreatur, die sich über den Boden windet und zum Angreifen vorschnellt. Kein Einzelgänger, sondern meist in 2 bis 5 Exemplaren starken Gruppen anzutreffen. Der Kopf explodiert, wenn du einen Treffer landest.
 Cette créature semblable à un serpent rampe sur le sol et plonge sur ses adversaires. Elle apparaît rarement seule, mais plutôt en groupe de 2 à 5 spécimens. Sa tête explose quand un projectile la touche.
-Uma criatura parecida com uma cobra. Ele se contorce no chão e ataca o inimigo. Ele raramente aparece sozinho. Geralmente aparece em grupos de 2 a 5. Se você o acertar, sua cabeça explodirá.
+Uma criatura parecida com uma cobra. Ele se contorce no chäo e ataca o inimigo. Ele raramente aparece sozinho. Geralmente aparece em grupos de 2 a 5. Se você o acertar, sua cabeça explodirá.
 Una creatura simile a un serpente. Si contorce per terra e si scaglia contro il giocatore. Raramente appare da solo. Di solito appare in gruppi da 2-5. La sua testa esplode quando la colpisci.
 Bestiary/Description/NAIL
 Diese Kreatur ist besser gekleidet als Sam. Er ist quasi Sam 2.0 mit stärkeren und wirksameren Angriffen. Er versteckt sich oft im Schatten. Das vernarbte Gesicht und das zerzauste Haar wirken furchterregend. Hauptangriff: Umstoßen, Knöchelschlag und Biss. 
 Cette créature est une version améliorée (et mieux habillée !) de Sam : ses attaques sont plus fortes et plus efficaces. Tapie dans les ténèbres, elle surgit souvent sans prévenir. Avec son visage balafré et ses cheveux en bataille, son statut de créature ne fait aucun doute. Elle se bat en mordant et en frappant ses adversaires. 
-Ele aparece mais bem vestido do que Sam. É a versão melhorada de Sam, então seus ataques são mais poderosos e eficazes. Muitas vezes emerge das sombras. Seu rosto cheio de cicatrizes e cabelo bagunçado lhe dão uma aparência aterrorizante. Seu principal ataque é o chute ou a mordida.
+Ele aparece mais bem vestido do que Sam. É a versäo melhorada de Sam, entäo seus ataques säo mais poderosos e eficazes. Muitas vezes emerge das sombras. Seu rosto cheio de cicatrizes e cabelo bagunçado lhe däo uma aparência aterrorizante. Seu principal ataque é o chute ou a mordida.
 È vestito meglio di Sam. È la versione migliorata di Sam, quindi i suoi attacchi sono più forti e più efficaci. Spesso emerge dall'ombra. Le cicatrici sul volto e i capelli arruffati lo fanno assomigliare a una creatura. Attacca principalmente mordendo e colpendo con le mani. 
 Bestiary/Description/NAME
 A creature created by enhancing a slug. It lives in the building sewers. It has low resiliency but if you get closer, it will bite you. It appears only in the first stage.
@@ -707,26 +707,26 @@ Bestiary/Description/PARLOR
 He attacks with laser knives. Similar to Drake. He’s agile like a ninja and his laser knife attacks are hard to dodge. He must be neutralized quickly.
 Diese Kreatur greift mit Lasermessern an. Er ähnelt Drake. Er ist flink wie ein Ninja. Seinen Lasermessern kann man kaum ausweichen. Du musst ihn unbedingt schnell ausschalten.
 Semblable à Drake, cette créature utilise comme arme des couteaux laser. Elle est agile comme un ninja et ses attaques au couteau sont difficiles à éviter. Elle doit être neutralisée rapidement.
-Ataque com facas a laser. Semelhante a Drake. Ele é ágil como um ninja e seus ataques de faca a laser são difíceis de evitar. Deve ser rapidamente neutralizado.
+Ataque com facas a laser. Semelhante a Drake. Ele é ágil como um ninja e seus ataques de faca a laser säo difíceis de evitar. Deve ser rapidamente neutralizado.
 Attacca con coltelli laser. Simile a Drake. È agile come un ninja e i suoi coltelli laser sono difficili da schivare. Deve essere neutralizzato velocemente.
 Bestiary/Description/ROBERT
 Improved and final form of Sam. He has an iron armour covering parts of his body which makes him immune to bullets in these places. He’s a hard enemy because half of his face is protected by the iron armor which makes it harder to hit the head. His main attack is hand strike.
 Die verbesserte und endgültige Entwicklungsform von Sam. Eine Eisenrüstung bedeckt Teile seines Körpers, sodass deine Kugeln ihm an diesen Stellen nichts anhaben können. Er ist eine harte Nuss, denn das Gesicht wird durch einen eisernen Helm geschützt. Kopftreffer sind sehr schwierig zu landen! Hauptangriff: Faustschlag.
-Versão final e melhorada de Sam. Ele tem uma armadura de ferro que cobre partes de seu corpo, tornando-o imune a balas nesses locais. Ele é um inimigo muito duro, pois metade de seu rosto está protegido pela máscara de ferro, o que torna difícil atingi-lo na cabeça. Seu principal ataque é o golpe de mão.
+Versäo final e melhorada de Sam. Ele tem uma armadura de ferro que cobre partes de seu corpo, tornando-o imune a balas nesses locais. Ele é um inimigo muito duro, pois metade de seu rosto está protegido pela máscara de ferro, o que torna difícil atingi-lo na cabeça. Seu principal ataque é o golpe de mäo.
 La versione migliorata e definitiva di Sam. Indossa un'armatura di ferro che copre alcune parti del suo corpo, rendendolo immune ai proiettili in quei punti. È un nemico difficile da battere perché metà della sua faccia è protetta da una maschera di ferro, il che rende più complicato colpirlo in testa. Attacca principalmente colpendo con le mani.
 Bestiary/Description/RUBIN
 A creature with iron claws in both hands that swipes in swift motions. He rolls at his enemy and jumps. He’s often paired with Drake. The moment he lands on the ground is your best shot to aim for the head.
 Diese Kreatur greift mit Eisenklauen in beiden Händen an. Er rollt auf sein Opfer zu und springt es an. Er arbeitet häufig mit Drake gemeinsam. Sobald er auf dem Boden landet, kannst du einen Kopftreffer landen.
-Uma criatura com garras de ferro em ambas as mãos, com as quais ataca rapidamente. Rola em direção ao seu inimigo e pula. Ele muitas vezes aparece ao lado de Drake. Quando atinge o chão, é a sua chance de mirar na cabeça.
+Uma criatura com garras de ferro em ambas as mäos, com as quais ataca rapidamente. Rola em direçäo ao seu inimigo e pula. Ele muitas vezes aparece ao lado de Drake. Quando atinge o chäo, é a sua chance de mirar na cabeça.
 Una creatura dotata di artigli di ferro su entrambe le mani, che agita con movimenti rapidi. Si avvicina al nemico e salta. Fa spesso coppia con Drake. Puoi approfittare del momento in cui atterra per mirare alla testa.
 Bestiary/Description/SAM
 Die Standard-Kreatur schlechthin. Praktisch überall anzutreffen. Er ist immer auf der Suche nach menschlichem Blut und Fleisch, dabei aber recht langsam unterwegs. Er bewegt sich gern in großen Gruppen, die dich umzingeln können. In Innenräumen taucht er oft plötzlich am Ende eines Ganges auf. Hauptangriff: Biss. 
-O tipo mais comum de criatura, que pode ser encontrado em qualquer lugar. Ele caminha lentamente em busca de sangue e carne humana. Ele tende a se mover em grandes grupos e, se você não tomar cuidado, poderá ser cercado. Dentro de casa, muitas vezes aparece inesperadamente no final dos corredores. Seu principal ataque é a mordida.
+O tipo mais comum de criatura, que pode ser encontrado em qualquer lugar. Ele caminha lentamente em busca de sangue e carne humana. Ele tende a se mover em grandes grupos e, se você näo tomar cuidado, poderá ser cercado. Dentro de casa, muitas vezes aparece inesperadamente no final dos corredores. Seu principal ataque é a mordida.
 Il tipo di creatura più comune, che è possibile trovare ovunque. Cammina lentamente in cerca di sangue e carne umani. Si muove spesso in gruppi numerosi di creature simili. Fai attenzione: potrebbero circondarti. Attacca principalmente mordendo. 
 Bestiary/Description/SAMSON
 A creature that wields a chainsaw.The chainsaw protects this creature from the bullets so aim other body parts. He is strong so time your shots and aim for his head.
 Diese Kreatur besitzt eine Kettensäge. Mit dem Schwert der Säge wehrt er außerdem Kugeln ab, weswegen du auf andere Körperteile zielen solltest. Er ist sehr stark, also schieße im richtigen Moment und ziele auf seinen Kopf.
-Uma criatura que empunha uma motosserra. A motosserra protege esta criatura de balas, então mire em suas partes do corpo. É muito forte, então tente cronometrar bem seus tiros e mire na cabeça.
+Uma criatura que empunha uma motosserra. A motosserra protege esta criatura de balas, entäo mire em suas partes do corpo. É muito forte, entäo tente cronometrar bem seus tiros e mire na cabeça.
 Una creatura armata di motosega. La motosega la protegge dai proiettili, quindi mira altrove. È forte, perciò pondera bene i tuoi colpi e mira alla testa.
 Bestiary/Description/SARUZOU
 This creature was created from a modified macaque. He leaps and turns to deal an unexpected blow. Just like Kenfis, there are several kinds with different body colour and resiliency.
@@ -737,30 +737,30 @@ Questa creatura è stata ottenuta a partire da un macaco geneticamente modificat
 Bestiary/Description/SHAWN
 Endurance is not his best feature, but when provoked it can be a serious threat. He often spends time with his mates in a larger group.
 Ausdauer gehört nicht zu seinen besonderen Eigenschaften, aber wenn man ihn provoziert, stellt er eine ernste Gefahr dar. Er verbringt viel Zeit mit großen Freundesgruppen.
-A resistência não é o seu forte, mas se for provocado pode ser uma séria ameaça. Ele geralmente passa o tempo com seus colegas em um grupo maior.
+A resistência näo é o seu forte, mas se for provocado pode ser uma séria ameaça. Ele geralmente passa o tempo com seus colegas em um grupo maior.
 La resistenza non è il suo punto forte, ma se viene provocato può rappresentare una seria minaccia. Spesso passa il tempo in gruppi numerosi con i suoi compagni.
 Bestiary/Description/SIMON
 A creature with superhuman strength and enormous resiliency, which is obvious by his looks. He attacks the player with a mighty punch or by throwing a barrel. Supposedly he destroyed all the furniture in the compound. His main attack is hand strike.
 Diese Kreatur ist übermenschlich stark und widerstandsfähig. Das sieht man sofort. Er greift mit kräftigen Hieben oder Fasswürfen an. Vermutlich hat er die gesamte Inneneinrichtung zerstört. Hauptangriff: Faustschlag.
-Uma criatura com força sobre-humana e enorme resistência, algo que parece evidente pela sua aparência. Ele ataca o inimigo com um tremendo soco ou jogando um barril. Supõe-se que ele destruiu todos os móveis do complexo. Seu principal ataque é o golpe de mão.
+Uma criatura com força sobre-humana e enorme resistência, algo que parece evidente pela sua aparência. Ele ataca o inimigo com um tremendo soco ou jogando um barril. Supöe-se que ele destruiu todos os móveis do complexo. Seu principal ataque é o golpe de mäo.
 Una creatura dotata di forza sovrumana ed enorme resilienza, com'è evidente dal suo aspetto. Attacca il giocatore con un potente pugno o lanciando un barile. Presumibilmente ha distrutto tutti i mobili del complesso. Attacca principalmente colpendo con le mani.
 Bestiary/Description/SKINLESS
 A creature whose skin on his right arm and collarbone has been torn off. His blood had turned completely green. However, the lack of skin does not mean that it is less dangerous.
 Eine Kreatur, der die Haut am rechten Arm und am Schlüsselbein fehlt. Sein Blut ist durch und durch grün. Trotz der fehlenden Haut ist er nicht weniger gefährlich.
-Uma criatura cuja e com a pele do braço direito e da clavícula arrancada. Seu sangue ficou completamente verde. No entanto, sua falta de pêlo não o torna menos perigoso.
+Uma criatura cuja e com a pele do braço direito e da clavícula arrancada. Seu sangue ficou completamente verde. No entanto, sua falta de pêlo näo o torna menos perigoso.
 Una creatura a cui è stata strappata via la pelle del braccio destro e della clavicola. Il suo sangue è diventato verde.  Tuttavia, la mancanza di pelle non lo rende meno pericoloso.
 Bestiary/Description/THALANG
 This creature was created from a spider. It likes the smell of blood and attacks in groups. It usually drops down from ceilings or attacks from the ground. It moves and leaps from side to side, making it harder to aim.
 Ta kreatura została stworzona z pająka. Lubi zapach krwi i atakuje grupowo. Zazwyczaj niespodziewanie spada na gracza z góry, lub atakuje z ziemi. Przesuwa się i skacze na boki, co utrudnia wycelowanie.
 Diese Kreatur wurde aus einer Spinne geschaffen. Sie kann Blut riechen und greift in der Gruppe an. Meist lässt sie sich von der Decke fallen und springt vom Boden hoch. Sie schlägt Haken und springt, sodass sie nur schwer zu treffen ist.
-Esta criatura foi criada a partir de uma aranha. Gosta do cheiro de sangue e ataca em grupo. Geralmente cai do teto ou ataca do chão. Ele se move e pula de um lado para o outro, tornando mais difícil alcançá-lo.
+Esta criatura foi criada a partir de uma aranha. Gosta do cheiro de sangue e ataca em grupo. Geralmente cai do teto ou ataca do chäo. Ele se move e pula de um lado para o outro, tornando mais difícil alcançá-lo.
 Questa creatura è stata ottenuta a partire da un ragno. Ama l'odore del sangue e attacca in gruppo. Di solito piomba dal soffitto o attacca da terra. Si muove saltando da un lato all'altro, rendendo difficile prenderlo di mira.
 Bestiary/Description/VINCENT
 A skinny creature who likes to stay aloof. However, if you run into it, don't expect a reduced fare. His hairstyle is his trademark.
 Wychudzona kreatura, która lubi trzymać się na uboczu. Jeśli jednak na niego wpadniesz nie oczekuj taryfy ulgowej. Fryzura jest znakiem rozpoznawczym tego stworzenia.
 Eine dürre Kreatur, die gern durch die Gegend streift. Eine Begegnung mit ihm kann böse enden! Er ist leicht an seiner Frisur zu erkennen.
 Une créature maigrelette qui préfère rester à distance. Mais quand on croise son chemin, elle ne manque pas de répondant. Son signe distinctif, c’est sa coiffure.
-Uma criatura muito magra que gosta de ficar sozinha. No entanto, se você a conhecer, não pense que será fácil derrotá-la. Distingue-se pelo seu penteado.
+Uma criatura muito magra que gosta de ficar sozinha. No entanto, se você a conhecer, näo pense que será fácil derrotá-la. Distingue-se pelo seu penteado.
 Una creatura pelle e ossa che preferisce restare in disparte. Tuttavia, se lo incontri, non aspettarti sconti. Lo riconosci dalla sua caratteristica pettinatura.
 Bestiary/Name/BENTLEY
 Bentley
@@ -1011,11 +1011,11 @@ Doctor Curien created creatures which are normally described as "zombies". Here 
 "
 "Le domaine du Dr Curien fourmille de créatures souvent appelées « zombies ». Ici, tu trouveras des informations détaillées sur chaque créature hideuse que tu pourras rencontrer.
 "
-Em seu complexo, o Dr. Curien abriga muitas criaturas diferentes, comumente chamadas de "zumbis". Aqui você encontrará informações detalhadas sobre suas obras de arte.
+Em seu complexo, o Dr. Curien abriga muitas criaturas diferentes, comumente chamadas de "zumbis". Aqui você encontrará informaçöes detalhadas sobre suas obras de arte.
 "In questo complesso il dottor Curien tiene diverse creature chiamate zombie. Qui puoi trovare informazioni dettagliate su questi mostri orrendi e unici!
 "
 Bestiary/Others/ENEMIES_DESCRIPTION
-Essas criaturas cruéis foram criadas para aniquilar a humanidade. Muitas vezes, essas criaturas ainda têm alguma semelhança com os humanos, mas algumas delas se parecem com animais. Como são formas de vida criadas durante um processo de pesquisa experimental, não exibem emoções humanas e podem ser imprevisíveis. Eles são guiados por seus instintos mais primitivos e pela sede de sangue. Monstros que vivem nesta área atacam impulsivamente e sem aviso prévio. O próprio nome "zumbi" é apenas convencional: essas criaturas são muito diferentes dos zumbis originais.
+Essas criaturas cruéis foram criadas para aniquilar a humanidade. Muitas vezes, essas criaturas ainda têm alguma semelhança com os humanos, mas algumas delas se parecem com animais. Como säo formas de vida criadas durante um processo de pesquisa experimental, näo exibem emoçöes humanas e podem ser imprevisíveis. Eles säo guiados por seus instintos mais primitivos e pela sede de sangue. Monstros que vivem nesta área atacam impulsivamente e sem aviso prévio. O próprio nome "zumbi" é apenas convencional: essas criaturas säo muito diferentes dos zumbis originais.
 Questi esseri spietati sono stati creati per annientare l'umanità. Per la maggior parte presentano vaghe sembianze umane, ma alcuni sembrano animali. Trattandosi di forme di vita create nell'ambito di un processo di ricerca sperimentale, non mostrano emozioni umane e possono essere imprevedibili. Sono mossi da istinti primitivi e assetati di sangue. I mostri residenti in quest'area attaccano impulsivamente e senza preavviso. Lo stesso nome ""zombie"" è convenzionale, giacché tutte queste creature sono molto diverse dai classici zombie.
 Bestiary/State/LOCKED
 Locked
@@ -1046,7 +1046,7 @@ Mysterious AMS agent known only by his pseudonm. Reportedly he speaks 20 languag
 Tajemniczy agent AMS znany tylko pod pseudonimem. Podobno zna 20 języków, a co więcej, cechuje go spokój i skupienie. Usprawiedliwia wszystko co robi, aby osiągnąć swój cel, w tym obserwacja każdego ruchu doktora Curiena.
 Lediglich das Pseudonym des AMS-Agenten ist bekannt. Berichten zufolge spricht er 20 Sprachen und zeichnet sich durch seine Ruhe und Konzentrationsfähigkeit aus. Der Zweck heiligt für ihn die Mittel, und er beobachtet jeden Schritt von Dr. Curien. 
 On sait très peu de choses de ce mystérieux agent de l’AMS, pas même son nom réel. On dit qu'il parle 20 langues différentes et qu'il est connu pour son calme et sa concentration. Il ne recule devant rien pour réaliser ses objectifs, y compris surveiller Dr Curien de très près.
-Agente misterioso da AMS, conhecido apenas por seu pseudônimo. Dizem que ele fala 20 idiomas e é conhecido por sua calma e concentração. Para ele, o fim justifica os meios, e isso inclui observar cada movimento do Dr. Curien.
+Agente misterioso da AMS, conhecido apenas por seu pseudônimo. Dizem que ele fala 20 idiomas e é conhecido por sua calma e concentraçäo. Para ele, o fim justifica os meios, e isso inclui observar cada movimento do Dr. Curien.
 Misterioso agente dell'AMS conosciuto solo con il suo pseudonimo. Si dice che parli 20 lingue, e i suoi punti di forza sono calma e concentrazione. Per lui il fine giustifica sempre i mezzi, anche quando si tratta di tenere d'occhio ogni mossa del dottor Curien.
 Characters/AGENT_G_CODENAME
 Silver Fang
@@ -1069,7 +1069,7 @@ Characters/AGENT_ROGAN_BIOGRAPHY
 Top agent of now-defunct AMS Agency specialized in infiltration and rescue missions. He is impulsive but in an emergency situations perfect evaluate risk. He met Sofia in college and married her after 6 months. Before the incident he had the opportunity to meet Dr. Curien and thinks he's the perfect gentleman.
 Ein auf Infiltrations- und Rettungsmissionen spezialisierter Meisterspion der aufgelösten AMS. Er mag impulsiv sein, aber in Gefahrensituationen schätzt er das Risiko perfekt ein. Er lernte Sofia auf dem College kennen und heiratete sie 6 Monate später. Vor dem Vorfall hatte er die Gelegenheit, Dr. Curien kennenzulernen. Er hält ihn für einen perfekten Gentleman.
 Meilleur élément de l’ex-agence AMS, il est spécialisé dans les missions d'infiltrations et de secours. Il est de caractère impulsif, mais dans des situations d'urgence il sait parfaitement évaluer les risques. Il a connu Sophie à l'université et ils se sont mariés 6 mois après. Avant l'incident, il avait déjà rencontré Dr Curien qui s'était comporté en parfait gentleman.
-O melhor agente da extinta agência AMS, especializado em missões de infiltração e resgate. Ele é impulsivo, mas em situações de emergência avalia perfeitamente os riscos. Ele conheceu Sofia na universidade e se casou com ela apenas 6 meses depois. Antes do incidente, ele teve a oportunidade de conhecer o Dr. Curien e acredita que ele seja um cavalheiro.
+O melhor agente da extinta agência AMS, especializado em missöes de infiltraçäo e resgate. Ele é impulsivo, mas em situaçöes de emergência avalia perfeitamente os riscos. Ele conheceu Sofia na universidade e se casou com ela apenas 6 meses depois. Antes do incidente, ele teve a oportunidade de conhecer o Dr. Curien e acredita que ele seja um cavalheiro.
 Agente di punta dell'ormai smantellata Agenzia AMS, specializzato in infiltrazioni e missioni di salvataggio. È impulsivo ma in situazioni di emergenza è perfettamente in grado di valutare i rischi. Ha conosciuto Sofia al college e l'ha sposata dopo sei mesi. Prima dell'incidente ha avuto occasione di incontrare il dottor Curien e lo ritiene un perfetto gentiluomo. 
 Characters/CODENAME
 Codename:
@@ -1199,7 +1199,7 @@ GameplayTips/TIP_ACTION_PATHS
 Your actions will determine the path you will be going along.
 Dein Handeln wird darüber bestimmen, welchen Weg du beschreiten wirst.
 Vos actions détermineront le chemin que vous allez prendre.
-Suas ações determinam o caminho que você irá percorrer.
+Suas açöes determinam o caminho que você irá percorrer.
 Le tue azioni determineranno il tuo destino.
 GameplayTips/TIP_ACT_FAST
 Act fast or you will be suprised how strong some enemies are!
@@ -1221,7 +1221,7 @@ GameplayTips/TIP_ASCII_ZOMBIE
 [¬º-° ]¬
 [¬º-° ]¬
 [¬º-° ]¬
-Traduções gBj
+Traduçöes gBj
 [¬º-° ]¬
 GameplayTips/TIP_ASSAULT_RIFFLE
 Assault riffle is all you need if you are working for the press!
@@ -1284,7 +1284,7 @@ GameplayTips/TIP_CURIEN_IS_CLOSE
 Curien is so close, don't let him get away.
 Curien ist ganz nah. Lass ihn nicht entkommen!
 Curien est si proche, ne le laissez pas s’échapper.
-Curien está muito perto, não o deixe escapar.
+Curien está muito perto, näo o deixe escapar.
 Curien è vicinissimo, non fartelo scappare.
 GameplayTips/TIP_CYRIL
 OOAAARRGHHH GHAAERRR ~Cyril
@@ -1300,18 +1300,18 @@ GameplayTips/TIP_DODGE_PROJECTILES
 Can't dodge projectiles? Try to shoot them down.
 Du kannst Projektilen nicht ausweichen? Dann versuche, sie abzuschießen.
 Vous n'arrivez pas à éviter les projectiles ? Essayez de les abattre.
-Não consegue desviar dos projéteis? Tente acabar com eles.
+Näo consegue desviar dos projéteis? Tente acabar com eles.
 Non riesci a schivare i proiettili? Prova a colpirli.
 GameplayTips/TIP_DONT_FEED_FROGS
 Don't feed the frogs!
 Füttere nicht die Frösche!
 Ne nourrissez pas les grenouilles !
-Não alimente os sapos!
+Näo alimente os sapos!
 Non dare da mangiare alle rane!
 GameplayTips/TIP_DONT_HOLD_FIRE_IF_ENEMY_DEAD
 Don't hold your fire even if enemy is dead!
 Stelle das Feuer nicht ein, auch wenn der Gegner tot ist!
-Não pare de atirar mesmo que o inimigo esteja morto!
+Näo pare de atirar mesmo que o inimigo esteja morto!
 Continua a sparare anche se il nemico è morto!
 GameplayTips/TIP_DO_YOUR_BEST_TO_SAVE_LIVES
 Do your best to save all lives!
@@ -1341,13 +1341,13 @@ GameplayTips/TIP_HEADSHOTS_ARE_NOT_THE_BEST
 Headshots aren't the best way to earn high score!
 Kopfschüsse sind nicht die beste Möglichkeit, um hohe Punktzahlen zu erreichen!
 Les tirs en pleine tête ne constituent pas le meilleur moyen d'avoir un score élevé !
-Tiros na cabeça não são a melhor maneira de obter uma pontuação alta!
+Tiros na cabeça näo säo a melhor maneira de obter uma pontuaçäo alta!
 I colpi alla testa non sono il modo migliore per guadagnare un punteggio alto!
 GameplayTips/TIP_HORDE_MODE
 Horde mode isn't suitable for light armed agents.
 Der Horde-Modus ist nicht für leicht bewaffnete Agenten geeignet.
 Le mode horde ne convient pas aux agents armés légèrement.
-O modo Horda não é adequado para agentes que não estejam bem armados.
+O modo Horda näo é adequado para agentes que näo estejam bem armados.
 La modalità Orda non è adatta agli agenti non armati fino ai denti.
 GameplayTips/TIP_LOT_OF_PATHS
 There are a lot of paths you can choose.
@@ -1361,13 +1361,13 @@ Mansion is dark and full of creatures.
 Rezydencja jest mroczna i pełna kreatur.
 Das Herrenhaus ist dunkel und voller Kreaturen.
 Le manoir est sombre et rempli de créatures.
-A mansão é escura e cheia de criaturas.
+A mansäo é escura e cheia de criaturas.
 La villa è buia e piena di creature.
 GameplayTips/TIP_MODERN_AND_CLASSIC
 Modern and classic score systems differ a lot. Try them both and choose your favorite!
 Moderne und klassische Punktesysteme unterscheiden sich erheblich. Probiere beide aus und wähle, was dir am besten gefällt!
 Les systèmes de score moderne et classique sont très différents. Essayez les deux et choisissez votre préféré !
-Os sistemas de pontuação modernos e clássicos diferem muito. Experimente os dois e escolha o seu favorito!
+Os sistemas de pontuaçäo modernos e clássicos diferem muito. Experimente os dois e escolha o seu favorito!
 Il sistema di punteggio moderno e quello classico sono molto diversi. Provali entrambi e scegli il tuo preferito!
 GameplayTips/TIP_MULTIPLAYER_EXCHANGE_POINTS_FOR_CONTINUES
 In multiplayer you can exchange your points for continues!
@@ -1381,13 +1381,13 @@ New weapons are spread all over the mansion, look for them!
 Nowe bronie są poukrywane w różnych miejscach rezydencji, poszukaj ich!
 Im ganzen Herrenhaus sind neue Waffen verteilt. Halte nach ihnen Ausschau!
 De nouvelles armes se trouvent dans tout le manoir. Retrouvez-les toutes !
-As novas armas estão espalhadas pela mansão, procure-as!
+As novas armas estäo espalhadas pela mansäo, procure-as!
 Ci sono armi nuove sparse per tutta la villa, cercale!
 GameplayTips/TIP_RABBIT_OUT_OF_HAT
 Don't let the name fool you, he won't pull a rabbit out of a hat.
 Lass dich nicht vom Namen täuschen. Er wird kein Kaninchen aus dem Hut zaubern.
 Ne laissez pas son nom vous duper, il ne sortira pas de lapin de son chapeau.
-Não se deixe enganar pelo nome dele, ele não é de tirar um coelho da cartola.
+Näo se deixe enganar pelo nome dele, ele näo é de tirar um coelho da cartola.
 Non farti ingannare dal nome, non tirerà fuori un coniglio dal cappello.
 GameplayTips/TIP_REDUCE_HEALTH
 Reduce opponent's health to zero while keeping yours above that value.
@@ -1406,7 +1406,7 @@ GameplayTips/TIP_SECURITY_DOOR
 Use security card to open a locked door.
 Nutze eine Sicherheitskarte, um eine versperrte Tür zu öffnen.
 Utilisez la carte de sécurité pour ouvrir une porte verrouillée.
-Use o cartão de segurança para abrir uma porta trancada.
+Use o cartäo de segurança para abrir uma porta trancada.
 Usa la tessera di sicurezza per aprire le porte chiuse.
 GameplayTips/TIP_SHOOT_AT_THE_RIGHT_MOMENT
 Try to shoot at the right moment! The enemy may block your shot!
@@ -1431,19 +1431,19 @@ Sophie?
 GameplayTips/TIP_SPIDERS
 Afraid of spiders? This is not level for you!
 Angst vor Spinnen? Das ist kein Level für dich!
-Você tem medo de aranhas? Então este nível não é para você!
+Você tem medo de aranhas? Entäo este nível näo é para você!
 Paura dei ragni? Questo livello non fa per te!
 GameplayTips/TIP_STAKEGUN
 Decorate Curien's mansion with the pitter, creatures are great baubles!
 Verziere Curiens Herrenhaus mit dem Pfähler. Kreaturen geben hervorragenden Tand ab!
 Décorez le manoir de Curien avec un pistolet à pieux, les créatures feront de superbes décorations !
-Decore a mansão Curien com a pistola de dardo - as criaturas são ótimas decorações!
+Decore a mansäo Curien com a pistola de dardo - as criaturas säo ótimas decoraçöes!
 Decora la villa di Curien con una pistola lanciadardi, le creature diventano degli splendidi ornamenti!
 GameplayTips/TIP_STUCK_IN_FIGHT
 Stuck in a fight? No way out? Ask your step-agent for help!
 Du steckst in einem Kampf fest? Kein Ausweg? Dann bitte deinen Agenten um Hilfe!
 Coincé dans un combat ? Aucune échappatoire ? Demandez de l'aide à votre agent !
-Preso em uma briga? Não há saída? Peça ao seu colega agente para ajudá-lo!
+Preso em uma briga? Näo há saída? Peça ao seu colega agente para ajudá-lo!
 Sei in trappola? Non c'è via d'uscita? Chiedi aiuto all'altro agente!
 GameplayTips/TIP_TREASURE
 There are rumors that there is a hidden treasure somewhere in the area.
@@ -1462,7 +1462,7 @@ GameplayTips/TIP_USE_GUN_IF_CANT_DEFEAT_ZOMBIES
 If you can't defeat creatures, try using your gun!
 Wenn du Kreaturen nicht besiegen kannst, versuche es mit deiner Waffe!
 Si vous ne pouvez pas vaincre les créatures, essayez avec votre pistolet !
-Se você não pode vencer as criaturas, tente usar sua arma!
+Se você näo pode vencer as criaturas, tente usar sua arma!
 Se non riesci a sconfiggere le creature, prova a usare la tua pistola!
 GameplayTips/TIP_USE_YOUR_BRAIN
 Use your brain! Unlike creatures, you have intelligence.
@@ -1474,7 +1474,7 @@ Usa il cervello! A differenza delle creature, tu ne hai uno.
 GameplayTips/TIP_WATCH_YOUR_HEAD
 Watch your head! Not all creatures attack from the ground.
 Pass auf deinen Kopf auf! Nicht alle Kreaturen greifen vom Boden aus an.
-Cuidado com a cabeça! Nem todas as criaturas atacam do chão.
+Cuidado com a cabeça! Nem todas as criaturas atacam do chäo.
 Attenzione alla testa! Non tutte le creature attaccano da terra.
 GameplayTips/TIP_WHO_READS_IT
 Does anyone actually read these?
@@ -1492,7 +1492,7 @@ GameplayTips/TIP_ZOMBIES_UNARMED
 Shooting cretures hands will make them unarmed.
 Schieße auf die Hände der Kreaturen, um sie zu entwaffnen.
 En tirant sur les mains des créatures, vous les désarmerez.
-Atire nas mãos das criaturas para desarmá-las.
+Atire nas mäos das criaturas para desarmá-las.
 Puoi disarmare le creature mirando alle mani.
 GameplayTips/TIP_ZOMBIE_HORROR
 So creatures, much zombie, very horror.
@@ -1628,14 +1628,14 @@ HUD/PRESS_GAME_OVER_BUTTON
 Press any button to return to the main menu!
 Drücke eine beliebige Knopf, um zum Hauptmenü zurückzukehren!
 Appuyez sur n'importe quelle bouton pour revenir au menu principal !
-Pressione qualquer botão para retornar ao menu principal!
+Pressione qualquer botäo para retornar ao menu principal!
 Premi un pulsante qualsiasi per tornare al menu principale!
 HUD/PRESS_START_BUTTON
 Press any button to start!
 Drücke eine beliebige Knopf, um zu starten!
 Appuyez sur n’importe quelle bouton pour commencer !
 Press any button to start!
-Pressione qualquer botão para começar!
+Pressione qualquer botäo para começar!
 Premi un pulsante qualsiasi per iniziare!
 HUD/RELOADING
 Reloading
@@ -1662,7 +1662,7 @@ Don't worry, he'll pay for this.
 Spokojnie, on jeszcze za to zapłaci.
 Keine Sorge, er wird dafür bezahlen.
 Ne t'inquiète pas, il va payer pour ça.
-Não se preocupe, ele vai pagar por isso.
+Näo se preocupe, ele vai pagar por isso.
 Non preoccuparti, la pagherà.
 Level_01/AfterBoss/OR_ELSE_SOMETHING_TERRIBLE
 Or else, something terrible will happen.
@@ -1742,7 +1742,7 @@ Sure, why not?
 Pewnie, czemu nie?
 Klar, warum nicht?
 OK, pourquoi pas.
-Porque não?
+Porque näo?
 Certo, perché no?
 Level_01/Other/ARE_YOU_OK
 Are you ok?
@@ -1756,7 +1756,7 @@ I was so scared!
 Tak bardzo się bałam!
 Ich hatte solche Angst!
 J'ai eu si peur !
-Eu estou tão assustada!
+Eu estou täo assustada!
 Ho avuto tanta paura!
 Level_01/Other/OPEN_THE_LOCK
 Quick, open the lock !!
@@ -1843,19 +1843,19 @@ Level_02/THEY_ARE_STILL_UP
 They're still up stairs.
 Sie sind immer noch oben.
 Ils sont toujours en haut.
-Eles ainda estão lá em cima.
+Eles ainda estäo lá em cima.
 Sono ancora al piano di sopra.
 Level_02/THIS_IS_AS_FAR_AS
 This is as far as you go!
 Koniec drogi!
 Weiter kommst du nicht!
-Você não vai passar por aqui!
+Você näo vai passar por aqui!
 Per te è finita!
 Level_02/WE_WONT_LET_YOU
 We won't let you have it your way, Curien!
 Nie wymigasz się, Curien!
 Wir werden nicht zulassen, dass es nach deinem Willen geht, Curien!
-Não vamos deixar você se safar, Curien!
+Näo vamos deixar você se safar, Curien!
 Non la passerai liscia, Curien!
 Level_03/BossCutscene/CURIEN_I
 Curien!!
@@ -1874,7 +1874,7 @@ I didn't think you could make it this far.
 nie spodziewałem się, że ktoś dotrze aż tak daleko.
 Hätte nie gedacht, dass ihr es so weit schafft.
 je ne pensais pas que tu arriverais si loin.
-Não achei que você chegaria tão longe.
+Näo achei que você chegaria täo longe.
 non mi aspettavo che arrivassi fin qui.
 Level_03/BossCutscene/I_MUST_COMPLIMENT_YOU
 I must compliment you,
@@ -1887,7 +1887,7 @@ Level_03/BossCutscene/LETS_SEE_HOW_GOOD_YOU
 Let's see how good you really are!
 Mal sehen, wie gut ihr wirklich seid!
 Voyons voir si tu peux réchapper à ça !
-Vamos ver o quão bom você realmente é!
+Vamos ver o quäo bom você realmente é!
 Vediamo se hai davvero talento!
 Level_03/Other/AH_ITS_LOCKED
 Ah! It's locked.
@@ -1923,7 +1923,7 @@ Level_03/Other/THIS_MUST_BE_SECURITY
 This must be the Security card.
 Das muss die Sicherheitskarte sein.
 Ça doit être la carte de sécurité.
-Este deve ser o cartão de segurança.
+Este deve ser o cartäo de segurança.
 Questa deve essere la tessera di sicurezza.
 Level_03/Other/UNLOCKED
 Unlocked.
@@ -1954,20 +1954,20 @@ Level_04/AgentGEnding/MISSION_COMPLETED
 Mission completed.
 Mission erfüllt.
 Mission accomplie.
-Missão concluída!
+Missäo concluída!
 Missione completata.
 Level_04/AgentGEnding/NOW_ON_TO_THE_NEXT_MISSION
 Now, on to the next mission.
 Auf zur nächsten Mission.
 Maintenant, passons à la mission suivante.
-Vamos para a próxima missão.
+Vamos para a próxima missäo.
 Ora, alla prossima missione.
 Level_04/BossDeath/ANYTHING_YET
 antyhing yet!!
 wszystko się dopiero okaże!
 nichts gesehen!!!
 rien vu !!
-você não viu nada!
+você näo viu nada!
 visto niente!
 Level_04/BossDeath/YOU_HAVENT_SEEN
 You haven't seen....
@@ -2040,7 +2040,7 @@ Saluta il mio capolavoro!
 Level_04/CurienCutscene/THERE_IS_NO_WAY_OUT_CURIEN
 There's no way out Curien!
 Es gibt kein Entkommen, Curien!
-Não há saída, Curien!
+Näo há saída, Curien!
 Non puoi scappare, Curien!
 Level_04/CurienCutscene/WHAT_HAPPENED
 What happend?
@@ -2057,7 +2057,7 @@ Level_04/CurienCutscene/WHY_DONT_YOU_FOLLOW_MY
 Why don't you follow my instructions?
 Warum befolgt ihr nicht meine Befehle?
 Pourquoi ne suis-tu pas mes instructions ?
-Por que você não cumpre minhas ordens!
+Por que você näo cumpre minhas ordens!
 Perché non segui le mie istruzioni?
 Level_04/Other/CURIEN_TALK
 I'll get you, Curien!
@@ -2092,7 +2092,7 @@ Level_04/RoganEnding/I_HAVE_NOTHING_MORE_TO_LOSE
 I have nothing more to lose.
 Ich habe nichts mehr zu verlieren.
 Je n'ai plus rien à perdre.
-Não tenho mais nada a perder.
+Näo tenho mais nada a perder.
 Non ho più niente da perdere.
 Menu/Hints/ACCEPT
 Accept
@@ -2190,7 +2190,7 @@ No
 Nie
 Nein
 Non
-Não
+Näo
 No
 Menu/Hints/PANNING
 Panning
@@ -2231,7 +2231,7 @@ Pause Animation
 Pauzowanie animacji
 Animation pausieren
 Suspendre l'animation
-Pausar animação
+Pausar animaçäo
 Metti in pausa l'animazione
 Menu/Hints/USE_KEYBOARD
 Use keyboard
@@ -2331,7 +2331,7 @@ Tablica wyników
 Bestenliste
 Classement
 Leaderboard
-Classificação
+Classificaçäo
 Classifica
 Menu/Main/LEVEL
 Level
@@ -2347,7 +2347,7 @@ Wybór poziomu
 Level-Auswahl
 Sélection du niveau
 Level selection
-Seleção de nível
+Seleçäo de nível
 Selezione livelli
 Menu/Main/MAIN_MENU
 Main menu
@@ -2392,7 +2392,7 @@ Opcje
 Optionen
 Options
 Options
-Opções
+Opçöes
 Opzioni
 Menu/Main/ORIGINAL
 Original
@@ -2415,7 +2415,7 @@ Please choose scoring type
 Wybierz tryb liczenia punktów
 Bitte wähle einen Punktetyp
 Veuillez choisir un type de score
-Escolha o tipo de pontuação
+Escolha o tipo de pontuaçäo
 Scegli il tipo di punteggio
 Menu/Main/RESTART
 Restart
@@ -2634,7 +2634,7 @@ Menu/Options/Controls/RESET_TO_DEFAULTS
 Reset to defaults
 Auf Standardeinstellungen zurücksetzen
 Rétablir la configuration standard
-Restablecer padrões
+Restablecer padröes
 Ripristina impostazioni predefinite
 Menu/Options/Controls/RIGHT_STICK
 Right Stick
@@ -2688,7 +2688,7 @@ Menu/Options/Controls/WEAPON_SELECTION
 Weapon selection
 Wybór broni
 Waffenauswahl
-Seleção de armas
+Seleçäo de armas
 Selezione armi
 Menu/Options/DISPLAY
 Display
@@ -2770,7 +2770,7 @@ Menu/Options/Gameplay/DISPLAY_AMMO_ON_CROSSHAIR
 Display ammo on crosshair
 Munition am Fadenkreuz anzeigen
 Afficher les munitions dans le viseur
-Mostrar munição na mira
+Mostrar muniçäo na mira
 Visualizza le munizioni sul mirino
 Menu/Options/Gameplay/OUTLINE_OPACITY
 Outline opacity
@@ -2801,7 +2801,7 @@ Menu/Options/Gameplay/SCORE_NOTIFICATIONS_MODE
 Score notifications mode
 Tryb powiadomień o wynikach
 Modus für Ergebnisbenachrichtigungen
-Modo de notificação de pontuação
+Modo de notificaçäo de pontuaçäo
 Modalità notifiche di punteggio
 Menu/Options/Gameplay/ScoreNotificationsMode/DISABLED
 Disabled
@@ -2826,14 +2826,14 @@ Menu/Options/Gameplay/USE_VIBRATIONS
 Use vibrations
 Vibration verwenden
 Utiliser les vibrations
-Usar vibração
+Usar vibraçäo
 Usa vibrazioni
 Menu/Options/Graphics/AMBIENT_OCCLUSION
 Ambient Occlusion
 Ambient occlusion
 Ambient Occlusion
 Occlusion ambiante
-Oclusão de ambiente
+Oclusäo de ambiente
 Occlusione ambientale
 Menu/Options/Graphics/ANISOTROPIC_FILTERING
 Anisotropic Filtering
@@ -2880,7 +2880,7 @@ FOV
 FOV
 FOV
 FOV
-Campo de visão
+Campo de visäo
 Campo visivo
 Menu/Options/Graphics/FULL_SCREEN_MODE
 Full Screen Mode
@@ -2926,20 +2926,20 @@ Motion Blur
 Rozmycie
 Bewegungsunschärfe
 Flou cinématique
-Borrão de movimento
+Borräo de movimento
 Sfocatura movimento
 Menu/Options/Graphics/REFRESH_RATE
 Refresh Rate
 Aktualisierungsrate
 Taux de rafraîchissement
-Frequência de atualização
+Frequência de atualizaçäo
 Frequenza di aggiornamento
 Menu/Options/Graphics/RENDER_SCALE
 Render scale
 Skala renderowania
 Rendering-Skala
 Échelle de rendu
-escala de renderização
+escala de renderizaçäo
 Risoluzione rendering
 Menu/Options/Graphics/SHADOW_QUALITY
 Shadow Quality
@@ -2962,7 +2962,7 @@ Tessellation
 Teselacja
 Tessellation
 Tessellation
-Tesselação
+Tesselaçäo
 Tassellatura
 Menu/Options/Graphics/TEXTURE_QUALITY
 Texture Quality
@@ -3171,10 +3171,10 @@ T. Rogan and Agent G as main information source.
 
 ""Willkommen in meinem Haus. Ich wünsche einen angenehmen Aufenthalt. Leider kann ich nicht persönlich anwesend sein, aber einige meiner Schöpfungen werden sich um dich kümmern.""
 -Dr. Curien"
-"Todos os segredos da corporação DBR, que realiza experimentos sobre o genoma humano, estão guardados na mansão Curien. De acordo com alguns relatos, em 1998 a propriedade estava ligada a alguns desaparecimentos e um acidente teria ocorrido ao liberar criaturas biológicas hostis artificialmente projetadas na mansão. No entanto, os eventos reais foram escondidos para sempre pela AMS, deixando como única evidência os testemunhos não confiáveis ​​de T. Rogan e do agente G.
+"Todos os segredos da corporaçäo DBR, que realiza experimentos sobre o genoma humano, estäo guardados na mansäo Curien. De acordo com alguns relatos, em 1998 a propriedade estava ligada a alguns desaparecimentos e um acidente teria ocorrido ao liberar criaturas biológicas hostis artificialmente projetadas na mansäo. No entanto, os eventos reais foram escondidos para sempre pela AMS, deixando como única evidência os testemunhos näo confiáveis ​​de T. Rogan e do agente G.
 
 
-""Bem-vindo à minha mansão. Espero que a sua estadia aqui seja muito agradável. Receio não poder recebê-lo pessoalmente, mas enviei algumas de minhas criações para que você se sinta em casa.""
+""Bem-vindo à minha mansäo. Espero que a sua estadia aqui seja muito agradável. Receio näo poder recebê-lo pessoalmente, mas enviei algumas de minhas criaçöes para que você se sinta em casa.""
 -Dr. Curien"
 "Villa Curien custodisce tutti i segreti della DBR Corporation e dei suoi esperimenti sul genoma umano. Secondo alcuni rapporti, nel 1998 la proprietà fu collegata ad alcune sparizioni e all'incidente che causò l'invasione della villa da parte di creature ostili biologicamente modificate. Tuttavia, la vera dinamica degli eventi fu nascosta all'AMS e non fu presentato alcun rapporto: le testimonianze frammentarie di T. Rogan e dell'agente G costituirono pertanto la principale fonte di informazioni.
 
@@ -3184,17 +3184,17 @@ T. Rogan and Agent G as main information source.
 Menu/Start/Chapter/Description/CHAPTER_2
 After supposed death of Thomas Rogan fiancée - Sophie - AMS agents runs deeper into dark corridors of infested mansion. No matter which version of testimony we will believe, all of them ends with DBR research center discovery. Just after we can read about rooftop events, which both agents cuted off with quote: ""Nobody leaves here alive..."". 
 Après la mort supposée de Sophie, la fiancée de Thomas Rogan, les agents de l’AMS se sont enfoncés plus profondément dans les couloirs sombres de ce manoir infesté de monstres. Les témoignages, aussi divergents soient-ils, mènent au centre de recherche de la DBR Corporation. Ensuite, on en apprend plus sur le déroulement des événements sur le toit, où les deux agents sont interrompus par une voix leur disant : « Personne ne part d’ici vivant ! ». 
-Após a suposta morte da namorada de Thomas Rogan (Sophie), os agentes da AMS entraram nos corredores escuros da mansão infestada. Não importa em qual versão do testemunho acreditamos: todas terminam com a descoberta do centro de pesquisa DBR. Nós realmente não sabíamos o que acontecia no telhado; os dois oficiais simplesmente disseram: "Ninguém sai daqui vivo".
+Após a suposta morte da namorada de Thomas Rogan (Sophie), os agentes da AMS entraram nos corredores escuros da mansäo infestada. Näo importa em qual versäo do testemunho acreditamos: todas terminam com a descoberta do centro de pesquisa DBR. Nós realmente näo sabíamos o que acontecia no telhado; os dois oficiais simplesmente disseram: "Ninguém sai daqui vivo".
 Dopo la presunta morte di Sophie, la fidanzata di Thomas Rogan, gli agenti dell'AMS si addentrarono nei corridoi bui della villa infestata. A prescindere dalla testimonianza a cui si scelga di credere, tutte le versioni si chiudono con la scoperta del centro di ricerca della DBR.  Segue il resoconto degli eventi sul tetto, che entrambi gli agenti conclusero con la frase: "Nessuno esce vivo da qui...".
 Menu/Start/Chapter/Description/CHAPTER_3
 Once mysterious rooftop events remained unclear, T. Rogan and Agent G agreed, that later they found Security Card which gave them access to Curiens secret laboratory. All paths led them to Cultivation Dome where, according to testimonies, Dr. Curien taunted them personally and escaped. Second agreement of AMS agents was about tough fight they had to survive, but they never said what they battled against: ""You wouldn't belive that anyway..."" - they said."
 Wir werden wohl nie erfahren, was auf dem Dach geschah. T. Rogan und Agent G berichten jedoch, dass sie die Sicherheitskarte für Curiens Geheimlabor gefunden hatten. Alle Wege führten zur Aufzuchtkuppel, wo die beiden von Dr. Curien verspottet wurden, bevor er floh. Sie berichten übereinstimmend von harten Kämpfen, ohne Details über ihre Gegner zu verraten. "Das würde uns niemand glauben." Zitat Ende.
-Embora os eventos misteriosos no telhado permaneçam obscuros, tanto T. Rogan quanto o Agente G concordaram que mais tarde encontraram o cartão de segurança que lhes deu acesso ao laboratório secreto de Curien. Seu caminho os levou até a cúpula da colheita onde, segundo depoimentos, o Dr. Curien os provocou pessoalmente e depois escapou. Mais uma vez, os agentes da AMS concordaram que eles sobreviveram após uma dura luta, mas nunca disseram contra o que lutaram: "Ninguém iria acreditar em nós de qualquer maneira"... - alegaram.
+Embora os eventos misteriosos no telhado permaneçam obscuros, tanto T. Rogan quanto o Agente G concordaram que mais tarde encontraram o cartäo de segurança que lhes deu acesso ao laboratório secreto de Curien. Seu caminho os levou até a cúpula da colheita onde, segundo depoimentos, o Dr. Curien os provocou pessoalmente e depois escapou. Mais uma vez, os agentes da AMS concordaram que eles sobreviveram após uma dura luta, mas nunca disseram contra o que lutaram: "Ninguém iria acreditar em nós de qualquer maneira"... - alegaram.
 Se i misteriosi eventi sul tetto restano oscuri, le versioni di T. Rogan e l'agente G coincidono sul fatto che in seguito trovarono la tessera di sicurezza che dava accesso al laboratorio segreto di Curien.  Tutti gli indizi li portarono a Cultivation Dome dove, secondo le testimonianze, il dottor Curien in persona li derise e fuggì.  Entrambi gli agenti dell'AMS hanno riferito inoltre di una dura lotta per la sopravvivenza, ma non hanno mai detto contro cosa lottarono:  "Non ci credereste comunque..." hanno dichiarato.
 Menu/Start/Chapter/Description/CHAPTER_4
 Agents decided to follow Curien into his laboratory and - hopefully - finish this nightmare once and for all. Ambiguous note about DNA-editing machine, called ""BioReactor"", lead us to most terrifying part of whole testimony…
 Die Agenten beschlossen, Curien in sein Labor zu folgen, um dem Albtraum dort ein Ende zu bereiten. Unklare Hinweise auf einen DNA-Sequenzer, den ""Bioreaktor"", führen zu dem schrecklichsten Teil des Berichts.
-Os agentes decidiram seguir Curien até seu laboratório e (espero) acabar com esse pesadelo de uma vez por todas. Uma nota muito ambígua sobre uma máquina de alteração de DNA chamada "biorreator" nos leva à parte mais aterrorizante do testemunho...
+Os agentes decidiram seguir Curien até seu laboratório e (espero) acabar com esse pesadelo de uma vez por todas. Uma nota muito ambígua sobre uma máquina de alteraçäo de DNA chamada "biorreator" nos leva à parte mais aterrorizante do testemunho...
 Gli agenti decisero di seguire Curien nel suo laboratorio, nella speranza di porre fine a questo incubo una volta per tutte. Una nota ambigua sulla macchina per modificare il DNA, chiamata "BioReattore", ci porta alla parte più terrificante dell'intera testimonianza...
 Menu/Start/Chapter/Name/CHAPTER_1
 Tragedy
@@ -3262,7 +3262,7 @@ Tryb punktacji
 Punktemodus
 Mode avec score
 Score mode
-Modo de pontuação
+Modo de pontuaçäo
 Modalità di punteggio
 Menu/Start/START
 Start
@@ -3388,7 +3388,7 @@ Unlocked weapons, stats and items in archives will stay.
 Odblokowane w archiwach bronie, statystyki i przedmioty nie znikają.
 Freigeschaltete Waffen, Werte und Gegenstände im Archiv bleiben.
 Les armes, statistiques et objets débloqués dans les archives resteront.
-Armas, estatísticas e itens desbloqueados permanecerão arquivados.
+Armas, estatísticas e itens desbloqueados permaneceräo arquivados.
 Verranno conservati le armi sbloccate, le statistiche e gli oggetti negli archivi.
 Popups/ControllerDisconnected/CONTROLLER_DISCONNECTED
 Controller disconnected!
@@ -3460,7 +3460,7 @@ Popups/Questions/SWEAR_WORDS_IN_PLAYER_NAME
 Swear words have been detected in the given player name! To continue, you must change the name to one that contains no curses!
 Im angegebenen Spielernamen wurden Schimpfwörter erkannt! Um fortzufahren, müssen Sie den Namen in einen Namen ändern, der keine Flüche enthält!
 Des jurons ont été détectés dans le nom du joueur donné ! Pour continuer, vous devez changer le nom en un nom qui ne contient aucune malédiction !
-Palavrões foram detectados no nome do jogador! Para continuar, você deve alterar o nome para um que não contenha maldições.
+Palavröes foram detectados no nome do jogador! Para continuar, você deve alterar o nome para um que näo contenha maldiçöes.
 Sono state rilevate parolacce nel nome del giocatore indicato! Per continuare, devi cambiare il nome con uno che non contenga maledizioni!
 Popups/Warnings/EXIT_GAME_WARNING
 You will close the entire game!
@@ -3477,7 +3477,7 @@ Tutti i progressi andranno persi!
 Popups/Warnings/PERFORMANCE_MODE_ENABLE
 It can be later changed in Gameplay Settings!
 Du kannst die Einstellung später in den Gameplay-Einstellungen anpassen.
-Você pode alterá-lo mais tarde nas configurações do jogo!
+Você pode alterá-lo mais tarde nas configuraçöes do jogo!
 Puoi modificarla in seguito nelle Impostazioni di gioco!
 Popups/Warnings/RESET_CHAPTER
 Current progress will be lost!
@@ -3490,7 +3490,7 @@ All settings on the current page will be set to default!
 Wszystkie ustawienia na tej stronie zostaną zresetowane!
 Alle Einstellungen auf der aktuellen Seite werden auf Standardeinstellungen zurückgesetzt!
 Tous les paramètres par défaut de la page actuelle seront rétablis !
-Todas as configurações nesta página serão redefinidas!
+Todas as configuraçöes nesta página seräo redefinidas!
 Tutte le impostazioni di questa pagina verranno ripristinate!
 Popups/Warnings/START_NEW_GAME
 Progress from the previously started game will be lost!
@@ -3565,7 +3565,7 @@ RANKING
 RANKING
 RANGLISTE
 CLASSEMENT
-CLASSIFICAÇÃO
+CLASSIFICAÇÄO
 POSIZIONE
 Ranking/ROOKIE_AGENT
 Rookie Agent
@@ -3588,7 +3588,7 @@ Agent szeregowiec
 Standardagent
 Agent standard
 Standard Agent
-Agente Padrão
+Agente Padräo
 Agente standard
 Ranking/TOP_AGENT
 Top Agent
@@ -3602,13 +3602,13 @@ Stats/BodyParts/HAND_LEFT
 Left Hand
 Linke Hand
 Main gauche
-Mão esquerda
+Mäo esquerda
 Mano sinistra
 Stats/BodyParts/HAND_RIGHT
 Right Hand
 Rechte Hand
 Main droite
-Mão direita
+Mäo direita
 Mano destra
 Stats/BodyParts/HEAD
 Head
@@ -3699,7 +3699,7 @@ Highscore
 Najlepsze wyniki
 Bestes Ergebnis
 Meilleur score
-Pontuação máxima
+Pontuaçäo máxima
 Record
 Stats/KILLED_OPPONENTS
 Killed Opponents
@@ -3853,29 +3853,29 @@ Tutorial/Description/ARMORY_TIP
 You have found a key to the Secret Armory! From now on new collectables can be found in a Curiens Mansion.
 Du hast den Schlüssel zur geheimen Waffenkammer gefunden. Du kannst nun neue Sammelobjekte in Curiens Herrenhaus finden.
 Tu as trouvé la clé de l’armurerie secrète ! Tu trouveras de nouveaux objets à récupérer dans le manoir du Dr Curien.
-Você encontrou a chave do arsenal secreto! A partir de agora, você poderá encontrar itens colecionáveis ​​na mansão Curien.
+Você encontrou a chave do arsenal secreto! A partir de agora, você poderá encontrar itens colecionáveis ​​na mansäo Curien.
 Hai trovato la chiave dell'Armeria Segreta! D'ora in poi potrai trovare nuovi oggetti collezionabili all'interno di Villa Curien.
 Tutorial/Description/BADGES_TIP
 All agents are rewarded while their Badge collection grows. Make sure to expand yours and get access to secret codes that only best agents knows!
 Alle Agenten werden belohnt, wenn ihre Abzeichensammlung wächst. Stelle sicher, deine Sammlung zu erweitern, und erhalte Zugang zu geheimen Codes, die nur die besten Agenten kennen!
 Les agents sont récompensés lorsqu’ils agrandissent leur collection de badges. Complète ta collection pour avoir accès à des codes secrets réservés aux meilleurs agents !
-Todos os agentes receberão uma recompensa por aumentar sua coleção de medalhas. Certifique-se de atualizar o seu e ter acesso a códigos secretos, conhecidos apenas pelos melhores agentes!
+Todos os agentes receberäo uma recompensa por aumentar sua coleçäo de medalhas. Certifique-se de atualizar o seu e ter acesso a códigos secretos, conhecidos apenas pelos melhores agentes!
 Tutti gli agenti vengono premiati, e la loro collezione di distintivi cresce. Assicurati di ampliare la tua e ottieni l'accesso a codici segreti che solo i migliori agenti conoscono!
 Tutorial/Description/BESTIARY_TIP
 Here you can learn more about enemies. Be sure to unlock them all by traveling through different paths of Curiens Mansion labyrinth.
 Hier erfährst du mehr über deine Gegner. Schalte alle Einträge frei, indem du die verschiedenen Wege durch Curiens Herrenhaus erkundest.
-Aqui você pode aprender mais sobre seus inimigos. Desbloqueie todas as entradas explorando os diferentes caminhos pela mansão de Curia.
+Aqui você pode aprender mais sobre seus inimigos. Desbloqueie todas as entradas explorando os diferentes caminhos pela mansäo de Curia.
 Qui puoi imparare di più sui nemici. Assicurati di sbloccarli tutti viaggiando attraverso i diversi percorsi del labirinto di Villa Curien.
 Tutorial/Description/CHARACTER_SELECTION_TIP
 Playing with different characters will help you to understand better what happened in Curiens Mansion and will affect game ending.
 Wenn du mit verschiedenen Charakteren spielst, erfährst du mehr über die Ereignisse in Curiens Herrenhaus und schaltest unterschiedliche Enden frei.
 Incarne différents personnages pour percer les mystères des événements qui se sont déroulés au manoir du Dr Curien et changer la façon dont se conclura ton histoire.
-Se você jogar com personagens diferentes, entenderá melhor o que aconteceu na mansão Curien, e isso também afetará o final do jogo.
+Se você jogar com personagens diferentes, entenderá melhor o que aconteceu na mansäo Curien, e isso também afetará o final do jogo.
 Giocare con diversi personaggi ti aiuterà a capire meglio cosa è successo a Villa Curien e influirà sul finale del gioco.
 Tutorial/Description/DEFAULT_TIP_DESCRIPTION
 Play more! You will get better over time and you will eventually improve your score!
 Spiel weiter! Du wirst dadurch besser und bekommst mehr Punkte.
-Jogue mais! Você vai melhorar com o tempo e a prática vai melhorar sua pontuação!
+Jogue mais! Você vai melhorar com o tempo e a prática vai melhorar sua pontuaçäo!
 Gioca di più! Migliorerai con il tempo e alla fine otterrai un punteggio più alto!
 Tutorial/Description/LOCKED_ARMORY_TIP
 Just a regular wardrobe... curious what's inside of it? Some say that lives of innocent Scientists may lead to secret places.
@@ -3893,12 +3893,12 @@ Tutorial/Description/NEW_GAME_TIP
 There are many ways to play the game, so make sure to review all options and create a session that suits you best!
 Es gibt unterschiedliche Möglichkeiten, das Spiel zu spielen. Sieh dir alle Optionen an und wähle deine persönlichen Favoriten aus.
 Ce ne sont pas les façons de jouer qui manquent, alors prends le temps de regarder toutes les options pour créer une session qui te ressemble !
-Há muitas formas de jogar, então confira todas as opções e crie uma sessão do jeito que você quiser.
+Há muitas formas de jogar, entäo confira todas as opçöes e crie uma sessäo do jeito que você quiser.
 Ci sono molti modi di giocare, quindi assicurati di valutare tutte le opzioni e di impostare una sessione che ti soddisfi al massimo!
 Tutorial/Description/STATS_TIP
 Here you can track your career progress, effectivenes during battle, number of cut limbs and many, many more! These numbers will improve with your skill, so make sure to review them frome time to time.
 Hier kannst du deinen Fortschritt, deine Schlagkräftigkeit im Kampf, die Anzahl abgetrennter Gliedmaßen und vieles mehr überprüfen. Die Werte steigen mit deiner Erfahrung. Sieh immer wieder nach.
-Aqui você pode verificar seu progresso no jogo, sua eficácia em combate, o número de membros decepados... e muito, muito mais! Esses números melhorarão junto com sua habilidade, então verifique-os de tempos em tempos.
+Aqui você pode verificar seu progresso no jogo, sua eficácia em combate, o número de membros decepados... e muito, muito mais! Esses números melhoraräo junto com sua habilidade, entäo verifique-os de tempos em tempos.
 Qui puoi monitorare i tuoi progressi professionali, le tue prestazioni in battaglia, il numero di arti tagliati e molto, molto altro!  Questi numeri miglioreranno in base alla tua abilità, quindi torna a controllarli di tanto in tanto.
 Tutorial/SKIP_TUTORIAL
 Skip tutorial
@@ -3963,7 +3963,7 @@ Tutorial/Video/LIFE_TORCH
 Watch out for misshooting scientists!
 Achte darauf, die Wissenschaftler nicht zu erschießen!
 ATTENTION AUX SCIENTIFIQUES !
-Tenha cuidado para não atirar nos cientistas!
+Tenha cuidado para näo atirar nos cientistas!
 Fai attenzione agli scienziati dalla pessima mira!
 Tutorial/Video/SHOT_THE_DEAD
 Shoot the dead attacking you!
@@ -3976,7 +3976,7 @@ Ammo
 Amunicja
 Munition
 Munitions
-Munição
+Muniçäo
 Munizioni
 UI/Cutscene/DEFAULT_SKIP_BUTTON
 Shoot
@@ -4005,7 +4005,7 @@ Hold your fire!
 Nicht schießen!
 Ne tirez pas !
 Hold your fire!
-Não atire!
+Näo atire!
 Cessa il fuoco!
 UI/HEALTH
 Health
@@ -4034,7 +4034,7 @@ Jeszcze niegotowy
 Nicht bereit
 Pas prêt
 Not Ready
-não está pronto
+näo está pronto
 Non pronto
 UI/PLAYER
 Player
@@ -4073,7 +4073,7 @@ Punkty
 Punktzahl
 Score
 Score
-Pontuação
+Pontuaçäo
 Punteggio
 Weapon/ARMORY
 Armory
@@ -4099,24 +4099,24 @@ Balestra
 Weapon/Description/ASSAULT_RIFLE
 Powerful assault rifle used by AMS in most difficult cases. Don't open your fire for too long, as it may be too difficult to handle!
 Durchschlagkräftiges Sturmgewehr für die schwersten AMS-Einsätze. Halte den Finger nicht zu lange am Abzug, es könnte sonst schwierig werden.
-Um poderoso fuzil de assalto usado pela AMS nos casos mais difíceis. Não dispare muitas rajadas seguidas, porque pode ser muito difícil de controlar!
+Um poderoso fuzil de assalto usado pela AMS nos casos mais difíceis. Näo dispare muitas rajadas seguidas, porque pode ser muito difícil de controlar!
 Potente fucile d'assalto usato dall'AMS nei casi più difficili.  Non usarlo molto a lungo, potrebbe essere troppo difficile da gestire!
 Weapon/Description/CROSSBOW
 In experienced Agent hands Crossbow is the most powerful weapon against bosses.
 In den Händen erfahrener Agenten ist die Armbrust die wohl mächtigste Waffe gegen Bosse.
-Nas mãos de agentes experientes, a besta é a arma mais poderosa contra chefes.
+Nas mäos de agentes experientes, a besta é a arma mais poderosa contra chefes.
 Nelle mani di agenti esperti, la balestra è l'arma più potente contro i boss.
 Weapon/Description/GRENADE_LAUNCHER
 Internally called "Blood Bath Generator". Unbeatable for those, that prefer to speed-run their missions.
 Spitzname ""Blutbad-Generator"". Optimal für alle Speedrunner.
 Surnommée le Bain de sang, cette arme est parfaite pour ceux qui veulent transformer chaque mission en speedrun.
-Ela é chamada internamente de "Gerador de Banho de Sangue". esta arma é perfeita para quem quer transformar cada missão em um speedrun.
+Ela é chamada internamente de "Gerador de Banho de Sangue". esta arma é perfeita para quem quer transformar cada missäo em um speedrun.
 Per gli amici "Generatore di bagni di sangue". Imbattibile per chi preferisce velocizzare le missioni.
 Weapon/Description/LOCKED
 You haven't found this item yet.
 Du hast diesen Gegenstand noch nicht gefunden.
 Vous n'avez pas encore trouvé cet objet.
-Você ainda não encontrou este item.
+Você ainda näo encontrou este item.
 Non hai ancora trovato questo oggetto.
 Weapon/Description/PISTOL
 Regular AMS Agent weapon - simple, yet effective.
@@ -4127,7 +4127,7 @@ Arma standard degli agenti dell'AMS: semplice ma efficace.
 Weapon/Description/STAKEGUN
 This experimental weapon was created against vampires, but was finally rejected by AMS because Agents started to kill for fun...
 Diese experimentelle Waffe wurde für den Kampf gegen Vampire entwickelt. Sie wurde zurückgezogen, weil die AMS-Agenten damit zu viel Spaß beim Töten hatten.
-Esta arma experimental foi criada para combater vampiros, mas a AMS acabou por rejeitá-la porque os agentes começaram a usá-la para matar por diversão...
+Esta arma experimental foi criada para combater vampiros, mas a AMS acabou por rejeitá-la porque os agentes começaram a usá-la para matar por diversäo...
 Quest'arma sperimentale è stata progettata per combattere i vampiri, ma alla fine è stata scartata dall'AMS perché gli agenti avevano iniziato a uccidere per divertimento…
 Weapon/GRENADE_LAUNCHER
 Grenade launcher
@@ -4153,13 +4153,13 @@ Achievements/Descriptions/THIRD_ENDING
 Finish the game with the final score below 62,000 and the last score digit equal to zero
 Beende das Spiel mit einer Gesamtpunktzahl unter 62.000, wobei die letzte Ziffer eine Null sein muss.
 Finis le jeu avec un score final inférieur 62 000 qui se finit par un zéro
-Termine o jogo com uma pontuação inferior a 62.000 e o último dígito da pontuação é zero
+Termine o jogo com uma pontuaçäo inferior a 62.000 e o último dígito da pontuaçäo é zero
 Termina il gioco con un punteggio totale inferiore a 62.000 con l'ultima cifra uguale a zero
 Achievements/Descriptions/NORMAL_ENDING
 Finish the game with the final score below 62,000 and the last score digit not equal to zero
 Beende das Spiel mit einer Gesamtpunktzahl unter 62.000, wobei die letzte Ziffer keine Null sein darf.
 Finis le jeu avec un score final inférieur 62 000 qui se finit par tout SAUF un zéro
-Termine o jogo com uma pontuação inferior a 62.000 e o último dígito da pontuação não seja zero
+Termine o jogo com uma pontuaçäo inferior a 62.000 e o último dígito da pontuaçäo näo seja zero
 Termina il gioco con un punteggio totale inferiore a 62.000 con l'ultima cifra diversa da zero
 Menu/Options/Controls/CENTER_CROSSHAIR
 "Center crosshair	"
@@ -4221,7 +4221,7 @@ Menu/Options/Controls/STADIA_INPUT_DISCLAIMER
 No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners.
 Es besteht keine Partnerschaft oder Verbindung zwischen Stadia und den Herstellern von Controllern oder Konsolen, die nicht von Stadia stammen. STADIA, das Stadia-Logo, Google und damit im Zusammenhang stehende Kennzeichen sowie Logos sind Marken der Google LLC. Alle anderen Marken sind Eigentum ihrer jeweiligen Inhaber.
 Il n'existe pas de partenariat, de lien, ou toute autre association entre  Stadia et les fabricants de manettes ou consoles de marques autres que STADIA.  STADIA, logo Stadia, Google ainsi que les autres marques et logos dérivés appartiennent à la société Google LLC. Toutes les autres marques appartiennent à leurs propriétaires respectifs.
-Não há afiliação ou patrocínio entre o Stadia e os fabricantes de controles ou consoles que não sejam do Stadia. STADIA, o logotipo Stadia, Google e marcas e logotipos relacionados são marcas registradas da Google LLC. Todas as outras marcas comerciais pertencem a seus respectivos proprietários.
+Näo há afiliaçäo ou patrocínio entre o Stadia e os fabricantes de controles ou consoles que näo sejam do Stadia. STADIA, o logotipo Stadia, Google e marcas e logotipos relacionados säo marcas registradas da Google LLC. Todas as outras marcas comerciais pertencem a seus respectivos proprietários.
 Non sussiste alcuna affiliazione o sponsorizzazione fra Stadia e i produttori di controller o console non Stadia. STADIA, il logo Stadia, Google e i marchi e loghi connessi sono marchi di proprietà di Google LLC. Tutti gli altri marchi sono di proprietà dei rispettivi titolari.
 English
 en
