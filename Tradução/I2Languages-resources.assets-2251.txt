@@ -1898,8 +1898,8 @@ Ah! È chiuso.
 Level_03/Other/DOWN_ELEVATOR
 Down.
 Runter.
+Descente.
 Descendo.
-Bajando.
 Giù.
 Level_03/Other/ILL_GET_YOU_CURIEN
 I'll get you, Curien!
