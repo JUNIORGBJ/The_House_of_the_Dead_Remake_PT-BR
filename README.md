@@ -16,11 +16,14 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## :small_blue_diamond:Requerimentos
 
+- Obrigatório o Update 1 (v65536)
 - Nintendo Switch Debloqueado - SXOS ou ATMOSPHERE>
 
 ## :small_blue_diamond:Instalação
 
-Em Breve..
+- **SXOS:** Colar a pasta ```010088401495E000``` dentro de ```sxos/titles```  e iniciar o jogo normalmente.
+
+- **ATMOSPHERE:** Colar a pasta ```010088401495E000``` dentro de ```Atmosphere/Contents``` e iniciar o jogo normalmente.
 
 ## :small_blue_diamond:Ferramentas Ultilizadas
 
